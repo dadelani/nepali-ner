@@ -1,0 +1,5595 @@
+ne:दीपक	B-PER
+ne:राज	I-PER
+ne:गिरी	I-PER
+
+ne:'	O
+ne:''	O
+ne:कोफी	B-PER
+ne:अन्नान	I-PER
+ne:''	O
+ne:'	O
+
+ne:तिलगंगा	B-ORG
+ne:आँखा	I-ORG
+ne:अस्पताल	I-ORG
+
+ne:नेपाल	B-ORG
+ne:कम्युनिष्ट	I-ORG
+ne:पार्टी	I-ORG
+ne:(	I-ORG
+ne:एकीकृत	I-ORG
+ne:मार्क्सवादी-लेनिनवादी	I-ORG
+ne:)	I-ORG
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:बझाङ	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:[[इन्डोनेशियाको	O
+ne:जाभा	O
+ne:द्विपमा	O
+ne:चिया	B-ORG
+ne:रोपिदै	O
+ne:]]	O
+
+ne:अनुष्का	B-PER
+ne:शर्मा	I-PER
+ne:(	O
+ne:जगत	O
+ne:जननी	O
+ne:)	O
+
+ne:ऐश्वर्या	B-PER
+ne:राय	I-PER
+ne:बच्चन	I-PER
+
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:९१५	O
+ne:ई.पू	O
+ne:.	O
+
+ne:चन्द्र	B-PER
+ne:प्रकाश	I-PER
+ne:गजुरेल	I-PER
+
+ne:भारत	B-ORG
+ne:सञ्चार	I-ORG
+ne:निगम	I-ORG
+ne:लिमिटेड	I-ORG
+
+ne:२०२०	O
+ne:/	O
+ne:२१	O
+ne:)	O
+ne:इन्द्रबहादुर	B-PER
+ne:राई	I-PER
+ne:,	O
+ne:बैरागी	B-PER
+ne:काइँला	I-PER
+ne:,	O
+ne:ईश्वरबल्लभ	B-PER
+ne:।	O
+
+ne:युगान्डा	B-ORG
+ne:राष्ट्रिय	I-ORG
+ne:क्रिकेट	I-ORG
+ne:टिम	I-ORG
+
+ne:नेपाल	B-ORG
+ne:ससस्त्र	I-ORG
+ne:प्रहरी	I-ORG
+ne:बल	I-ORG
+
+ne:'	O
+ne:''	O
+ne:अस्रङ	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:,	O
+ne:गण्डकी	B-LOC
+ne:अञ्चलको	I-LOC
+ne:गोरखा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:पर्ने	O
+ne:एउटा	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो।	O
+
+ne:एडभार्ड	B-PER
+ne:मोजर	I-PER
+ne:(	O
+ne:नोर्वे	O
+ne:)	O
+
+ne:अर्थ	B-ORG
+ne:मन्त्रालयका	I-ORG
+ne:प्रमुख	O
+ne:आर्थिक	O
+ne:सल्लाहकार	O
+
+ne:बोमन	B-PER
+ne:इरानी	I-PER
+ne:समाचार	O
+ne:चैनलको	O
+ne:प्रमुख	O
+
+ne:बिन्ध्यवासिनी	B-LOC
+ne:,	I-LOC
+ne:दैलेख	I-LOC
+
+ne:कृषि	B-ORG
+ne:तथा	I-ORG
+ne:पशु	I-ORG
+ne:विज्ञान	I-ORG
+ne:अध्ययन	I-ORG
+ne:संस्थान	I-ORG
+
+ne:'	O
+ne:''	O
+ne:चन्द्रनगर	O
+ne:''	O
+ne:'	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:चन्द्र	B-PER
+ne:प्रकाश	I-PER
+ne:गजुरेल	I-PER
+
+ne:रामचन्द्र	B-PER
+ne:पौडेल	I-PER
+ne:शान्ति	O
+ne:तथा	O
+ne:पुनर्निमाण	O
+
+ne:'	O
+ne:''	O
+ne:सुशील	B-PER
+ne:कोइराला	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१९३९-२०१६	O
+ne:)	O
+
+ne:भेनेजुएला	B-ORG
+ne:कम्युनिष्ट	I-ORG
+ne:पार्टी	I-ORG
+
+ne:पहिलो	O
+ne:बटालियन	O
+ne:,	O
+ne:सिख	B-ORG
+ne:रेजिमेन्ट	I-ORG
+
+ne:'	O
+ne:''	O
+ne:सुनकुडा	O
+ne:''	O
+ne:'	O
+ne:बझाङ	B-LOC
+ne:जिल्लाको	I-LOC
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:कुवेर	B-PER
+ne:सिंह	I-PER
+ne:राना	I-PER
+ne:(	O
+ne:२०६९	O
+ne:भाद्र	O
+ne:-	O
+ne:०७०	O
+ne:कात्तिक	O
+ne:)	O
+
+ne:गिरिजा	B-PER
+ne:प्रसाद	I-PER
+ne:कोइराला	I-PER
+
+ne:मणिपुर	B-LOC
+ne:(	O
+ne:इम्फाल	B-LOC
+ne:)	O
+
+ne:स्टेट	B-ORG
+ne:बैंक	I-ORG
+ne:अफ	I-ORG
+ne:हैदराबाद	I-ORG
+
+ne:काभ्रे	B-LOC
+ne:,	I-LOC
+ne:दाङ	I-LOC
+
+ne:संयुक्त	B-LOC
+ne:राज्य	I-LOC
+ne:अमेरिकामा	I-LOC
+ne:पर्ने	O
+ne:एक	O
+ne:राज्य।	O
+
+ne:चौधौं	B-PER
+ne:दलाई	I-PER
+ne:लामा	I-PER
+
+ne:मध्य	B-LOC
+ne:प्रदेश	I-LOC
+ne:(	O
+ne:भोपाल	B-LOC
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:को	O
+ne:जन्म	O
+ne:सुदूरपश्चिम	B-LOC
+ne:नेपालको	B-LOC
+ne:अछाम	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो	O
+ne:।	O
+
+ne:अध्यक्ष	O
+ne:सुर्वणसम्शेर	B-PER
+ne:ज.ब.रा	I-PER
+ne:.	I-PER
+ne:-	O
+ne:अर्थ	O
+ne:तथा	O
+ne:योजनासम्बन्धी	O
+
+ne:नेपाल	B-ORG
+ne:चार्टर्ड	I-ORG
+ne:एकाउन्टेन्ट्स	I-ORG
+ne:संस्था	I-ORG
+
+ne:खे	O
+ne:(	O
+ne:स्पेन	B-LOC
+ne:)	O
+ne:,	O
+ne:हे	O
+ne:(	O
+ne:दक्षिण	B-LOC
+ne:अमेरिका	I-LOC
+ne:)	O
+
+ne:•	O
+ne:पाटन	B-ORG
+ne:अस्पताल	I-ORG
+ne:पाटन	B-LOC
+ne:ललितपुर	B-LOC
+
+ne:'	O
+ne:''	O
+ne:रामवरण	B-PER
+ne:यादव	I-PER
+ne:''	O
+ne:'	O
+
+ne:राजा	O
+ne:विक्रमादित्यका	B-ORG
+ne:दाजु	O
+ne:भर्तृहरिको	O
+ne:जीवनसंग	O
+ne:जोडिएको	O
+ne:घटना	O
+ne:प्रेम	O
+ne:र	O
+ne:संन्यासको	O
+ne:उत्कृष्ट	O
+ne:कथाहरु	O
+ne:मध्येको	O
+ne:एक	O
+ne:हो	O
+ne:।	O
+ne:अमरफलको	O
+ne:एक	O
+ne:कथामा	O
+ne:राजाले	O
+ne:रानीसंग	O
+ne:,	O
+ne:रानीले	O
+ne:सेनापतिसंग	O
+ne:,	O
+ne:सेनापतिले	O
+ne:गणिकासंग	O
+ne:गणिकाले	O
+ne:राजासंग	O
+ne:प्रेम	O
+ne:गरेका	O
+ne:गोलचक्करलाई	O
+ne:कथात्मक	O
+ne:रुपमा	O
+ne:बताइएको	O
+ne:छ	O
+ne:।	O
+ne:कुनै	O
+ne:कथामा	O
+ne:पिंगलालाई	O
+ne:पतिव्रता	O
+ne:बताइएको	O
+ne:छ	O
+ne:।	O
+ne:रानीको	O
+ne:प्रेम	O
+ne:जांच	O
+ne:गर्न	O
+ne:भर्तृहरिले	O
+ne:शिकार	O
+ne:खेल्दा	O
+ne:मृत्यु	O
+ne:भएको	O
+ne:मृत्युको	O
+ne:झुटो	O
+ne:खबर	O
+ne:दरबार	O
+ne:पठाएको	O
+ne:,	O
+ne:यो	O
+ne:खबर	O
+ne:सुन्नासाथ	O
+ne:पिंगलाले	O
+ne:प्राण	O
+ne:त्याग	O
+ne:गरेको	O
+ne:र	O
+ne:यस	O
+ne:दुखद	O
+ne:घटनाबाट	O
+ne:विरक्त	O
+ne:भएर	O
+ne:राजाले	O
+ne:संन्यास	O
+ne:लिएको	O
+ne:अर्को	O
+ne:कथा	O
+ne:पनि	O
+ne:प्रचलित	O
+ne:छ	O
+ne:।	O
+ne:यस	O
+ne:बाहेकका	O
+ne:केही	O
+ne:अन्य	O
+ne:फरक	O
+ne:कथाहरु	O
+ne:पनि	O
+ne:छन्	O
+ne:तर	O
+ne:प्रत्येक	O
+ne:कथा	O
+ne:रोचक	O
+ne:छ	O
+ne:।	O
+
+ne:रविन्द्र	B-ORG
+ne:भारती	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:साँचो	B-ORG
+ne:येशु	I-ORG
+ne:गिर्जाघर	I-ORG
+
+ne:किरण	B-PER
+ne:खेर	I-PER
+ne:...	O
+ne:बेला	O
+ne:मखीजा	O
+
+ne:गयाना	B-ORG
+ne:लोकतान्त्रिक	I-ORG
+ne:पार्टी	I-ORG
+
+ne:बुटवल	B-LOC
+ne:उपमहानगरपालिका	I-LOC
+ne:,	O
+ne:सिद्धार्थनगर	B-LOC
+ne:नगरपालिका	I-LOC
+
+ne:नेपाली	B-ORG
+ne:कांग्रेस	I-ORG
+ne:२२६९८८३	O
+ne:मत	O
+
+ne:मंगल	B-PER
+ne:पांडे	I-PER
+ne:(	I-PER
+ne:क्रान्तिकारी	I-PER
+ne:)	I-PER
+
+ne:कृषि	B-ORG
+ne:तथा	I-ORG
+ne:वन	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:'	O
+ne:''	O
+ne:लोकेन्द्र	B-PER
+ne:बहादुर	I-PER
+ne:चन्द	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:४	O
+ne:/	O
+ne:४	O
+ne:)	O
+ne:(	O
+ne:१९४०-	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:रोनाल्डो	B-PER
+ne:''	O
+ne:'	O
+
+ne:'	O
+ne:''	O
+ne:अजिंक्य	B-PER
+ne:रहाने	I-PER
+ne:''	O
+ne:'	O
+
+ne:अस्ट्रेलिया]]	O
+ne:र	O
+ne:संयुक्त	B-LOC
+ne:राज्य	I-LOC
+ne:अमेरिका	I-LOC
+
+ne:'	O
+ne:''	O
+ne:रङ्गनाथ	B-PER
+ne:पौडेल	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:२	O
+ne:/	O
+ne:२	O
+ne:)	O
+ne:(	O
+ne:१७७३-	O
+ne:?	O
+ne:)	O
+
+ne:ऋषिकेश	B-LOC
+ne:-	O
+ne:६७	O
+ne:किमी	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:डोटी	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:'	O
+ne:''	O
+ne:खुटौना	O
+ne:''	O
+ne:'	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:२०४३	O
+ne:सालको	O
+ne:मदन	B-ORG
+ne:पुरस्कार	I-ORG
+ne:पाइसकेको	O
+ne:छ	O
+ne:।	O
+
+ne:वेस्ट	B-ORG
+ne:इन्डिज	I-ORG
+ne:राष्ट्रिय	I-ORG
+ne:क्रिकेट	I-ORG
+ne:टिम	I-ORG
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:अछाम	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:'	O
+ne:''	O
+ne:रङ्गनाथ	B-PER
+ne:पौडेल	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१	O
+ne:/	O
+ne:२	O
+ne:)	O
+ne:(	O
+ne:१७७३–	O
+ne:?	O
+ne:)	O
+
+ne:ब्रिटिश	B-ORG
+ne:इस्ट	I-ORG
+ne:इन्डिया	I-ORG
+ne:कम्पनी	I-ORG
+
+ne:इफेससको	B-ORG
+ne:आर्टेमिसको	I-ORG
+ne:मन्दिर	I-ORG
+ne:(	O
+ne:Temple	O
+ne:of	O
+ne:Artemis	O
+ne:at	O
+ne:Ephesus	O
+ne:)	O
+
+ne:नमस्ते-निबन्ध	B-ORG
+ne:संग्रह-वि.स.२०४४	O
+ne:१००	O
+ne:जमर्काहरू-निबन्ध	O
+ne:संग्रह-वि.स.२०२५	O
+
+ne:गिरिजा	B-PER
+ne:प्रसाद	I-PER
+ne:कोइराला	I-PER
+
+ne:'	O
+ne:''	O
+ne:फोक्सिङकोट	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:लुम्बिनी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:पाल्पा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:भारतीय	B-ORG
+ne:सूचना-प्रविधि	I-ORG
+ne:एवं	I-ORG
+ne:व्यवस्थापन	I-ORG
+ne:संस्थान	I-ORG
+ne:(	I-ORG
+ne:ABV	I-ORG
+ne:)	I-ORG
+
+ne:रोबिन	B-PER
+ne:भान	I-PER
+ne:पर्सी	I-PER
+
+ne:८९८	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:'	O
+ne:''	O
+ne:अक्षर	B-PER
+ne:पटेल	I-PER
+ne:''	O
+ne:'	O
+
+ne:१९०३	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरूलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:गुजरात	B-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:अहमदाबाद	B-LOC
+
+ne:अवस्थितिः	O
+ne:धनकुटा	B-LOC
+ne:नगरपालिका	I-LOC
+ne:वडा	O
+ne:नम्बर	O
+ne:६।	O
+
+ne:यस	O
+ne:दिन	O
+ne:शहीद	O
+ne:धर्मभक्त	B-PER
+ne:माथेमा	I-PER
+ne:,	O
+ne:दशरथ	B-PER
+ne:चन्द	I-PER
+ne:,	O
+ne:गंगालाल	B-PER
+ne:श्रेष्ठ	I-PER
+ne:र	O
+ne:शुक्रराज	B-PER
+ne:शास्त्री	I-PER
+ne:लगायतका	O
+ne:शहीद	O
+ne:हरूको	O
+ne:सम्झना	O
+ne:गरिन्छ।	O
+
+ne:'	O
+ne:''	O
+ne:तुल्सी	B-PER
+ne:गिरी	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:३	O
+ne:/	O
+ne:३	O
+ne:)	O
+ne:(	O
+ne:१९२६-	O
+ne:)	O
+
+ne:*१९७६	O
+ne:नेपाल	B-ORG
+ne:कम्युनिष्ट	I-ORG
+ne:पार्टी	I-ORG
+ne:(	I-ORG
+ne:मार्क्सवादी-लेनिनवादी	I-ORG
+ne:)	I-ORG
+ne:को	I-ORG
+ne:स्थापना	O
+ne:।	O
+
+ne:इसाई	B-ORG
+ne:प्रजातान्त्रिक	I-ORG
+ne:दल	I-ORG
+ne:(	I-ORG
+ne:चिले	I-ORG
+ne:)	I-ORG
+
+ne:पाताले	B-LOC
+ne:छाँगो	I-LOC
+ne:(	O
+ne:डेभिज	O
+ne:फल	O
+ne:)	O
+
+ne:७०३	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:प्रसिद्ध	O
+ne:चाँगुनारायण	B-ORG
+ne:मन्दिर	I-ORG
+ne:यस	O
+ne:गाविसमा	O
+ne:पर्छ।	O
+
+ne:डा.	B-PER
+ne:तुलसी	I-PER
+ne:गिरी	I-PER
+ne:-	O
+ne:उपाध्यक्ष	O
+ne:,	O
+ne:मन्त्री-परिषद्	O
+ne:तथा	O
+ne:राजदरबारसम्बन्धी	O
+
+ne:[[भारतको	O
+ne:पश्चिम	B-LOC
+ne:बंगालमा	I-LOC
+ne:पाइएको	O
+ne:चखेवा]]	O
+
+ne:पञ्जाब	B-LOC
+ne:(	I-LOC
+ne:भारत	I-LOC
+ne:)	I-LOC
+
+ne:'	O
+ne:''	O
+ne:बैदी	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:गण्डकी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:तनहुँ	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:गिजाको	B-ORG
+ne:विशाल	I-ORG
+ne:पिरामिड	I-ORG
+ne:(	O
+ne:मानार्थ	O
+ne:)	O
+
+ne:विश्व	B-ORG
+ne:जनसंख्या	I-ORG
+ne:फाउण्डेशन	I-ORG
+
+ne:'	O
+ne:''	O
+ne:यम्घा	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:लुम्बिनी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:पाल्पा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:चन्द्रगढी	B-LOC
+ne:गाविसको	O
+ne:वडा	O
+ne:नं	O
+ne:.	O
+
+ne:शिवालय	B-LOC
+ne:,	I-LOC
+ne:पर्वत	I-LOC
+
+ne:यस	O
+ne:कोशको	O
+ne:रचना	O
+ne:राजा	O
+ne:विक्रमादित्यको	B-ORG
+ne:पालामा	O
+ne:भएो	O
+ne:मानिन्छ	O
+ne:।	O
+
+ne:'	O
+ne:''	O
+ne:ट्रेग्भी	B-PER
+ne:लाई	I-PER
+ne:''	O
+ne:'	O
+
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:९०८	O
+ne:ई.पू	O
+ne:.	O
+
+ne:सुर्वण	B-PER
+ne:सम्शेर	I-PER
+ne:ज.ब.रा	I-PER
+ne:.	I-PER
+ne:-	O
+ne:अर्थ	O
+ne:मन्त्री	O
+
+ne:थोमस	B-PER
+ne:एल्वा	I-PER
+ne:एडिसन	I-PER
+
+ne:सगरमाथा	B-LOC
+ne:(	O
+ne:८८४८	O
+ne:m	O
+ne:)	O
+ne:,	O
+ne:के२	B-LOC
+ne:(	O
+ne:८६११	O
+ne:m	O
+ne:)	O
+ne:र	O
+ne:कञ्चनजङ्घा	B-LOC
+ne:(	O
+ne:८५८६	O
+ne:m	O
+ne:)	O
+ne:समेत	O
+ne:विश्वकै	B-ORG
+ne:सर्वोच्च	O
+ne:शिखरहरू	B-LOC
+ne:हिमालयमै	O
+ne:अवस्थित	O
+ne:छन।	O
+
+ne:एरोन	B-PER
+ne:फिन्च	I-PER
+ne:-	O
+ne:६७*	O
+ne:(	O
+ne:५४	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:प्रधानमन्त्री	B-PER
+ne:''	O
+ne:'	O
+
+ne:सिंहासैन	B-LOC
+ne:गा.वि.स	I-LOC
+ne:.	I-LOC
+
+ne:पोर्टो	B-LOC
+ne:प्रिन्सिस	I-LOC
+ne:भूमिगत	I-LOC
+ne:नदी	I-LOC
+ne:राष्ट्रिय	I-LOC
+ne:निकुञ्ज	I-LOC
+
+ne:धरमपानी	B-LOC
+ne:,	I-LOC
+ne:प्युठान	I-LOC
+
+ne:सदरमुकाम	O
+ne:दैलेख	B-LOC
+ne:बजारको	I-LOC
+ne:नजीकै	O
+ne:पर्छ।	O
+
+ne:अन्तर्राष्ट्रिय	B-ORG
+ne:नागरिक	I-ORG
+ne:उड्डयन	I-ORG
+ne:सङ्गठन	I-ORG
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:डोटी	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:'	O
+ne:''	O
+ne:किसनपुर	O
+ne:''	O
+ne:'	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:(	O
+ne:१	O
+ne:)	O
+ne:भागलपुर	B-LOC
+ne:जिल्ला	I-LOC
+
+ne:२०२०	O
+ne:साल	O
+ne:साउन	O
+ne:५	O
+ne:गते	O
+ne:काभ्रेपलाञ्चोकको	B-ORG
+ne:ज्याम्दीमा	O
+ne:भएको	O
+ne:हो।	O
+ne:उनका	O
+ne:पिता	O
+ne:होमनाथ	O
+ne:र	O
+ne:माता	O
+ne:यदुकुमारी	O
+ne:हुन्।	O
+
+ne:अन्तर्राष्ट्रिय	B-ORG
+ne:नागरिक	I-ORG
+ne:उड्डयन	I-ORG
+ne:सङ्गठन	I-ORG
+
+ne:सरदार	B-PER
+ne:भक्ति	I-PER
+ne:थापा	I-PER
+
+ne:चौथो	O
+ne:बटालियन	O
+ne:,	O
+ne:कुमाउ	B-ORG
+ne:रेजिमेन्ट	I-ORG
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:डोटी	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:==	O
+ne:'	O
+ne:''	O
+ne:ताजमहल	B-ORG
+ne:''	O
+ne:'	O
+ne:==	O
+
+ne:२००९	O
+ne:साउनमा	O
+ne:कुशादेवी	O
+ne:,	O
+ne:काभ्रेपलाञ्चोकमा	B-ORG
+ne:भएको	O
+ne:हो।	O
+ne:उनले	O
+ne:बी.कम्	O
+ne:.	O
+
+ne:८४४	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:नेपाली	B-ORG
+ne:सैनिक	I-ORG
+ne:विमान	I-ORG
+ne:सेवा	I-ORG
+
+ne:तमिलनाडु	B-ORG
+ne:खुल्ला	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:'	O
+ne:''	O
+ne:गिरिजा	B-PER
+ne:प्रसाद	I-PER
+ne:कोइराला	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:३	O
+ne:/	O
+ne:५	O
+ne:)	O
+ne:(	O
+ne:१९२५-२०१०	O
+ne:)	O
+
+ne:सौडियार	B-LOC
+ne:,	I-LOC
+ne:दाङ	I-LOC
+
+ne:नारायणपुर	B-LOC
+ne:,	I-LOC
+ne:दाङ	I-LOC
+
+ne:'	O
+ne:''	O
+ne:सुदामा	O
+ne:''	O
+ne:'	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:उरहरी	B-LOC
+ne:,	I-LOC
+ne:दाङ	I-LOC
+
+ne:स्टेट	B-ORG
+ne:बैंक	I-ORG
+ne:अफ	I-ORG
+ne:मैसूर	I-ORG
+
+ne:पहारपुरमा	B-LOC
+ne:रहेका	I-LOC
+ne:बौद्ध	I-LOC
+ne:विहारका	I-LOC
+ne:अवशेषहरू	I-LOC
+
+ne:संयुक्त	B-LOC
+ne:राज्य	I-LOC
+ne:अमेरिकामा	I-LOC
+ne:पर्ने	O
+ne:एक	O
+ne:राज्य।	O
+
+ne:संयुक्त	B-LOC
+ne:राज्य	I-LOC
+ne:अमेरिकामा	I-LOC
+ne:पर्ने	O
+ne:एक	O
+ne:राज्य।	O
+
+ne:अर्थ	B-ORG
+ne:मन्त्रालय	I-ORG
+ne:(	I-ORG
+ne:नेपाल	I-ORG
+ne:)	I-ORG
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:दार्चुला	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:केशर	B-PER
+ne:सम्शेर	I-PER
+ne:राणा	I-PER
+
+ne:गिरिजा	B-PER
+ne:प्रसाद	I-PER
+ne:कोइराला	I-PER
+
+ne:९७७	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरूलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:स्थिति	O
+ne:नयाँ	B-LOC
+ne:दिल्ली	I-LOC
+ne:,	O
+ne:भारत	B-LOC
+
+ne:इङ्ल्यान्ड	B-ORG
+ne:राष्ट्रिय	I-ORG
+ne:फुटबल	I-ORG
+ne:टिम	I-ORG
+
+ne:'	O
+ne:''	O
+ne:कोइरालाकोट	O
+ne:''	O
+ne:'	O
+ne:बझाङ	B-LOC
+ne:जिल्लाको	I-LOC
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:नेपाल	B-ORG
+ne:कम्युनिष्ट	I-ORG
+ne:पार्टी	I-ORG
+ne:(	I-ORG
+ne:एकीकृत	I-ORG
+ne:मार्क्सवादी-लेनिनवादी	I-ORG
+ne:)	I-ORG
+
+ne:आयरल्यान्ड	B-ORG
+ne:राष्ट्रिय	I-ORG
+ne:क्रिकेट	I-ORG
+ne:टिम	I-ORG
+
+ne:'	O
+ne:''	O
+ne:ढुंगेसांघु	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:मेची	B-ORG
+ne:अञ्चलको	I-ORG
+ne:ताप्लेजुङ	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो।	O
+
+ne:तिलक	B-ORG
+ne:महाराष्ट्र	I-ORG
+ne:विद्यापीठ	I-ORG
+ne:,	I-ORG
+ne:पुणे	B-LOC
+
+ne:आर्सनल	B-ORG
+ne:फुटबल	I-ORG
+ne:क्लब	I-ORG
+
+ne:टरिगाँउ	B-LOC
+ne:,	I-LOC
+ne:दाङ	I-LOC
+
+ne:पूर्वाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+
+ne:नेपाल	B-ORG
+ne:एसविआई	I-ORG
+ne:बैंक	I-ORG
+ne:लिमिटेड	I-ORG
+
+ne:भारतीय	B-ORG
+ne:व्यवस्थापन	I-ORG
+ne:संस्थान	I-ORG
+ne:,	I-ORG
+ne:कोझीकोड	I-ORG
+
+ne:वीरेन्द्र	B-PER
+ne:वीर	I-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+
+ne:US	O
+ne:संयुक्त	B-LOC
+ne:राज्य	I-LOC
+ne:अमेरिका	I-LOC
+
+ne:यस	O
+ne:समूहमा	O
+ne:सितारवादक	B-ORG
+ne:डा	O
+ne:.	O
+
+ne:नेपाल	B-ORG
+ne:सशस्त्र	I-ORG
+ne:प्रहरी	I-ORG
+ne:बल	I-ORG
+
+ne:यो	O
+ne:दल	O
+ne:समाजवादी	B-ORG
+ne:इन्टरनेसनलसँग	I-ORG
+ne:आबद्ध	O
+ne:छ।	O
+
+ne:८६४	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:चण्डेश्वरी	B-ORG
+ne:मन्दिर	I-ORG
+ne:(	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:लुइस	B-PER
+ne:फिगो	I-PER
+ne:''	O
+ne:'	O
+
+ne:यो	O
+ne:दल	O
+ne:समाजवादी	B-ORG
+ne:इन्टरनेसनलसँग	I-ORG
+ne:आबद्ध	O
+ne:छ।	O
+
+ne:'	O
+ne:''	O
+ne:अर्जेन्टीना	B-LOC
+ne:''	O
+ne:'	O
+
+ne:हिउस्टन	B-ORG
+ne:स्वतन्त्र	I-ORG
+ne:विद्यालय	I-ORG
+ne:क्षेत्र	I-ORG
+
+ne:८४८	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:विश्व	B-ORG
+ne:बैंकको	I-ORG
+ne:स्कुल	O
+ne:सपोर्ट	O
+ne:कार्यक्रमको	O
+ne:संयोजक	O
+
+ne:अनन्त	B-ORG
+ne:बाँदर	I-ORG
+ne:साध्य	I-ORG
+
+ne:युवाहरूको	B-ORG
+ne:एउटै	I-ORG
+ne:विश्व	I-ORG
+
+ne:मूलपानी	B-LOC
+ne:,	I-LOC
+ne:धादिङ	I-LOC
+
+ne:अण्डमान	B-LOC
+ne:र	I-LOC
+ne:निकोबार	I-LOC
+ne:द्वीप	I-LOC
+ne:समूह	I-LOC
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:दार्चुला	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:'	O
+ne:''	O
+ne:द्वारका	B-ORG
+ne:''	O
+ne:'	O
+
+ne:ओसामा	B-PER
+ne:बिन	I-PER
+ne:लादेन	I-PER
+
+ne:'	O
+ne:''	O
+ne:मूल	O
+ne:लेख	O
+ne:राष्ट्रिय	B-ORG
+ne:समाचार	I-ORG
+ne:समिति	I-ORG
+ne:''	O
+ne:'	O
+
+ne:शेर-ए-कश्मीर	B-ORG
+ne:कृषि	I-ORG
+ne:विज्ञान	I-ORG
+ne:एवं	I-ORG
+ne:जम्मू	I-ORG
+ne:प्रौद्योगिकी	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:संयुक्त	B-ORG
+ne:राष्ट्र	I-ORG
+ne:औद्योगिक	I-ORG
+ne:विकास	I-ORG
+ne:संगठन	I-ORG
+
+ne:ड्वेन	B-PER
+ne:जोनसन	I-PER
+ne:‘रक’	I-PER
+
+ne:लुइँचे	B-LOC
+ne:(	O
+ne:''Gallus	O
+ne:gallus	O
+ne:''	O
+ne:)	O
+
+ne:जवाहरलाल	B-LOC
+ne:नेहरू	I-LOC
+ne:रंगशाला	I-LOC
+ne:,	I-LOC
+ne:दिल्ली	I-LOC
+
+ne:भोजपुर	B-LOC
+ne:जिल्ला	I-LOC
+ne:(	I-LOC
+ne:नेपाल	I-LOC
+ne:)	I-LOC
+
+ne:'	O
+ne:''	O
+ne:गिरिजा	B-PER
+ne:प्रसाद	I-PER
+ne:कोइराला	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१	O
+ne:/	O
+ne:५	O
+ne:)	O
+ne:(	O
+ne:१९२५-२०१०	O
+ne:)	O
+
+ne:७५०	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:म्यानचेस्टर	B-ORG
+ne:सिटी	I-ORG
+ne:फुटबल	I-ORG
+ne:क्लब	I-ORG
+
+ne:स्त्रुभे	B-ORG
+ne:जियोडेटिक	I-ORG
+ne:आर्क	I-ORG
+
+ne:गुयना	B-LOC
+ne:(	O
+ne:४	O
+ne:लाख	O
+ne:)	O
+ne:,	O
+
+ne:भारतीय	B-ORG
+ne:व्यवस्थापन	I-ORG
+ne:संस्थान	I-ORG
+ne:,	I-ORG
+ne:अहमदाबाद	I-ORG
+
+ne:झेनाम	B-LOC
+ne:,	I-LOC
+ne:रोल्पा	I-LOC
+
+ne:बम	B-ORG
+ne:र	I-ORG
+ne:उसको	I-ORG
+ne:सांस्कृतिक	I-ORG
+ne:परिदृश्य	I-ORG
+
+ne:भगवान	O
+ne:गौतम	B-PER
+ne:बुद्धले	I-PER
+ne:निर्वाण	O
+ne:प्राप्त	O
+ne:गरेको	O
+ne:ठाउँ।	O
+
+ne:नेपालका	B-ORG
+ne:विकास	I-ORG
+ne:क्षेत्रहरू	I-ORG
+
+ne:**	O
+ne:''	O
+ne:मलेसियाका	B-ORG
+ne:विश्व	I-ORG
+ne:सम्पदा	I-ORG
+ne:क्षेत्रहरूको	I-ORG
+ne:सूची	I-ORG
+ne:''	O
+
+ne:'	O
+ne:''	O
+ne:रियल	B-ORG
+ne:म्याड्रिड	I-ORG
+ne:''	O
+ne:'	O
+
+ne:'	O
+ne:''	O
+ne:तनहुँसुर	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:गण्डकी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:तनहुँ	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:९१५	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:;	O
+ne:दक्षिण	B-ORG
+ne:अमेरिकी	I-ORG
+ne:फुटबल	I-ORG
+ne:संघ	I-ORG
+ne:(	I-ORG
+ne:CONMEBOL	I-ORG
+ne:)	I-ORG
+ne:(	O
+ne:६	O
+ne:)	O
+
+ne:हरिपुर	B-LOC
+ne:सप्तरी	B-LOC
+ne:जिल्लाको	I-LOC
+ne:एक	O
+ne:शहर।	O
+
+ne:ढोरपाटन	B-ORG
+ne:शिकार	I-ORG
+ne:आरक्ष	I-ORG
+
+ne:'	O
+ne:''	O
+ne:बेला	O
+ne:''	O
+ne:'	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:''	O
+ne:बैतडी	B-LOC
+ne:जिल्ला	I-LOC
+ne:''	O
+
+ne:१।	O
+ne:पाइलट	O
+ne:–	O
+ne:रक्षा	B-PER
+ne:राणा	I-PER
+
+ne:थोमस	B-PER
+ne:एल्वा	I-PER
+ne:एडिसन	I-PER
+
+ne:'	O
+ne:''	O
+ne:रोबिन	B-PER
+ne:उथप्पा	I-PER
+ne:''	O
+ne:'	O
+
+ne:तिमीहरू	O
+ne:(	O
+ne:अनौपचारिक	O
+ne:)	O
+ne:(	O
+ne:स्त्रीलिङ्ग	O
+ne:)	O
+ne:(	O
+ne:स्पेनमा	B-LOC
+ne:मात्र	O
+ne:)	O
+
+ne:ब्रिटिश	B-ORG
+ne:इस्ट	I-ORG
+ne:इन्डिया	I-ORG
+ne:कम्पनी	I-ORG
+
+ne:संयुक्त	B-LOC
+ne:राज्य	I-LOC
+ne:अमेरिकामा	I-LOC
+ne:पर्ने	O
+ne:एक	O
+ne:राज्य।	O
+
+ne:शिवपुरी	B-ORG
+ne:नागार्जुन	I-ORG
+ne:राष्ट्रिय	I-ORG
+ne:निकुञ्ज	I-ORG
+
+ne:धिमाल	B-LOC
+ne:गाविस	I-LOC
+ne:मकवानपुर	B-LOC
+ne:जिल्लाको	I-LOC
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:पूर्व	B-LOC
+ne:सिक्किम	I-LOC
+ne:जिल्ला	I-LOC
+
+ne:'	O
+ne:''	O
+ne:दीपेन्द्र	B-PER
+ne:वीर	I-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+ne:''	O
+ne:'	O
+
+ne:काकतीय	B-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	O
+ne:वारंगल	B-LOC
+
+ne:)	O
+ne:,	O
+ne:प्लेटो	B-PER
+ne:(	O
+ne:४२८–३४८	O
+ne:वि.पू	O
+ne:.	O
+
+ne:असम	B-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:सिलचर	B-LOC
+
+ne:कृष्णनगर	B-LOC
+ne:नगरपालिका	I-LOC
+ne:,	O
+ne:शिवराज	B-LOC
+ne:नगरपालिका	I-LOC
+
+ne:लोकेन्द्रबहादुर	B-PER
+ne:चन्द	I-PER
+ne:-	I-PER
+ne:प्रधानमन्त्री	I-PER
+
+ne:अण्डमान	B-LOC
+ne:र	I-LOC
+ne:निकोबार	I-LOC
+ne:द्वीप	I-LOC
+ne:समूह	I-LOC
+
+ne:डा.	B-PER
+ne:राम	I-PER
+ne:वरण	I-PER
+ne:यादव	I-PER
+
+ne:पनिर	B-ORG
+ne:सय	O
+ne:ग्राम	O
+ne:सानो	O
+ne:टुक्रा	O
+ne:पारेको	O
+
+ne:बेलायतबाट	B-LOC
+ne:फर्केपछि	O
+ne:भने	O
+ne:बि	O
+ne:.	O
+
+ne:२०४०	O
+ne:सालमा	O
+ne:मदन	B-ORG
+ne:पुरस्कार	I-ORG
+ne:पाएका	O
+ne:हुन्	O
+ne:।	O
+
+ne:उनीले	O
+ne:आफ्नु	O
+ne:बाल्यकाल	O
+ne:काठमाडौं	B-LOC
+ne:,	O
+ne:नेपालमा	B-LOC
+ne:बिताएकी	O
+ne:थिइन्।	O
+
+ne:दिपायल	B-LOC
+ne:सिलगढी	I-LOC
+ne:नगरपालिका	I-LOC
+
+ne:अन्तर्राष्ट्रिय	B-ORG
+ne:क्रिकेट	I-ORG
+ne:परिषद	I-ORG
+
+ne:'	O
+ne:''	O
+ne:रियल	B-ORG
+ne:म्याड्रिड	I-ORG
+ne:''	O
+ne:'	O
+
+ne:बम	B-ORG
+ne:र	I-ORG
+ne:उसको	I-ORG
+ne:सांस्कृतिक	I-ORG
+ne:परिदृश्य	I-ORG
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:दार्चुला	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:नेपाल	B-ORG
+ne:ससस्त्र	I-ORG
+ne:प्रहरी	I-ORG
+ne:बल	I-ORG
+
+ne:गोरखकाली	B-LOC
+ne:,	I-LOC
+ne:गोर्खा	I-LOC
+
+ne:भुवन	B-PER
+ne:केसी	I-PER
+ne:,	O
+ne:करिश्मा	B-PER
+ne:मानन्धर	I-PER
+
+ne:देश	B-ORG
+ne:भगत	I-ORG
+ne:इन्जिनियरिङ	I-ORG
+ne:एवं	I-ORG
+ne:व्यवस्थापन	I-ORG
+ne:संस्थान	I-ORG
+ne:,	I-ORG
+ne:मोगा	I-ORG
+ne:(	I-ORG
+ne:DBIEM	I-ORG
+ne:)	I-ORG
+
+ne:गौरी	B-PER
+ne:मल्ल	I-PER
+ne:,	O
+ne:भुवन	B-PER
+ne:केसी	I-PER
+
+ne:गोपाल	B-PER
+ne:प्रसाद	I-PER
+ne:रिमाल	I-PER
+
+ne:तास	B-ORG
+ne:(	I-ORG
+ne:समाचार	I-ORG
+ne:संस्था	I-ORG
+ne:)	I-ORG
+
+ne:हिना	B-PER
+ne:रब्बानी	I-PER
+ne:खर	I-PER
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:डोटी	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:'	O
+ne:''	O
+ne:इशान्त	B-PER
+ne:शर्मा	I-PER
+ne:''	O
+ne:'	O
+
+ne:;	O
+ne:एसीसी	B-ORG
+ne:(	O
+ne:३	O
+ne:)	O
+
+ne:म्यानचेस्टर	B-ORG
+ne:युनाइटेड	I-ORG
+ne:फुटबल	I-ORG
+ne:क्लब	I-ORG
+
+ne:नेपाल	B-ORG
+ne:सुकुम्वासी	I-ORG
+ne:पार्टी	I-ORG
+ne:(	I-ORG
+ne:लोकतान्त्रिक	I-ORG
+ne:)	I-ORG
+
+ne:१६५५मा	O
+ne:ललितपुर	B-LOC
+ne:माथि	O
+ne:आक्रमण	O
+ne:गरे	O
+ne:र	O
+ne:त्यसलाई	O
+ne:आफ्नो	O
+ne:कब्जामा	O
+ne:लिए।	O
+ne:त्यसपछि	O
+ne:वि.सं	O
+ne:.	O
+
+ne:अखिल	B-ORG
+ne:नेपाल	I-ORG
+ne:राष्ट्रिय	I-ORG
+ne:स्वतन्त्र	I-ORG
+ne:विद्यार्थी	I-ORG
+ne:युनियन	I-ORG
+ne:(	I-ORG
+ne:क्रान्तिकारी	I-ORG
+ne:)	I-ORG
+
+ne:९	O
+ne:पर्दछ	O
+ne:।	O
+ne:महेन्द्र	B-ORG
+ne:राजमार्गबाट	I-ORG
+ne:लगभग	O
+ne:४÷५	O
+ne:कि.मि	O
+ne:.	O
+
+ne:दक्षिण	B-ORG
+ne:एशियाली	I-ORG
+ne:सहयोग	I-ORG
+ne:सङ्गठन	I-ORG
+
+ne:कृषि	B-ORG
+ne:तथा	I-ORG
+ne:वन	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:नेपाली	B-ORG
+ne:राष्ट्रिय	I-ORG
+ne:क्रिकेट	I-ORG
+ne:टिम	I-ORG
+
+ne:फिजी	B-LOC
+ne:(	O
+ne:५	O
+ne:लाख	O
+ne:)	O
+ne:,	O
+
+ne:'	O
+ne:''	O
+ne:प्रतापसिंह	B-PER
+ne:शाह	I-PER
+ne:''	O
+ne:'	O
+
+ne:थोमस	B-PER
+ne:एल्वा	I-PER
+ne:एडिसन	I-PER
+
+ne:दीपिका	B-PER
+ne:पादुकोण	I-PER
+ne:-	O
+ne:लीला	O
+
+ne:राजपुर	B-LOC
+ne:,	I-LOC
+ne:दाङ	I-LOC
+
+ne:रानीवन	B-LOC
+ne:,	I-LOC
+ne:दैलेख	I-LOC
+
+ne:छाप्रे	B-LOC
+ne:,	I-LOC
+ne:सुर्खेत	I-LOC
+
+ne:''गैरीमुदी	O
+ne:''	O
+ne:जनकपुर	B-ORG
+ne:अञ्चलको	I-ORG
+ne:दोलखा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:पर्ने	O
+ne:एक	O
+ne:गा.वि.स	B-LOC
+ne:.	I-LOC
+ne:हो।	O
+
+ne:;	O
+ne:एसीसी	B-ORG
+ne:(	O
+ne:३	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:डुममीया	O
+ne:''	O
+ne:'	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:संयुक्त	B-LOC
+ne:राज्य	I-LOC
+ne:अमेरिकामा	I-LOC
+ne:पर्ने	O
+ne:एक	O
+ne:राज्य।	O
+
+ne:'	O
+ne:''	O
+ne:गेहेन्द्र	B-PER
+ne:बहादुर	I-PER
+ne:राजभण्डारी	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:कार्यकारी	O
+ne:)	O
+ne:(	O
+ne:१९२३-	O
+ne:)	O
+
+ne:अल	B-ORG
+ne:इन्डिया	I-ORG
+ne:फर्वार्ड	I-ORG
+ne:ब्लक	I-ORG
+
+ne:भक्तपुर	B-LOC
+ne:दरवार	I-LOC
+ne:क्षेत्र	I-LOC
+
+ne:'	O
+ne:''	O
+ne:■	B-PER
+ne:दयाहाङ	I-PER
+ne:राई	I-PER
+ne:''	O
+ne:'	O
+
+ne:आर्सनल	B-ORG
+ne:फुटबल	I-ORG
+ne:क्लब	I-ORG
+
+ne:'	O
+ne:''	O
+ne:रविन्द्र	B-PER
+ne:जडेजा	I-PER
+ne:''	O
+ne:'	O
+
+ne:'	O
+ne:''	O
+ne:सेरेना	B-PER
+ne:विलियम्स	I-PER
+ne:'	O
+ne:''	O
+
+ne:गेओर्गि	B-PER
+ne:दिमित्रोभ	I-PER
+ne:मिखाईलोभ	I-PER
+
+ne:यो	O
+ne:दल	O
+ne:समाजवादी	B-ORG
+ne:इन्टरनेसनलसंग	I-ORG
+ne:आबद्ध	O
+ne:छ	O
+ne:।	O
+
+ne:वी.पी.	B-ORG
+ne:कोइराला	I-ORG
+ne:स्वास्थ्य	I-ORG
+ne:विज्ञान	I-ORG
+ne:प्रतिष्ठान	I-ORG
+
+ne:नेपाल	B-ORG
+ne:कम्युनिष्ट	I-ORG
+ne:पार्टी	I-ORG
+ne:(	I-ORG
+ne:एकीकृत	I-ORG
+ne:मार्क्सवादी-लेनिनवादी	I-ORG
+ne:)	I-ORG
+
+ne:;	O
+ne:उत्तर	B-ORG
+ne:,	I-ORG
+ne:मध्य	I-ORG
+ne:अमेरिका	I-ORG
+ne:र	I-ORG
+ne:कैरीबियन	I-ORG
+ne:फुटबल	I-ORG
+ne:संघ	I-ORG
+ne:(	I-ORG
+ne:CONCACAF	I-ORG
+ne:)	I-ORG
+ne:(	O
+ne:३	O
+ne:)	O
+
+ne:९५०	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरूलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:मोनोकिनी	B-PER
+ne:(	O
+ne:also	O
+ne:known	O
+ne:as	O
+ne:a	O
+ne:unikini	O
+ne:or	O
+ne:topless	O
+ne:swimsuit	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:माधवकुमार	B-PER
+ne:नेपाल	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१९५३-	O
+ne:)	O
+
+ne:धरमपानी	B-LOC
+ne:,	I-LOC
+ne:प्युठान	I-LOC
+
+ne:अल	B-ORG
+ne:इन्डिया	I-ORG
+ne:फर्वार्ड	I-ORG
+ne:ब्लक	I-ORG
+
+ne:२०२४	O
+ne:सालमा	O
+ne:मदन	B-ORG
+ne:पुरस्कार	I-ORG
+ne:पाएका	O
+ne:थिए।	O
+
+ne:शिव	B-PER
+ne:श्रेष्ठ	I-PER
+ne:राजेश	B-PER
+ne:हमाल	I-PER
+ne:,	O
+ne:जल	B-PER
+ne:शाह	I-PER
+
+ne:CF	O
+ne:मध्य	B-LOC
+ne:अफ्रिकी	I-LOC
+ne:गणतन्त्र	I-LOC
+
+ne:युभेन्टस	B-ORG
+ne:फुटबल	I-ORG
+ne:क्लब	I-ORG
+
+ne:'	O
+ne:''	O
+ne:हर्षाली	O
+ne:मल्होत्रा	O
+ne:''	O
+ne:'	O
+ne:(	O
+ne:;	O
+ne:जन्म	O
+ne:३	O
+ne:जून	O
+ne:२००८	O
+ne:)	O
+ne:उनी	O
+ne:हिन्दी	B-LOC
+ne:चलचित्र	I-LOC
+ne:क्षेत्रकी	O
+ne:प्रसिद्ध	O
+ne:बालकलाकार	O
+ne:हुन्	O
+ne:।	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:बाजुरा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:तिमीहरू	O
+ne:(	O
+ne:अनौपचारिक	O
+ne:)	O
+ne:(	O
+ne:पुलिङ्ग	O
+ne:)	O
+ne:(	O
+ne:स्पेनमा	B-LOC
+ne:मात्र	O
+ne:)	O
+
+ne:त्वष्टा	O
+ne:ऋषिले	O
+ne:घोर	O
+ne:यज्ञा	O
+ne:गरेका	O
+ne:कारण	O
+ne:यज्ञाको	O
+ne:प्रतापले	O
+ne:यज्ञाको	O
+ne:होम	O
+ne:कुण्डबाट	O
+ne:नै	O
+ne:वृतासुर	B-PER
+ne:नामको	O
+ne:दैत्यको	O
+ne:उत्पत्ती	O
+ne:भएको	O
+ne:थियो।	O
+ne:वृतासुरले	O
+ne:महर्षी	O
+ne:त्वष्टासँग	O
+ne:``	O
+ne:पिता	O
+ne:म	O
+ne:तपाईँको	O
+ne:के	O
+ne:सेवा	O
+ne:गरौँ	O
+ne:?	O
+
+ne:युनेस्को	B-ORG
+ne:तथा	O
+ne:इसिमोडसँग	B-ORG
+ne:सर्म्पर्क	O
+ne:तथा	O
+ne:समन्वय	O
+ne:सम्बन्धी	O
+ne:,	O
+
+ne:एकीकृत	B-ORG
+ne:नेपाल	I-ORG
+ne:कम्युनिष्ट	I-ORG
+ne:पार्टी	I-ORG
+ne:(	I-ORG
+ne:माओवादी	I-ORG
+ne:)	I-ORG
+
+ne:'	O
+ne:''	O
+ne:ढिमे	O
+ne:''	O
+ne:'	O
+ne:जाजरकोट	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:सुन्दर	B-LOC
+ne:दुलारी	I-LOC
+ne:नगरपालिका	I-LOC
+
+ne:९६४	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरूलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:संयुक्त	B-ORG
+ne:राष्ट्र	I-ORG
+ne:सुरक्षा	I-ORG
+ne:परिषद	I-ORG
+
+ne:नेपाल	B-ORG
+ne:कम्युनिष्ट	I-ORG
+ne:पार्टी	I-ORG
+ne:(	I-ORG
+ne:मार्क्सवादी-लेनिनवादी	I-ORG
+ne:)	I-ORG
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:अछाम	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:कुल	B-PER
+ne:बहादुर	I-PER
+ne:गुरुङ	I-PER
+
+ne:'	O
+ne:''	O
+ne:सुवानावाली	O
+ne:''	O
+ne:'	O
+ne:जाजरकोट	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:डाँडाखर्क	B-LOC
+ne:(	I-LOC
+ne:मकवानपुर	I-LOC
+ne:)	I-LOC
+
+ne:बसन्तपुर	B-LOC
+ne:,	I-LOC
+ne:तनहुँ	I-LOC
+
+ne:ललितपुर	B-LOC
+ne:जिल्ला	I-LOC
+ne:(	I-LOC
+ne:उत्तर	I-LOC
+ne:प्रदेश	I-LOC
+ne:)	I-LOC
+
+ne:संविधानसभा	B-ORG
+ne:निर्वाचन	I-ORG
+ne:२०७०	I-ORG
+
+ne:७९१	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:स्टेट	B-ORG
+ne:बैंक	I-ORG
+ne:अफ	I-ORG
+ne:बिकानेर	I-ORG
+ne:एण्ड	I-ORG
+ne:जयपुर	I-ORG
+
+ne:२०३४	O
+ne:सालको	O
+ne:मदन	B-ORG
+ne:पुरस्कार	I-ORG
+ne:पाएका	O
+ne:हुन्।	O
+
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:९०३	O
+ne:ई.पू	O
+ne:.	O
+
+ne:'	O
+ne:''	O
+ne:झलनाथ	B-PER
+ne:खनाल	I-PER
+ne:'	O
+ne:''	O
+ne:(	O
+ne:१९५०-	O
+ne:)	O
+
+ne:चितवन	B-LOC
+ne:राष्ट्रिय	I-LOC
+ne:निकुञ्ज	I-LOC
+
+ne:5	O
+ne:)	O
+ne:बैतडी	B-LOC
+ne:जिल्ला	I-LOC
+ne:''	O
+
+ne:ज्योतिबा	B-LOC
+ne:फुले	I-LOC
+ne:नगर	I-LOC
+ne:जिल्ला	I-LOC
+
+ne:'	O
+ne:''	O
+ne:एरोन	B-PER
+ne:फिन्च	I-PER
+ne:''	O
+ne:'	O
+
+ne:पहिलो	O
+ne:बटालियन	O
+ne:,	O
+ne:सिख	B-ORG
+ne:रेजिमेन्ट	I-ORG
+
+ne:महाकाली	B-LOC
+ne:,	I-LOC
+ne:बैतडी	I-LOC
+
+ne:फिक्कल	B-LOC
+ne:हाट	O
+ne:लाग्ने	O
+ne:दिन	O
+ne:बिहीबार	O
+ne:,	O
+
+ne:'	O
+ne:''	O
+ne:अनुराधापुरा	O
+ne:''	O
+ne:'	O
+ne:एक	O
+ne:युनेस्को	B-ORG
+ne:विश्व	I-ORG
+ne:सम्पदा	I-ORG
+ne:क्षेत्रमा	I-ORG
+ne:जोडिएको	O
+ne:छ।	O
+
+ne:उत्तरप्रदेश	B-ORG
+ne:राजर्षि	I-ORG
+ne:टंडन	I-ORG
+ne:खुल्ला	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:राष्ट्रिय	B-ORG
+ne:संग्रहालय	I-ORG
+ne:,	I-ORG
+ne:छाउनी	I-ORG
+
+ne:अखिल	B-ORG
+ne:नेपाल	I-ORG
+ne:राष्ट्रिय	I-ORG
+ne:स्वतन्त्र	I-ORG
+ne:विद्यार्थी	I-ORG
+ne:युनियन	I-ORG
+ne:(	I-ORG
+ne:क्रान्तिकारी	I-ORG
+ne:)	I-ORG
+
+ne:राजेश	B-PER
+ne:हमाल	I-PER
+ne:,	O
+ne:करिश्मा	B-PER
+ne:मानन्धर	I-PER
+
+ne:'	O
+ne:''	O
+ne:नीतिश	B-PER
+ne:कुमार	I-PER
+ne:''	O
+ne:'	O
+
+ne:वीरेन्द्र	B-PER
+ne:वीर	I-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+
+ne:सेरिल	O
+ne:स्याण्डबर्ग	O
+ne:ट्विटरमा	B-ORG
+ne:''	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:अछाम	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:विश्व	B-ORG
+ne:सम्पदा	I-ORG
+ne:क्षेत्र	I-ORG
+
+ne:शिव	B-PER
+ne:श्रेष्ठ	I-PER
+ne:,	O
+ne:करिश्मा	B-PER
+ne:मानन्धर	I-PER
+ne:,	O
+ne:मेलिना	B-PER
+ne:मानन्धर	I-PER
+
+ne:“प्राचीन	B-LOC
+ne:मर्भ”	I-LOC
+ne:राज्य	I-LOC
+ne:एतिहासिक	I-LOC
+ne:र	I-LOC
+ne:सांस्कृतिक	I-LOC
+ne:निकुञ्ज	I-LOC
+
+ne:'	O
+ne:''	O
+ne:तुल्सी	B-PER
+ne:गिरी	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१	O
+ne:/	O
+ne:३	O
+ne:)	O
+ne:(	O
+ne:१९२६-	O
+ne:)	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:दार्चुला	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:भगवती	B-LOC
+ne:,	I-LOC
+ne:अर्घाखाँची	I-LOC
+ne:अर्घाखाँची	B-LOC
+ne:जिल्लाको	I-LOC
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:डोटी	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:'	O
+ne:''	O
+ne:मटेला	O
+ne:''	O
+ne:'	O
+ne:बझाङ	B-LOC
+ne:जिल्लाको	I-LOC
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+ne:जसमा	O
+ne:परिन्गाल्	O
+ne:,	O
+ne:सुन्गाला	O
+ne:,	O
+ne:मटेला	O
+ne:,	O
+ne:गिठिपाटा	O
+ne:,	O
+ne:काप्रिगाउ	O
+ne:,	O
+ne:भन्डारिगाउ	O
+ne:र	O
+ne:जीबली	O
+ne:पर्दछन्	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:बैतडी	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:कोनेरू	B-ORG
+ne:लक्ष्मैय्या	I-ORG
+ne:इन्जिनियरिङ्ग	I-ORG
+ne:कलेज	I-ORG
+
+ne:एरोन	B-PER
+ne:फिन्च	I-PER
+ne:-	O
+ne:५०	O
+ne:(	O
+ne:३६	O
+ne:)	O
+
+ne:पाटन	B-LOC
+ne:दरवार	I-LOC
+ne:क्षेत्र	I-LOC
+
+ne:शातवाहन	B-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:करीमनगर	B-LOC
+
+ne:''राजा	O
+ne:महेन्द्र	B-PER
+ne:वीर	I-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+ne:द्वारा	O
+ne:शासन	O
+ne:संचालित	O
+ne:''	O
+ne:(	O
+ne:१९२०-१९७२	O
+ne:)	O
+
+ne:;	O
+ne:अफ्रिकी	B-ORG
+ne:फुटबल	I-ORG
+ne:संघ	I-ORG
+ne:(	O
+ne:५	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:अमित	B-PER
+ne:मिश्रा	I-PER
+ne:''	O
+ne:'	O
+
+ne:मच्छेन्द्रनाथको	B-PER
+ne:भोटो	O
+ne:देखाउने	O
+ne:जात्रा	O
+ne:,	O
+
+ne:'	O
+ne:''	O
+ne:जलुके	O
+ne:''	O
+ne:'	O
+ne:अर्घाखाँची	B-LOC
+ne:जिल्लाको	I-LOC
+ne:पश्चिमी	O
+ne:भेगमा	O
+ne:पर्ने	O
+ne:एउटा	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:२०९८०९	O
+ne:सिपाही	B-ORG
+ne:र	O
+ne:क.नं	O
+ne:.	O
+
+ne:बेलायतका	B-LOC
+ne:प्रसिद्ध	O
+ne:बैज्ञानिक	O
+ne:न्य‍ूटनले	B-PER
+ne:चालसम्बन्धी	O
+ne:यी	O
+ne:नियमहरु	O
+ne:बनाएका	O
+ne:छन्।	O
+
+ne:''भलुवाजोर	O
+ne:''	O
+ne:जनकपुर	B-ORG
+ne:अञ्चलको	I-ORG
+ne:रामेछाप	B-LOC
+ne:जिल्लामा	I-LOC
+ne:पर्ने	O
+ne:एक	O
+ne:गा.वि.स	B-LOC
+ne:.	I-LOC
+ne:हो।	O
+
+ne:राजस्थान	B-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:जयपुर	B-LOC
+
+ne:'	O
+ne:''	O
+ne:श्याम्घा	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:गण्डकी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:तनहुँ	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:भोक्रहा	B-LOC
+ne:,	I-LOC
+ne:सिरहा	I-LOC
+
+ne:गौतम	B-LOC
+ne:बुद्ध	I-LOC
+ne:नगर	I-LOC
+ne:जिल्ला	I-LOC
+
+ne:भारतीय	B-ORG
+ne:व्यवस्थापन	I-ORG
+ne:संस्थान	I-ORG
+ne:,	I-ORG
+ne:कोलकाता	I-ORG
+
+ne:जनबादी	B-LOC
+ne:गणतन्त्र	I-LOC
+ne:चीन	I-LOC
+
+ne:दीपेन्द्र	B-PER
+ne:वीर	I-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+
+ne:'	O
+ne:''	O
+ne:सरस्वती	B-LOC
+ne:नदी	I-LOC
+ne:''	O
+ne:'	O
+
+ne:'	O
+ne:''	O
+ne:मायावती	B-PER
+ne:''	O
+ne:'	O
+
+ne:नेपाल	B-ORG
+ne:ससस्त्र	I-ORG
+ne:प्रहरी	I-ORG
+ne:बल	I-ORG
+
+ne:हिउँदमा	O
+ne:पनि	O
+ne:दुई	O
+ne:घण्टा	O
+ne:लाग्छ।	O
+ne:मेलौली	B-LOC
+ne:सम्म	O
+
+ne:वीरेन्द्र	B-PER
+ne:वीर	I-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+
+ne:'	O
+ne:''	O
+ne:तपोवन	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:महाकाली	B-ORG
+ne:अञ्चलको	I-ORG
+ne:दार्चुला	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो।	O
+
+ne:ब्यासी	B-LOC
+ne:गाविस	I-LOC
+ne:बझाङ	B-LOC
+ne:जिल्लाको	I-LOC
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:निरुता	B-PER
+ne:सिंह	I-PER
+ne:,	O
+ne:उत्तम	O
+ne:प्तधान	O
+
+ne:ब्रिटिश	B-ORG
+ne:इस्ट	I-ORG
+ne:इन्डिया	I-ORG
+ne:कम्पनी	I-ORG
+
+ne:केदार	B-PER
+ne:घिमिरे	I-PER
+ne:,	O
+ne:सिताराम	B-PER
+ne:कट्टेल	I-PER
+
+ne:संयुक्त	B-LOC
+ne:अरब	I-LOC
+ne:इमिरेट्स	I-LOC
+
+ne:'	O
+ne:''	O
+ne:लियोनेल	B-PER
+ne:मेस्सी	I-PER
+ne:''	O
+ne:'	O
+
+ne:अलेज्यान्द्रो	B-LOC
+ne:दे	I-LOC
+ne:हुम्बोल्त	I-LOC
+ne:राष्ट्रिय	I-LOC
+ne:निकुञ्ज	I-LOC
+
+ne:२०१४	B-PER
+ne:एसियाली	I-PER
+ne:खेलकुद	I-PER
+
+ne:महर्षि	B-ORG
+ne:दयानंद	I-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:रोहतक	B-LOC
+
+ne:रामकृष्ण	B-ORG
+ne:मिसन	I-ORG
+ne:विवेकानन्द	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:कन्दाहार	B-LOC
+ne:-	O
+ne:४५०	O
+ne:,	O
+ne:३००	O
+
+ne:२०१९	O
+ne:चैत	O
+ne:२०	O
+ne:गते	O
+ne:गठीत	O
+ne:तुल्सी	B-PER
+ne:गिरीको	I-PER
+ne:मन्त्रीमण्डलमा	O
+ne:मन्त्री	O
+ne:भएका	O
+ne:थिए।	O
+
+ne:सिराहा	B-LOC
+ne:नगरपालिका	I-LOC
+ne:,	O
+ne:लहान	B-LOC
+ne:नगरपालिका	I-LOC
+
+ne:माधव	B-PER
+ne:कुमार	I-PER
+ne:नेपाल	I-PER
+ne:उपप्रधानमन्त्री	O
+ne:रक्षा	O
+ne:र	O
+ne:परराष्ट्र	O
+
+ne:तृतीय	B-ORG
+ne:(	I-ORG
+ne:कम्युनिष्ट	I-ORG
+ne:)	I-ORG
+ne:इन्टरनेसनल	I-ORG
+
+ne:सुर्वण	B-PER
+ne:सम्शेर	I-PER
+ne:ज.ब.रा	I-PER
+ne:.	I-PER
+ne:अर्थ	O
+ne:मन्त्री	O
+
+ne:गढिमाई	B-LOC
+ne:नगरपालिका	I-LOC
+ne:,	O
+ne:निजगढ	B-LOC
+ne:नगरपालिका	I-LOC
+
+ne:डा.	B-ORG
+ne:वाई	I-ORG
+ne:एस	I-ORG
+ne:परमार	I-ORG
+ne:वागवानी	I-ORG
+ne:र	I-ORG
+ne:वन	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:वीरेन्द्र	B-PER
+ne:वीर	I-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+
+ne:तुलसी	B-PER
+ne:घिमिरे	I-PER
+ne:(	I-PER
+ne:चलचित्र	I-PER
+ne:निर्देशक	I-PER
+ne:)	I-PER
+
+ne:साँचो	B-ORG
+ne:येशु	I-ORG
+ne:गिर्जाघर	I-ORG
+
+ne:महेन्द्र	B-ORG
+ne:संस्कृत	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:ज्ञानेश्वर	B-ORG
+ne:विद्यापीठ	I-ORG
+ne:,	I-ORG
+ne:पुणे	B-LOC
+
+ne:ऋचा	B-PER
+ne:चड्ढा	I-PER
+ne:-	O
+ne:रसीला	O
+
+ne:'	O
+ne:''	O
+ne:मूल	O
+ne:लेख	O
+ne:दरवार	B-LOC
+ne:हत्याकाण्ड	I-LOC
+ne:''	O
+ne:'	O
+
+ne:नेपाल	B-ORG
+ne:सशस्त्र	I-ORG
+ne:प्रहरी	I-ORG
+ne:बल	I-ORG
+
+ne:'	O
+ne:''	O
+ne:आलिताल	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:सुदूर-पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:,	O
+ne:महाकाली	B-ORG
+ne:अञ्चलको	I-ORG
+ne:डडेलधुरा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:'	O
+ne:''	O
+ne:नोकैलवा	O
+ne:''	O
+ne:'	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:यमनको	B-ORG
+ne:क्रान्तिकारी	I-ORG
+ne:प्रजातान्त्रिक	I-ORG
+ne:पार्टी	I-ORG
+
+ne:'	O
+ne:''	O
+ne:मोहम्मद	B-PER
+ne:शमी	I-PER
+ne:''	O
+ne:'	O
+
+ne:इन्दिरा	B-ORG
+ne:गान्धी	I-ORG
+ne:राष्ट्रिय	I-ORG
+ne:खुल्ला	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:''	O
+ne:दसरथचन्द	B-LOC
+ne:नगरपालिका	I-LOC
+ne:''	O
+
+ne:८५०	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:रानी	B-PER
+ne:ऐश्वर्य	I-PER
+ne:राज्यलक्ष्मी	I-PER
+ne:शाह	I-PER
+
+ne:मजदुर	B-ORG
+ne:इन्टरनेसनलका	I-ORG
+ne:फ्रान्सेली	I-ORG
+ne:भाग	I-ORG
+
+ne:९०८	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:कृषि	B-ORG
+ne:तथा	I-ORG
+ne:पशु	I-ORG
+ne:विज्ञान	I-ORG
+ne:अध्ययन	I-ORG
+ne:संस्थान	I-ORG
+
+ne:दक्षिण	B-LOC
+ne:गारो	I-LOC
+ne:हिल्स	I-LOC
+ne:जिल्ला	I-LOC
+
+ne:७७७	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:बझाङ	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:२०५२	O
+ne:सालको	O
+ne:मदन	B-ORG
+ne:पुरस्कार	I-ORG
+ne:पाएका	O
+ne:थिए।	O
+
+ne:सुदूर-पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+
+ne:नेपाल	B-ORG
+ne:कम्युनिष्ट	I-ORG
+ne:पार्टी	I-ORG
+ne:(	I-ORG
+ne:एकीकृत	I-ORG
+ne:मार्क्सवादी-लेनिनवादी	I-ORG
+ne:)	I-ORG
+
+ne:माओ	B-PER
+ne:त्से	I-PER
+ne:तुङ्	I-PER
+
+ne:कुल	B-PER
+ne:बहादुर	I-PER
+ne:गुरुङ	I-PER
+
+ne:'	O
+ne:''	O
+ne:माथवरसिंह	B-PER
+ne:थापा	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१७९८-१८४५	O
+ne:)	O
+
+ne:नेपालका	B-ORG
+ne:विकास	I-ORG
+ne:क्षेत्रहरू	I-ORG
+
+ne:८३०	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:कुँवर	B-PER
+ne:इन्द्रजित	I-PER
+ne:सिंह	I-PER
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:बाजुरा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:व्यास	B-PER
+ne:(	I-PER
+ne:ऋषि	I-PER
+ne:)	I-PER
+
+ne:महात्मा	B-ORG
+ne:गांधी	I-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:कोट्टयम	I-ORG
+
+ne:२०१३	O
+ne:सालमा	O
+ne:मदन	B-ORG
+ne:पुरस्कार	I-ORG
+ne:पाएका	O
+ne:हुन्।	O
+
+ne:'	O
+ne:''	O
+ne:मातृकाप्रसाद	B-PER
+ne:कोइराला	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:२	O
+ne:/	O
+ne:२	O
+ne:)	O
+ne:(	O
+ne:१९१२-१९९७	O
+ne:)	O
+
+ne:१०००	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरूलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:९००	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:अवस्थित	O
+ne:रहेको	O
+ne:छ	O
+ne:।	O
+ne:महेन्द्र	B-ORG
+ne:राजमार्ग	I-ORG
+ne:संग	O
+ne:यसको	O
+ne:दुरी	O
+ne:२	O
+ne:कि.मि	O
+ne:मात्र	O
+ne:टाढा	O
+ne:रहेको	O
+ne:छ	O
+ne:।	O
+
+ne:नेपाल	B-ORG
+ne:ससस्त्र	I-ORG
+ne:प्रहरी	I-ORG
+ne:बल	I-ORG
+
+ne:अन्तर्राष्ट्रिय	B-ORG
+ne:आर्थिक	I-ORG
+ne:कोष	I-ORG
+
+ne:(	O
+ne:१	O
+ne:)	O
+ne:गया	B-LOC
+ne:जिल्ला	I-LOC
+
+ne:उनले	O
+ne:नेपाल	B-LOC
+ne:,	O
+ne:भारत	B-LOC
+ne:,	O
+ne:जापान	B-LOC
+ne:,	O
+ne:अमेरिका	B-LOC
+ne:आदि	O
+ne:देशको	O
+ne:यात्रा	O
+ne:गरेका	O
+ne:छन्	O
+ne:।	O
+
+ne:'	O
+ne:''	O
+ne:नायरनमतलेस	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:लुम्बिनी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:पाल्पा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:श्रेयस	B-PER
+ne:तलपडे	I-PER
+ne:...	O
+ne:पप्पू	O
+
+ne:'	O
+ne:''	O
+ne:रोनाल्डो	B-PER
+ne:''	O
+ne:'	O
+
+ne:९६०	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरूलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:कुरुक्षेत्र	B-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:कुरुक्षेत्र	B-LOC
+
+ne:महात्मा	B-ORG
+ne:गान्धी	I-ORG
+ne:सेतु	I-ORG
+ne:(	I-ORG
+ne:पुल	I-ORG
+ne:)	I-ORG
+
+ne:'	O
+ne:''	O
+ne:रानीगञ्ज	O
+ne:''	O
+ne:'	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:विश्व	B-ORG
+ne:बैंक	I-ORG
+ne:द्वारा	O
+ne:आर्थिक	O
+ne:सहयोग	O
+ne:८४.७	O
+ne:कि.मी	O
+ne:.	O
+
+ne:7	O
+ne:)	O
+ne:दार्चुला	B-LOC
+ne:जिल्ला	I-LOC
+ne:''	O
+
+ne:६२०	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:राजेश	B-PER
+ne:हमाल	I-PER
+ne:,	O
+ne:करिश्मा	B-PER
+ne:मानन्धर	I-PER
+ne:,	O
+ne:गौरी	B-PER
+ne:मल्ल	I-PER
+
+ne:दक्षिण	B-ORG
+ne:एशियाली	I-ORG
+ne:सहयोग	I-ORG
+ne:सङ्गठन	I-ORG
+
+ne:१८२१मा	O
+ne:भीमसेन	B-PER
+ne:थापाबाट	I-PER
+ne:जीर्णोद्वार	O
+ne:गरिएको	O
+ne:थियो	O
+ne:भने	O
+ne:वि.सं	O
+ne:.	O
+
+ne:भानुभक्त	B-PER
+ne:आचार्य	I-PER
+ne:द्वारा	O
+ne:लिखित	O
+ne:एक	O
+ne:ग्रन्थ	O
+
+ne:महाराष्ट्र	B-ORG
+ne:स्वास्थ्य	I-ORG
+ne:विज्ञान	I-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:नासिक	B-LOC
+
+ne:११००	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:अन्तर्राष्ट्रिय	B-ORG
+ne:परमाणु	I-ORG
+ne:ऊर्जा	I-ORG
+ne:अभिकरण	I-ORG
+
+ne:नेपाल	B-ORG
+ne:ससस्त्र	I-ORG
+ne:प्रहरी	I-ORG
+ne:बल	I-ORG
+
+ne:राजेश	B-PER
+ne:हमाल	I-PER
+ne:,	O
+ne:निरुता	B-PER
+ne:सिंह	I-PER
+
+ne:[[युनेस्को	O
+ne:विश्व	B-ORG
+ne:सम्पदा	I-ORG
+ne:समितिको	I-ORG
+ne:लोगो]]	O
+
+ne:*माेतीराम	O
+ne:भट्टकाे	O
+ne:परिचय	O
+ne:र	O
+ne:केही	O
+ne:कविता	B-LOC
+ne:(	O
+ne:२०४२	O
+ne:)	O
+ne:,	O
+
+ne:''	O
+ne:दसरथचन्द	B-LOC
+ne:नगरपालिका	I-LOC
+ne:''	O
+
+ne:'	O
+ne:''	O
+ne:रोनाल्डो	B-PER
+ne:''	O
+ne:'	O
+
+ne:जमदग्नी	B-ORG
+ne:प्राचिन	O
+ne:कालका	O
+ne:एक	O
+ne:जना	O
+ne:ऋषिको	O
+ne:नाम	O
+ne:हो	O
+ne:।	O
+
+ne:'	O
+ne:''	O
+ne:कोलोसियम	B-ORG
+ne:''	O
+ne:'	O
+ne:''	O
+ne:Colosseo	O
+ne:''	O
+
+ne:संयुक्त	B-LOC
+ne:अधिराज्य	I-LOC
+ne:(	O
+ne:१२	O
+ne:लाख	O
+ne:)	O
+ne:,	O
+
+ne:९	O
+ne:श्री	O
+ne:बर्षमान	B-PER
+ne:पुन	I-PER
+ne:-	O
+ne:अर्थ	O
+
+ne:म्यानचेस्टर	B-ORG
+ne:युनाइटेड	I-ORG
+ne:फुटबल	I-ORG
+ne:क्लब	I-ORG
+
+ne:अगस्त्य	B-ORG
+ne:एक	O
+ne:ऋषिको	O
+ne:नाम	O
+ne:हो	O
+ne:।	O
+
+ne:पंजाबी	B-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:पटियाला	B-LOC
+
+ne:जय	B-ORG
+ne:नारायण	I-ORG
+ne:व्यास	I-ORG
+ne:विश्वविद्यालय	I-ORG
+ne::	I-ORG
+ne:जोधपुर	I-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:जोधपुर	B-LOC
+
+ne:भानुभक्त	B-PER
+ne:आचार्य	I-PER
+ne:द्वारा	O
+ne:लिखित	O
+ne:एक	O
+ne:ग्रन्थ	O
+
+ne:'	O
+ne:''	O
+ne:रिस्ती	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:गण्डकी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:तनहुँ	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:गौरव	B-PER
+ne:शमशेर	I-PER
+ne:जङ्गबहादुर	I-PER
+ne:राणा	I-PER
+
+ne:'	O
+ne:''	O
+ne:पागल	O
+ne:''	O
+ne:'	O
+ne:महाकवि	O
+ne:लक्ष्मीप्रसाद	B-PER
+ne:देवकोटाद्वारा	I-PER
+ne:लिखित	O
+ne:एक	O
+ne:उत्कृष्ट	O
+ne:कविता	O
+ne:हो	O
+ne:।	O
+
+ne:शिव	B-PER
+ne:श्रेष्ठ	I-PER
+ne:,	O
+ne:करिश्मा	B-PER
+ne:मानन्धर	I-PER
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:दार्चुला	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:नेपाल	B-ORG
+ne:सशस्त्र	I-ORG
+ne:प्रहरी	I-ORG
+ne:बल।	I-ORG
+
+ne:भारतीय	B-ORG
+ne:प्रौद्योगिकी	I-ORG
+ne:संस्थान	I-ORG
+ne:रुडकी	I-ORG
+
+ne:महानिदेशक	O
+ne:,	O
+ne:केन्द्रीय	B-ORG
+ne:अन्वेषण	I-ORG
+ne:ब्यूरो	I-ORG
+
+ne:'	O
+ne:''	O
+ne:मोहित	B-PER
+ne:शर्मा	I-PER
+ne:''	O
+ne:'	O
+
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+
+ne:किरण	B-PER
+ne:सम्शेर	I-PER
+ne:राणा	I-PER
+
+ne:दयाहाङ	B-PER
+ne:राई	I-PER
+ne:अहिलेको	O
+ne:(	O
+ne:नायक	O
+ne:)	O
+
+ne:थोमस	B-PER
+ne:एल्वा	I-PER
+ne:एडिसन	I-PER
+
+ne:'	O
+ne:''	O
+ne:मातृकाप्रसाद	B-PER
+ne:कोइराला	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१	O
+ne:/	O
+ne:२	O
+ne:)	O
+ne:(	O
+ne:१९१२-१९९७	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:पालुङमैनादी	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:लुम्बिनी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:पाल्पा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:श्रमिक	B-ORG
+ne:दलको	I-ORG
+ne:लागि	I-ORG
+ne:प्रजातान्त्रिक	I-ORG
+ne:आन्दोलन	I-ORG
+
+ne:नारायणहिटी	B-ORG
+ne:दरवार	I-ORG
+ne:संग्रहालय	I-ORG
+
+ne:रणोद्दिप	B-PER
+ne:सिँह	I-PER
+ne:बहादुर	I-PER
+ne:राणा	I-PER
+
+ne:'	O
+ne:''	O
+ne:बेहुलीबास	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्रको	I-LOC
+ne:धवलागिरी	B-ORG
+ne:अञ्चल	I-ORG
+ne:,	O
+ne:पर्वत	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:क्रान्तिकारी	B-ORG
+ne:समाजवादी	I-ORG
+ne:पार्टी	I-ORG
+
+ne:समाजवादी	B-ORG
+ne:पार्टी	I-ORG
+ne:(	I-ORG
+ne:पेरु	I-ORG
+ne:)	I-ORG
+
+ne:तेन्जिङ	B-PER
+ne:नोर्गे	I-PER
+ne:शेर्पा	I-PER
+ne:एडमण्ड	B-PER
+ne:हिलारी	I-PER
+
+ne:१९०५	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरूलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:भोजपुर	B-LOC
+ne:जिल्ला	I-LOC
+ne:(	I-LOC
+ne:नेपाल	I-LOC
+ne:)	I-LOC
+
+ne:'	O
+ne:''	O
+ne:सोमादि	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:लुम्बिनी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:पाल्पा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:''	O
+ne:दसरथचन्द	B-LOC
+ne:नगरपालिका	I-LOC
+ne:''	O
+
+ne:'	O
+ne:''	O
+ne:ग्लेन	B-PER
+ne:म्याक्सवेल	I-PER
+ne:''	O
+ne:'	O
+
+ne:सिद्धिदास	B-PER
+ne:महाजु	I-PER
+ne:(	O
+ne:महाकवि	O
+ne:)	O
+
+ne:नेपाली	B-ORG
+ne:काँग्रेस	I-ORG
+ne:(	I-ORG
+ne:राष्ट्रवादी	I-ORG
+ne:)	I-ORG
+
+ne:मधेसी	B-ORG
+ne:जन	I-ORG
+ne:अधिकार	I-ORG
+ne:फोरम	I-ORG
+ne:,	I-ORG
+ne:नेपाल	I-ORG
+
+ne:फिफा	B-ORG
+ne:(	I-ORG
+ne:FIFA	I-ORG
+ne:)	I-ORG
+
+ne:मलेवा	B-LOC
+ne:(	O
+ne:''Columba	O
+ne:livia	O
+ne:''	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:मनमोहन	B-PER
+ne:अधिकारी	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१९२०-१९९९	O
+ne:)	O
+
+ne:हलवार	B-LOC
+ne:,	I-LOC
+ne:दाङ	I-LOC
+
+ne:'	O
+ne:''	O
+ne:अम्बाती	B-PER
+ne:रायडु	I-PER
+ne:''	O
+ne:'	O
+
+ne:टिष्टा	B-LOC
+ne:नदीमा	I-LOC
+ne:धेरै	O
+ne:जलविद्युत	O
+ne:केन्द्र	O
+ne:निर्माणाधीन्	O
+ne:छ	O
+ne:तथा	O
+ne:त्यसको	O
+ne:बाताबरणमा	O
+ne:परेको	O
+ne:असर	O
+ne:एक	O
+ne:चिन्ताको	O
+ne:विषय	O
+ne:हो।	O
+
+ne:अन्तर्राष्ट्रिय	B-ORG
+ne:परमाणु	I-ORG
+ne:ऊर्जा	I-ORG
+ne:अभिकरण	I-ORG
+
+ne:'	O
+ne:''	O
+ne:टालेगाउँ	O
+ne:'	O
+ne:''	O
+ne:जाजरकोट	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:मीनाक्षी	O
+ne:आनन्द	O
+ne:,	O
+ne:शिव	B-PER
+ne:श्रेष्ठ	I-PER
+ne:(	O
+ne:नवोदित	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:बबरगञ्ज	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:मध्यमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:जनकपुर	B-ORG
+ne:अञ्चलमा	I-ORG
+ne:पर्ने	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:डोटी	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:मानपुर	B-LOC
+ne:,	I-LOC
+ne:दाङ	I-LOC
+
+ne:टङ्कप्रसाद	B-PER
+ne:आचार्य	I-PER
+ne:-	O
+ne:गृह	O
+ne:मन्त्री	O
+
+ne:शुक्लाफाँट	B-LOC
+ne:वन्यजन्तु	I-LOC
+ne:आरक्ष	I-LOC
+
+ne:हेनरी	B-PER
+ne:डेभिड	I-PER
+ne:थोरो	I-PER
+
+ne:अबु	B-ORG
+ne:सिम्बेल	I-ORG
+ne:देखि	I-ORG
+ne:फिले	I-ORG
+ne:सम्मको	I-ORG
+ne:नुबियान	I-ORG
+ne:धरोहर	I-ORG
+
+ne:१	O
+ne:सम्माननीय	O
+ne:खिलराज	B-PER
+ne:रेग्मी	I-PER
+ne:,	O
+ne:मन्त्रिपरिषद्	O
+ne:अध्यक्ष	O
+ne:,	O
+ne:रक्षा	O
+ne:;	O
+ne:सहकारी	O
+ne:तथा	O
+ne:गरीबी	O
+ne:निवारण	O
+
+ne:राम	B-PER
+ne:राज	I-PER
+ne:पन्त	I-PER
+
+ne:यशवंतराव	B-ORG
+ne:चौहान	I-ORG
+ne:महाराष्ट्र	I-ORG
+ne:खुल्ला	I-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:नासिक	B-LOC
+
+ne:दीपेन्द्र	B-PER
+ne:वीर	I-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+
+ne:महेन्द्र	B-ORG
+ne:राजमार्गबाट	I-ORG
+ne:३०	O
+ne:कि.मी	O
+ne:.	O
+
+ne:यिनी	O
+ne:विश्वेश्वर	B-PER
+ne:प्रसाद	I-PER
+ne:कोइरालाका	I-PER
+ne:पुत्र	O
+ne:हुन्।	O
+
+ne:भोजपुर	B-ORG
+ne:जिल्ला	I-ORG
+ne:(	I-ORG
+ne:भारत	I-ORG
+ne:)	I-ORG
+
+ne:•	O
+ne:कृष्णप्रसाद	B-PER
+ne:भट्टराईको	I-PER
+ne:नेतृत्वमा	O
+ne:अहिंसात्मक	O
+ne:र	O
+ne:असहयोग	O
+ne:आन्दोलन	O
+ne:मुलुक	O
+ne:भित्रबाटै	O
+ne:गर्ने	O
+ne:,	O
+
+ne:तालोकां	B-LOC
+ne:-	O
+ne:१९६	O
+ne:,	O
+ne:४००	O
+
+ne:होजे	B-PER
+ne:म्यानुअल	I-PER
+ne:पिन्टो	I-PER
+
+ne:'	O
+ne:''	O
+ne:क्रिस	B-PER
+ne:गेल	I-PER
+ne:''	O
+ne:'	O
+
+ne:गोपाल	B-PER
+ne:प्रसाद	I-PER
+ne:रिमाल	I-PER
+
+ne:आर्सनल	B-ORG
+ne:फुटबल	I-ORG
+ne:क्लब	I-ORG
+
+ne:विस्तृत	O
+ne:विवेचनका	O
+ne:लागि	O
+ne:'	O
+ne:''	O
+ne:अनुप्रयुक्त	B-ORG
+ne:भाषाविज्ञान	I-ORG
+ne:''	O
+ne:'	O
+ne:हेर्नुहोस्	O
+ne:।	O
+
+ne:संविधानसभा	B-ORG
+ne:निर्वाचन	I-ORG
+ne:२०७०	I-ORG
+
+ne:संयुक्त	B-LOC
+ne:राज्य	I-LOC
+ne:अमेरिकामा	I-LOC
+ne:पर्ने	O
+ne:एक	O
+ne:राज्य।	O
+
+ne:पिप्रा	B-LOC
+ne:प्र.	I-LOC
+ne:पि	I-LOC
+ne:.	I-LOC
+
+ne:'	O
+ne:''	O
+ne:शीला	B-PER
+ne:दीक्षित	I-PER
+ne:''	O
+ne:'	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:दार्चुला	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:अग्रपंक्ति	B-PER
+ne:(	I-PER
+ne:फुटबल	I-PER
+ne:)	I-PER
+
+ne:'	O
+ne:''	O
+ne:दामोदर	B-PER
+ne:पाण्डे	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१७५२-१८०४	O
+ne:)	O
+
+ne:नेपाली	B-ORG
+ne:सैनिक	I-ORG
+ne:विमान	I-ORG
+ne:सेवा	I-ORG
+
+ne:माला	B-PER
+ne:सिन्हा	I-PER
+ne:,	O
+ne:सि.पि	O
+ne:.	O
+
+ne:Protecting	O
+ne:sexual	O
+ne:minorities	O
+ne:Koreatimes	O
+ne:2013.08.23	O
+ne:(	O
+ne:कोरिया	B-LOC
+ne:)	O
+
+ne:यशवंतराव	B-ORG
+ne:चौहान	I-ORG
+ne:महाराष्ट्र	I-ORG
+ne:खुल्ला	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:माथिल्लो	B-LOC
+ne:सुबनसिरी	I-LOC
+ne:जिल्ला	I-LOC
+
+ne:डा.	B-PER
+ne:तुलसी	I-PER
+ne:गिरी	I-PER
+ne:-	O
+ne:ग्राम-विकास	O
+
+ne:नेदरल्याण्ड	B-LOC
+ne:(	O
+ne:४	O
+ne:लाख	O
+ne:)	O
+ne:,	O
+
+ne:'	O
+ne:''	O
+ne:गोकुल	O
+ne:''	O
+ne:'	O
+ne:भारतको	B-LOC
+ne:उत्तर	B-LOC
+ne:प्रदेशको	I-LOC
+ne:मथुरा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:शहर	O
+ne:हो	O
+ne:।	O
+
+ne:३	O
+ne:श्री	O
+ne:नारायणकाजी	B-PER
+ne:श्रेष्ठ	I-PER
+ne:-	O
+ne:परराष्ट्र	O
+
+ne:'	O
+ne:''	O
+ne:अरुनोदय	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:गण्डकी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:तनहुँ	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:जम्मू	B-LOC
+ne:र	I-LOC
+ne:कश्मीर	I-LOC
+
+ne:संयुक्त	B-LOC
+ne:राज्य	I-LOC
+ne:अमेरिकामा	I-LOC
+ne:पर्ने	O
+ne:एक	O
+ne:राज्य।	O
+
+ne:;	O
+ne:उत्तर	B-ORG
+ne:,	I-ORG
+ne:मध्य	I-ORG
+ne:अमेरिका	I-ORG
+ne:र	I-ORG
+ne:कैरीबियन	I-ORG
+ne:फुटबल	I-ORG
+ne:संघ	I-ORG
+ne:(	I-ORG
+ne:CONCACAF	I-ORG
+ne:)	I-ORG
+ne:(	O
+ne:४	O
+ne:)	O
+
+ne:नेपालका	B-ORG
+ne:विकास	I-ORG
+ne:क्षेत्रहरू	I-ORG
+
+ne:'	O
+ne:''	O
+ne:रोनाल्डिन्हो	B-PER
+ne:''	O
+ne:'	O
+
+ne:नेपाल	B-ORG
+ne:चार्टर्ड	I-ORG
+ne:एकाउन्टेन्ट्स	I-ORG
+ne:संस्था	I-ORG
+
+ne:'	O
+ne:''	O
+ne:लण्डन	B-LOC
+ne:''	O
+ne:'	O
+
+ne:१९९७	O
+ne:असारमा	O
+ne:नै	O
+ne:उनको	O
+ne:मंगलादेवी	B-PER
+ne:सँग	O
+ne:विवाह	O
+ne:भयो।	O
+ne:यो	O
+ne:विवाह	O
+ne:गर्न	O
+ne:जेठा	O
+ne:बाजे	O
+ne:र	O
+ne:आमाले	O
+ne:सिंहलाई	O
+ne:आग्रह	O
+ne:गरेका	O
+ne:थिए।	O
+ne:तर	O
+ne:उनको	O
+ne:गिरफ्तारी	O
+ne:विवाह	O
+ne:पश्चात्	O
+ne:वि.सं	O
+ne:.	O
+
+ne:नेपाल	B-ORG
+ne:सशस्त्र	I-ORG
+ne:प्रहरी	I-ORG
+ne:बल	I-ORG
+
+ne:'	O
+ne:''	O
+ne:सिमा	O
+ne:''	O
+ne:'	O
+ne:जाजरकोट	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:इसाई	B-ORG
+ne:प्रजातान्त्रिक	I-ORG
+ne:दल	I-ORG
+ne:(	I-ORG
+ne:उरुग्वे	I-ORG
+ne:)	I-ORG
+
+ne:त्यसको	O
+ne:मृत्युका	O
+ne:पछि	O
+ne:आरामशाह	B-PER
+ne:गद्दीमा	O
+ne:बैठामा	O
+ne:ज्यादे	O
+ne:दिन	O
+ne:टिक	O
+ne:छैनपाओस्।	O
+ne:तब	O
+ne:इल्तुतमिशले	B-PER
+ne:सत्ता	O
+ne:सम्पाली।	O
+
+ne:९०३	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:'	O
+ne:''	O
+ne:मरिचमान	B-PER
+ne:सिंह	I-PER
+ne:श्रेष्ठ	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१९४२-२०१३	O
+ne:)	O
+
+ne:भुवन	B-PER
+ne:केसी	I-PER
+ne:,	O
+ne:निरुता	B-PER
+ne:सिंह	I-PER
+ne:(	O
+ne:नवोदित	O
+ne:)	O
+
+ne:२०४१	O
+ne:सालको	O
+ne:मदन	B-ORG
+ne:पुरस्कार	I-ORG
+ne:पाएका	O
+ne:हुन्।	O
+
+ne:ह्यालिकार्नाससको	B-ORG
+ne:मौसोलियम	I-ORG
+ne:(	O
+ne:Mausoleum	O
+ne:at	O
+ne:Halicarnassus	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:धनकौल	O
+ne:''	O
+ne:'	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:नेपाली	B-ORG
+ne:सैनिक	I-ORG
+ne:विमान	I-ORG
+ne:सेवा	I-ORG
+
+ne:चीनको	B-ORG
+ne:विशाल	I-ORG
+ne:पर्खाल	I-ORG
+
+ne:नेपाल	B-ORG
+ne:कम्युनिष्ट	I-ORG
+ne:पार्टी	I-ORG
+ne:(	I-ORG
+ne:मार्क्सवादी-लेनिनवादी	I-ORG
+ne:)	I-ORG
+
+ne:कमल	B-PER
+ne:थापा	I-PER
+ne:-	O
+ne:उपप्रधानमन्त्री	O
+ne:,	O
+ne:परराष्ट्र।	O
+
+ne:'	O
+ne:''	O
+ne:पैंक	O
+ne:''	O
+ne:'	O
+ne:जाजरकोट	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:'	O
+ne:''	O
+ne:खनदह	O
+ne:''	O
+ne:'	O
+ne:अर्घाखाँची	B-LOC
+ne:जिल्लाको	I-LOC
+ne:उत्तरी	O
+ne:भेगमा	O
+ne:पर्ने	O
+ne:एउटा	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:जर्ज	B-PER
+ne:विल्हेम	I-PER
+ne:फ्रेडरिक्	I-PER
+ne:हिगल	I-PER
+
+ne:अर्जेन्टिना	B-ORG
+ne:राष्ट्रिय	I-ORG
+ne:फुटबल	I-ORG
+ne:टिम	I-ORG
+
+ne:अन्नपूर्ण	B-LOC
+ne:८	O
+ne:,	O
+ne:०९१	O
+ne:मि	O
+
+ne:अन्तर्राष्ट्रिय	B-ORG
+ne:आर्थिक	I-ORG
+ne:कोष	I-ORG
+
+ne:'	O
+ne:''	O
+ne:विराट	B-PER
+ne:कोहली	I-PER
+ne:''	O
+ne:'	O
+
+ne:२०५९	O
+ne:)	O
+ne:मदन	B-ORG
+ne:पुरस्कार	I-ORG
+ne:प्राप्त	O
+ne:गर्ने	O
+ne:विद्वान	O
+ne:हुन्।	O
+
+ne:श्रीवैष्णव	B-ORG
+ne:(	O
+ne:रामानुजाचार्य	B-PER
+ne:अंतर्गत	O
+ne:)	O
+
+ne:जर्ज	B-PER
+ne:बर्नाड	I-PER
+ne:शा	I-PER
+ne:,	O
+
+ne:'	O
+ne:''	O
+ne:लियोनेल	B-PER
+ne:मेस्सी	I-PER
+ne:''	O
+ne:'	O
+
+ne:'	O
+ne:''	O
+ne:भुवनेश्वर	B-PER
+ne:कुमार	I-PER
+ne:''	O
+ne:'	O
+
+ne:प्रजातान्त्रिक	B-LOC
+ne:गणतन्त्र	I-LOC
+ne:कङ्गो	I-LOC
+
+ne:4	O
+ne:)	O
+ne:डडेल्धुरा	B-LOC
+ne:जिल्ला	I-LOC
+ne:''	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:डोटी	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:*आचार्य	O
+ne:बालकृष्ण-	O
+ne:स्वामी	B-PER
+ne:रामदेवको	I-PER
+ne:निकट	O
+ne:सहयोगी	O
+
+ne:उनले	O
+ne:एकीकृत	B-ORG
+ne:नेकपा	I-ORG
+ne:माओवादीका	I-ORG
+ne:अध्यक्ष	O
+ne:पुष्प	B-PER
+ne:कमल	I-PER
+ne:दाहाल	I-PER
+ne:प्रचण्डलाई	O
+ne:पराजित	O
+ne:गर्दै	O
+ne:विजय	O
+ne:हासिल	O
+ne:गरेका	O
+ne:हुन्।	O
+
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:अछाम	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:२	O
+ne:बाट	O
+ne:निर्वाचित	O
+ne:भै	O
+ne:हाल	O
+ne:संविधान	B-ORG
+ne:सभाको	I-ORG
+ne:अध्यक्षको	O
+ne:रूपमा	O
+ne:कार्यरत	O
+ne:छन्।	O
+
+ne:माधवप्रसाद	B-PER
+ne:घिमिरे	I-PER
+ne:(	I-PER
+ne:साहित्यकार	I-PER
+ne:)	I-PER
+
+ne:'	O
+ne:''	O
+ne:वान	B-PER
+ne:कि	I-PER
+ne:मुन	I-PER
+ne:''	O
+ne:'	O
+
+ne:२०२८	O
+ne:सालमा	O
+ne:मदन	B-ORG
+ne:पुरस्कार	I-ORG
+ne:पाएका	O
+ne:हुन्।	O
+
+ne:गौतम	B-LOC
+ne:बुद्ध	I-LOC
+ne:नगर	I-LOC
+ne:जिल्ला	I-LOC
+
+ne:'	O
+ne:''	O
+ne:अचलगढ	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:मध्यमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:जनकपुर	B-ORG
+ne:अञ्चलमा	I-ORG
+ne:पर्ने	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:'	O
+ne:''	O
+ne:सुशील	B-PER
+ne:कोइराला	I-PER
+ne:''	O
+ne:'	O
+
+ne:'	O
+ne:''	O
+ne:दोभान	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:लुम्बिनी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:पाल्पा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:सदरमुकाम	O
+ne:चरिकोटबाट	B-LOC
+ne:करिव	O
+ne:२०	O
+ne:कि.मी	O
+ne:.	O
+
+ne:छाप्रे	B-LOC
+ne:,	I-LOC
+ne:सुर्खेत	I-LOC
+
+ne:'	O
+ne:''	O
+ne:केशवटार	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:गण्डकी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:तनहुँ	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:भारतीय	B-ORG
+ne:विज्ञान	I-ORG
+ne:शिक्षा	I-ORG
+ne:एवं	I-ORG
+ne:अनुसंधान	I-ORG
+ne:संस्थान	I-ORG
+ne:,	I-ORG
+ne:तिरुवनंतपुरम	I-ORG
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:बाजुरा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:राजा	B-PER
+ne:ज्ञानेन्द्र	I-PER
+ne:-	O
+ne:अध्यक्ष	O
+
+ne:'	O
+ne:''	O
+ne:राजेन्द्र	B-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+ne:''	O
+ne:'	O
+
+ne:तृतीय	B-ORG
+ne:(	I-ORG
+ne:कम्युनिष्ट	I-ORG
+ne:)	I-ORG
+ne:इन्टरनेसनल	I-ORG
+
+ne:'	O
+ne:''	O
+ne:पवन	B-PER
+ne:कुमार	I-PER
+ne:चाम्लिङ	I-PER
+ne:''	O
+ne:'	O
+
+ne:अस्ट्रेलिया	B-ORG
+ne:राष्ट्रिय	I-ORG
+ne:क्रिकेट	I-ORG
+ne:टिम	I-ORG
+
+ne:सुदूर-पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+
+ne:शेर-ए-कश्मीर	B-ORG
+ne:कृषि	I-ORG
+ne:विज्ञान	I-ORG
+ne:एवं	I-ORG
+ne:कश्मीर	I-ORG
+ne:प्रौद्योगिकी	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:'	O
+ne:''	O
+ne:रोनाल्डिन्हो	B-PER
+ne:''	O
+ne:'	O
+
+ne:चीनको	B-ORG
+ne:विशाल	I-ORG
+ne:पर्खाल	I-ORG
+
+ne:राजेन्द्र	B-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+
+ne:'	O
+ne:''	O
+ne:लुँयाटा	O
+ne:''	O
+ne:'	O
+ne:बझाङ	B-LOC
+ne:जिल्लाको	I-LOC
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:नेदरल्यान्ड	B-ORG
+ne:राष्ट्रिय	I-ORG
+ne:क्रिकेट	I-ORG
+ne:टिम	I-ORG
+
+ne:९१८	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:भारतीय	B-ORG
+ne:व्यवस्थापन	I-ORG
+ne:संस्थान	I-ORG
+ne:,	I-ORG
+ne:कोझीकोड	I-ORG
+
+ne:'	O
+ne:''	O
+ne:तिपसा	O
+ne:''	O
+ne:'	O
+ne:अल्जेरियाको	B-LOC
+ne:तिपजामा	B-LOC
+ne:अवस्थित	O
+ne:छ	O
+ne:।	O
+ne:यो	O
+ne:क्षेत्रलाई	O
+ne:युनेस्को	B-ORG
+ne:ले	O
+ne:सन	O
+ne:१९८२	O
+ne:सालमा	O
+ne:विश्व	B-ORG
+ne:सम्पदा	I-ORG
+ne:क्षेत्रको	I-ORG
+ne:मान्यता	O
+ne:दिएको	O
+ne:थियो	O
+ne:।	O
+
+ne:पेट्रोलियम	B-ORG
+ne:एवं	I-ORG
+ne:ऊर्जा	I-ORG
+ne:अध्ययन	I-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:देहरादून	B-LOC
+
+ne:जर्ज	B-PER
+ne:विल्हेम	I-PER
+ne:फ्रेडरिक्	I-PER
+ne:हिगल	I-PER
+
+ne:गान्धीवादी	O
+ne:अर्थव्यवस्थाको	O
+ne:हत्या	O
+ne:एवं	O
+ne:ग्रामीण	O
+ne:भारत	B-LOC
+ne:लाई	O
+ne:नदेख्नु	O
+
+ne:उत्तर	B-ORG
+ne:बंगाल	I-ORG
+ne:विश्वविद्यालय	I-ORG
+
+ne:**	O
+ne:जिम्बाब्वेमा	B-LOC
+ne:५	O
+ne:मार्चका	O
+ne:दिन	O
+ne:“मण्डेला	O
+ne:दिवस”	O
+ne:मनाउँदै	O
+ne:सार्वजनिक	O
+ne:बिदा	O
+ne:घोषणा	O
+ne:गरियो	O
+ne:।	O
+
+ne:भगवतीपुर	B-LOC
+ne:,	I-LOC
+ne:तनहुँ	I-LOC
+ne:-	O
+ne:तनहुँ	B-LOC
+ne:जिल्लाको	I-LOC
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:आजाद	B-ORG
+ne:हिन्द	I-ORG
+ne:फौज	I-ORG
+
+ne:लाङटाङ	B-ORG
+ne:राष्ट्रिय	I-ORG
+ne:निकुञ्ज	I-ORG
+
+ne:बाल	B-ORG
+ne:अधिकार	I-ORG
+ne:महासन्धि	I-ORG
+
+ne:ललितपुर	B-LOC
+ne:जिल्ला	I-LOC
+ne:(	I-LOC
+ne:उत्तर	I-LOC
+ne:प्रदेश	I-LOC
+ne:)	I-LOC
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:डोटी	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:अन्तर्राष्ट्रिय	B-ORG
+ne:नागरिक	I-ORG
+ne:उड्डयन	I-ORG
+ne:सङ्गठन	I-ORG
+
+ne:नेपाल	B-ORG
+ne:राष्ट्र	I-ORG
+ne:बैंक	I-ORG
+
+ne:'	O
+ne:''	O
+ne:उमेश	B-PER
+ne:यादव	I-PER
+ne:''	O
+ne:'	O
+
+ne:दालचिनी	O
+ne:र	O
+ne:तेजपातको	B-LOC
+ne:स्वाद	O
+ne:सुवासिलो	O
+ne:र	O
+ne:मीठो	O
+ne:हुन्छ	O
+ne:र	O
+ne:यसलाई	O
+ne:अधिकतम	O
+ne:मसलाको	O
+ne:रूपमा	O
+ne:प्रयोग	O
+ne:गरिन्छ।	O
+
+ne:दयाहाङ	B-PER
+ne:राईको	I-PER
+ne:सहायक	O
+ne:निर्देशन	O
+ne:छ	O
+ne:।	O
+
+ne:ICFAI	B-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:त्रिपुरा	B-LOC
+
+ne:यो	O
+ne:इण्डोनेशियामा	B-LOC
+ne:अत्यधिकमात्रामा	O
+ne:रहेको	O
+ne:भएता	O
+ne:पनि	O
+ne:हाल	O
+ne:त्यहाँको	O
+ne:सरकारले	O
+ne:त्यो	O
+ne:कुप्रथा	O
+ne:हटाएको	O
+ne:छ	O
+ne:।	O
+
+ne:सेरिल	O
+ne:स्याण्डबर्ग	O
+ne:फेसबुकमा	B-ORG
+ne:''	O
+
+ne:धारापानी	B-LOC
+ne:,	I-LOC
+ne:अर्घाखाँची	I-LOC
+
+ne:मयल	B-LOC
+ne:(	I-LOC
+ne:वनस्पति	I-LOC
+ne:)	I-LOC
+
+ne:(	O
+ne:एडभार्ड	B-PER
+ne:मोजर	I-PER
+ne:र	O
+ne:जोहन	B-PER
+ne:ओ	I-PER
+ne:केफेसँग	I-PER
+ne:साझेदारी	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:लोकेन्द्र	B-PER
+ne:बहादुर	I-PER
+ne:चन्द	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:२	O
+ne:/	O
+ne:४	O
+ne:)	O
+ne:(	O
+ne:१९४०-	O
+ne:)	O
+
+ne:चौधरी	B-ORG
+ne:चरण	I-ORG
+ne:सिंह	I-ORG
+ne:हरियाणा	I-ORG
+ne:कृषि	I-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	I-ORG
+ne:हिसार	B-ORG
+
+ne:राजेश	B-PER
+ne:हमाल	I-PER
+ne:,	O
+ne:गौरी	B-PER
+ne:मल्ल	I-PER
+
+ne:दोलखा	B-LOC
+ne:जिल्लाको	I-LOC
+ne:श्यामा	B-LOC
+ne:गाविस	O
+ne:वडा	O
+ne:नं	O
+ne:.	O
+
+ne:कृषि	B-ORG
+ne:तथा	I-ORG
+ne:पशु	I-ORG
+ne:विज्ञान	I-ORG
+ne:अध्ययन	I-ORG
+ne:संस्थान	I-ORG
+
+ne:३	O
+ne:श्री	O
+ne:कृष्णबहादुर	B-PER
+ne:महरा	I-PER
+ne:-	O
+ne:गृह	O
+
+ne:(	O
+ne:कैलाश	B-PER
+ne:सत्यार्थीसँग	I-PER
+ne:साझेदारी	O
+ne:)	O
+
+ne:सिङ्गी	B-ORG
+ne:डे	I-ORG
+ne:बेमराहा	I-ORG
+ne:कडा	I-ORG
+ne:प्रकृति	I-ORG
+ne:आरक्ष	I-ORG
+
+ne:२	O
+ne:)	O
+ne:मदन	B-ORG
+ne:पुरस्कार	I-ORG
+ne:२०४६	O
+
+ne:लोहारपानी	B-LOC
+ne:,	I-LOC
+ne:दाङ	I-LOC
+
+ne:अन्नपूर्ण	B-ORG
+ne:संरक्षण	I-ORG
+ne:क्षेत्र	I-ORG
+
+ne:'	O
+ne:''	O
+ne:वालडेन	O
+ne:''	O
+ne:'	O
+ne:थोरोद्धारा	B-PER
+ne:लिखित	O
+ne:बहुचर्चित	O
+ne:पुस्तक	O
+ne:हो।	O
+
+ne:वीरेन्द्र	B-PER
+ne:वीर	I-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+
+ne:फर्गी	B-PER
+ne:(	I-PER
+ne:गायिका	I-PER
+ne:)	I-PER
+
+ne:६६१	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:मनमाउथ	B-ORG
+ne:रेजिमेण्टल	I-ORG
+ne:संग्रहालय	I-ORG
+
+ne:गेओर्गि	B-PER
+ne:दिमित्रोभ	I-PER
+ne:मिखाईलोभ	I-PER
+
+ne:'	O
+ne:''	O
+ne:रमेश	B-PER
+ne:पोखरियाल	I-PER
+ne:''	O
+ne:'	O
+
+ne:संयुक्त	B-LOC
+ne:राज्य	I-LOC
+ne:अमेरिका	I-LOC
+
+ne:२०३०	O
+ne:साल	O
+ne:जेठ	O
+ne:१९	O
+ne:गते	O
+ne:काठमाडौंमा	B-LOC
+ne:भयो।	O
+
+ne:न्यातपोल	B-ORG
+ne:मन्दिर	I-ORG
+ne:(	O
+ne:)	O
+
+ne:१९१०	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरूलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:बाजुरा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:'	O
+ne:''	O
+ne:बकिंघम	O
+ne:प्यालेस	O
+ne:''	O
+ne:'	O
+ne:बेलायतको	B-LOC
+ne:राजदरवार	O
+ne:हो	O
+ne:।	O
+
+ne:अन्नपूर्ण	B-ORG
+ne:संरक्षण	I-ORG
+ne:क्षेत्र	I-ORG
+
+ne:राजेश	B-PER
+ne:हमाल	I-PER
+ne:,	O
+ne:करिश्मा	B-PER
+ne:मानन्धर	I-PER
+
+ne:[[भारतबाट	O
+ne:श्रीलंकाको	B-LOC
+ne:निम्ति	O
+ne:राम-सेतुको	O
+ne:नासा	B-ORG
+ne:द्वारा	O
+ne:लिइएको	O
+ne:फोटो।]]	O
+
+ne:जर्ज	B-PER
+ne:विल्हेम	I-PER
+ne:फ्रेडरिक्	I-PER
+ne:हिगल	I-PER
+ne:,	O
+
+ne:अन्तर्राष्ट्रिय	B-ORG
+ne:नागरिक	I-ORG
+ne:उड्डयन	I-ORG
+ne:सङ्गठन	I-ORG
+
+ne:'	O
+ne:''	O
+ne:हथिऔल	O
+ne:''	O
+ne:'	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:यिनी	O
+ne:माओवादी	O
+ne:सभासद्	O
+ne:हिसिला	B-PER
+ne:यमीका	I-PER
+ne:बाबु	O
+ne:हुन्।	O
+
+ne:न्युजिल्यान्ड	B-ORG
+ne:राष्ट्रिय	I-ORG
+ne:क्रिकेट	I-ORG
+ne:टिम	I-ORG
+
+ne:''बाम्ती	O
+ne:''	O
+ne:जनकपुर	B-ORG
+ne:अञ्चलको	I-ORG
+ne:रामेछाप	B-LOC
+ne:जिल्लामा	I-LOC
+ne:पर्ने	O
+ne:एक	O
+ne:गा.वि.स	B-LOC
+ne:.	I-LOC
+ne:हो।	O
+
+ne:;	O
+ne:दक्षिण	B-ORG
+ne:अमेरिकी	I-ORG
+ne:फुटबल	I-ORG
+ne:संघ	I-ORG
+ne:(	I-ORG
+ne:CONMEBOL	I-ORG
+ne:)	I-ORG
+ne:(	O
+ne:३	O
+ne:)	O
+
+ne:२०५८मा	O
+ne:मदन	B-ORG
+ne:पुरस्कार	I-ORG
+ne:पाएका	O
+ne:हुन्।	O
+
+ne:दिल्ली	B-ORG
+ne:विश्वविद्यालय	I-ORG
+ne:,	O
+ne:दिल्ली	B-LOC
+
+ne:;	O
+ne:एसीसी	B-ORG
+ne:(	O
+ne:३	O
+ne:)	O
+
+ne:२०२५	O
+ne:सालको	O
+ne:गोरखापत्रमा	B-ORG
+ne:उहाँको	O
+ne:पहिलो	O
+ne:रचना	O
+ne:छापिएको	O
+ne:हो।	O
+ne:उनका	O
+ne:प्रकाशित	O
+ne:कृतिहरूः	O
+
+ne:म्यानुअल	B-PER
+ne:न्युएर	I-PER
+ne:(	O
+ne:साल्के	B-ORG
+ne:०४	I-ORG
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:नरेन्द्र	B-PER
+ne:मोदी	I-PER
+ne:''	O
+ne:'	O
+
+ne:बाबुराम	B-PER
+ne:भट्टराईको	I-PER
+ne:जन्मस्थल	O
+ne:पनि	O
+ne:हो।	O
+
+ne:'	O
+ne:''	O
+ne:महेन्द्र	B-PER
+ne:वीर	I-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+ne:''	O
+ne:'	O
+
+ne:संयुक्त	B-LOC
+ne:राज्य	I-LOC
+ne:अमेरिकामा	I-LOC
+ne:पर्ने	O
+ne:एक	O
+ne:राज्य।	O
+
+ne:नेपाली	B-ORG
+ne:कांग्रेसका	I-ORG
+ne:सभापति	O
+ne:गिरिजाप्रसाद	B-PER
+ne:कोइराला	I-PER
+
+ne:'	O
+ne:''	O
+ne:मधुवनगोठ	O
+ne:''	O
+ne:'	O
+ne:सर्लाही	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:'	O
+ne:''	O
+ne:सुर्नयागाढ	O
+ne:नदि	O
+ne:''	O
+ne:'	O
+ne:बैतडी	B-LOC
+ne:जिल्लामा	I-LOC
+ne:पर्ने	O
+ne:नदि	O
+ne:हो	O
+ne:!	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:बझाङ	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:६२९	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरुलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:पशुपतिनाथ	B-ORG
+ne:मन्दिर	I-ORG
+ne:(	O
+ne:)	O
+
+ne:'	O
+ne:''	O
+ne:मारिन	B-PER
+ne:सिलिच	I-PER
+ne:'	O
+ne:''	O
+
+ne:चलचित्रमा	O
+ne:स्क्रीनको	O
+ne:अगाडी	O
+ne:शाहरूख	B-PER
+ne:खानसँग	I-PER
+ne:सह	O
+ne:कलाकारका	O
+ne:रूपमा	O
+ne:फिर्ता	O
+ne:फर्किए।	O
+
+ne:अल	B-ORG
+ne:इन्डिया	I-ORG
+ne:अन्ना	I-ORG
+ne:द्रविड	I-ORG
+ne:मुनेत्र	I-ORG
+ne:कडगम	I-ORG
+
+ne:राजेश	B-PER
+ne:हमाल	I-PER
+ne:,	O
+ne:करिश्मा	B-PER
+ne:मानन्धर	I-PER
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:अछाम	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:'	O
+ne:''	O
+ne:शिखर	B-PER
+ne:धवन	I-PER
+ne:''	O
+ne:'	O
+
+ne:नेपाली	B-ORG
+ne:सैनिक	I-ORG
+ne:विमान	I-ORG
+ne:सेवा	I-ORG
+
+ne:कालिका	B-LOC
+ne:,	I-LOC
+ne:दैलेख	I-LOC
+
+ne:दीपेन्द्र	B-PER
+ne:वीर	I-PER
+ne:विक्रम	I-PER
+ne:शाह	I-PER
+
+ne:१९९५	O
+ne:ताका	O
+ne:हलिवुडमा	B-LOC
+ne:प्रवेश	O
+ne:गरेकी	O
+ne:हुन्	O
+ne:।	O
+
+ne:उहाँको	O
+ne:जन्म	O
+ne:अछाम	B-LOC
+ne:जिल्लामा	I-LOC
+ne:भएको	O
+ne:हो|	O
+
+ne:पूर्वाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+
+ne:;	O
+ne:अफ्रिकी	B-ORG
+ne:फुटबल	I-ORG
+ne:संघ	I-ORG
+ne:(	I-ORG
+ne:CAF	I-ORG
+ne:)	I-ORG
+ne:(	O
+ne:६	O
+ne:)	O
+
+ne:मंगलबारे	B-LOC
+ne:हाट	O
+ne:लाग्ने	O
+ne:दिन	O
+ne:मंगलबार	O
+ne:,	O
+
+ne:'	O
+ne:''	O
+ne:परमानन्द	B-PER
+ne:झा	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१९४४–	O
+ne:)	O
+
+ne:एरोन	B-PER
+ne:फिन्च	I-PER
+ne:-	O
+ne:७४	O
+ne:(	O
+ne:४७	O
+ne:)	O
+
+ne:नेपाली	B-ORG
+ne:राष्ट्रिय	I-ORG
+ne:क्रिकेट	I-ORG
+ne:टिम	I-ORG
+
+ne:संयुक्त	B-ORG
+ne:राष्ट्र	I-ORG
+ne:खाद्य	I-ORG
+ne:एवं	I-ORG
+ne:कृषि	I-ORG
+ne:संगठन	I-ORG
+
+ne:नेपाल	B-ORG
+ne:चार्टर्ड	I-ORG
+ne:एकाउन्टेन्ट्स	I-ORG
+ne:संस्था	I-ORG
+
+ne:'	O
+ne:''	O
+ne:तेल्घा	O
+ne:''	O
+ne:'	O
+ne:नेपालको	B-LOC
+ne:पश्चिमाञ्चल	B-LOC
+ne:विकास	I-LOC
+ne:क्षेत्र	I-LOC
+ne:अन्तर्गत	O
+ne:लुम्बिनी	B-LOC
+ne:अञ्चलमा	I-LOC
+ne:पर्ने	O
+ne:पाल्पा	B-LOC
+ne:जिल्लामा	I-LOC
+ne:अवस्थित	O
+ne:एक	O
+ne:गाउँ	B-LOC
+ne:विकास	I-LOC
+ne:समिति	I-LOC
+ne:हो	O
+ne:।	O
+
+ne:सुशान्त	B-PER
+ne:सिंह	I-PER
+ne:राजपुत	I-PER
+
+ne:'	O
+ne:''	O
+ne:युवराज	B-PER
+ne:सिंह	I-PER
+ne:''	O
+ne:'	O
+
+ne:'	O
+ne:''	O
+ne:भीमसेन	B-PER
+ne:थापा	I-PER
+ne:''	O
+ne:'	O
+ne:(	O
+ne:१७७५-१८३९	O
+ne:)	O
+
+ne:महिला	B-ORG
+ne:विरुद्ध	I-ORG
+ne:हुने	I-ORG
+ne:सबै	I-ORG
+ne:प्रकारका	I-ORG
+ne:भेदभाव	I-ORG
+ne:उन्मूलन	I-ORG
+ne:गर्ने	I-ORG
+ne:महासन्धि	I-ORG
+ne:१९७९	I-ORG
+
+ne:प्राकृतिक	B-ORG
+ne:इतिहास	I-ORG
+ne:संग्रहालय	I-ORG
+ne:नेपाल	I-ORG
+
+ne:डि	B-ORG
+ne:नोय	I-ORG
+ne:ट्साइट	I-ORG
+
+ne:'	O
+ne:''	O
+ne:पाराकाट्ने	O
+ne:''	O
+ne:'	O
+ne:बझाङ	B-LOC
+ne:जिल्लाको	I-LOC
+ne:एक	O
+ne:गाविस	O
+ne:हो।	O
+
+ne:फुलेक	B-LOC
+ne:गा.वि.स	I-LOC
+ne:.	I-LOC
+
+ne:ब्रिटिश	B-ORG
+ne:इस्ट	I-ORG
+ne:इन्डिया	I-ORG
+ne:कम्पनी	I-ORG
+
+ne:२००४	O
+ne:-	O
+ne:भारतको	B-LOC
+ne:प्रधानमन्त्री	B-PER
+
+ne:१९०१	O
+ne:''	O
+ne:'	O
+ne:ईसा	B-PER
+ne:मसीहको	I-PER
+ne:जन्म	O
+ne:देखि	O
+ne:पूर्वका	O
+ne:वर्षहरूलाई	O
+ne:दर्शाउँदछ।	O
+ne:ईसाको	B-PER
+ne:जन्मलाई	O
+ne:अधार	O
+ne:मानेर	O
+ne:त्यसको	O
+ne:जन्मदेखि	O
+ne:ई.पू	O
+ne:.	O
+
+ne:नेपाल	B-ORG
+ne:टेलिभिजन	I-ORG
+ne:(	O
+ne:सरकारी	O
+ne:स्वामित्व	O
+ne:रहेको	O
+ne:च्यानल॒	O
+
+ne:डा.	B-PER
+ne:तुलसी	I-PER
+ne:गिरी	I-PER
+ne:-	O
+ne:परराष्ट्र	O
+

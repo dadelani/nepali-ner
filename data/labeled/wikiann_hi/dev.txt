@@ -1,0 +1,6808 @@
+हावड़ा B-ORG
+जंक्शन I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+त्वय्फेल्फोंतैन B-LOC
+( O
+Twyfelfontein O
+) O
+
+' O
+'' O
+विलियम B-PER
+क्लिंटन I-PER
+'' O
+' O
+( O
+born O
+1946 O
+) O
+
+पूर्णिया B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+अनुप्रेषित O
+क़ुतुबुद्दीन B-PER
+मुबारक़ I-PER
+ख़िलजी I-PER
+
+दक्षिणी B-LOC
+गोलार्ध I-LOC
+की O
+सर्दियों O
+में O
+
+नई B-ORG
+दिल्ली I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+अनुप्रेषित O
+ओल्ड B-LOC
+ट्रैफर्ड I-LOC
+क्रिकेट I-LOC
+मैदान I-LOC
+
+72° O
+35 O
+' O
+E O
+अहमदाबाद B-LOC
+, O
+
+भारतीय B-ORG
+स्टेट I-ORG
+बैंक I-ORG
+
+पश्चिम B-ORG
+बंगाल I-ORG
+राष्ट्रीय I-ORG
+न्यायिक I-ORG
+विज्ञान I-ORG
+विश्वविद्यालय I-ORG
+
+हैदराबाद B-LOC
+-- O
+1080 O
+किमी O
+, O
+
+गेब्रियल B-PER
+गार्सिया I-PER
+मार्ख़ेस I-PER
+
+भारत B-LOC
+( O
+1992 O
+से O
+) O
+
+शंकर B-ORG
+अन्तर्राष्ट्रीय I-ORG
+गुड़िया I-ORG
+संग्रहालय I-ORG
+, I-ORG
+नई I-ORG
+दिल्ली I-ORG
+
+बड़े B-ORG
+अच्छे I-ORG
+लगते I-ORG
+हैं I-ORG
+
+मध्य B-LOC
+प्रदेश I-LOC
+( O
+264 O
+) O
+
+भारतीय B-ORG
+दूरसंचार I-ORG
+विनियामक I-ORG
+प्राधिकरण I-ORG
+
+रियो B-LOC
+डि I-LOC
+जेनेरो I-LOC
+
+ऑस्टिन B-LOC
+, I-LOC
+टेक्सास I-LOC
+
+किंग्स्टन B-LOC
+, I-LOC
+नॉर्फ़ोक I-LOC
+द्वीप I-LOC
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+६२ I-ORG
+
+जयन्त B-PER
+विष्णु I-PER
+नार्लीकर I-PER
+
+विम्बलडन]] O
+, O
+लंदन B-LOC
+, O
+संयुक्त B-LOC
+राजशाही I-LOC
+
+२० O
+दिसम्बर O
+– O
+नलिनी B-PER
+जयवंत I-PER
+
+सैम्युअल B-PER
+टेलर I-PER
+कॉलरिज I-PER
+
+' O
+'' O
+' O
+'' O
+– O
+बेल्जियम B-LOC
+राजत्व O
+
+टाटानगर B-ORG
+जंक्शन I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+कोहिस्तान B-LOC
+ज़िला I-LOC
+( I-LOC
+पाकिस्तान I-LOC
+) I-LOC
+
+प्रमोद B-ORG
+भसीन I-ORG
+, O
+सीईओ O
+एवं O
+अध्यक्ष O
+, O
+जेनपैक्ट B-ORG
+
+कुनेने B-LOC
+- O
+अंगोला B-LOC
+, O
+नामीबिया B-LOC
+, O
+बोत्सवाना B-LOC
+
+मध्य B-LOC
+अफ़्रीकी I-LOC
+गणराज्य I-LOC
+
+''निर्माण O
+संस्था O
+'' O
+- O
+राजश्री B-ORG
+प्रोडक्शंस I-ORG
+
+पुनर्प्रेषित O
+मैत्री B-LOC
+अनुसंधान I-LOC
+केन्द्र I-LOC
+
+गीबेन O
+( O
+Gießen O
+) O
+, O
+जर्मनी B-LOC
+
+चीन B-ORG
+की I-ORG
+विशाल I-ORG
+दीवार I-ORG
+
+रिवेंज B-ORG
+( I-ORG
+टीवी I-ORG
+शृंखला I-ORG
+) I-ORG
+
+पुनर्प्रेषित O
+देसिया B-ORG
+मुरपोक्कु I-ORG
+द्रविड़ I-ORG
+कड़गम I-ORG
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+२१९ I-ORG
+( I-ORG
+चीन I-ORG
+) I-ORG
+
+त्रिस्तान B-LOC
+दा I-LOC
+कून्हा I-LOC
+
+छत्रपति B-ORG
+शिवाजी I-ORG
+महाराज I-ORG
+वस्तु I-ORG
+संग्रहालय I-ORG
+
+प्लाज़्मा B-PER
+( I-PER
+भौतिकी I-PER
+) I-PER
+
+लोरेन्ज B-ORG
+उल्लंघन I-ORG
+के I-ORG
+लिए I-ORG
+आधुनिक I-ORG
+खोज I-ORG
+– O
+विभिन्न O
+आधुनिक O
+परिक्षण O
+
+१९९० B-ORG
+अमरीकी I-ORG
+ओपन I-ORG
+टेनिस I-ORG
+प्रतियोगिता I-ORG
+
+'' O
+कर्नाटक B-LOC
+'' O
+' O
+
+कोलकाता B-ORG
+नाईट I-ORG
+राइडर्स I-ORG
+
+भारतीय B-ORG
+नौवहन I-ORG
+निगम I-ORG
+
+केष्टो B-PER
+मुखर्जी I-PER
+- O
+प्राध्यापक O
+'कालू O
+' O
+
+''लंका O
+'' O
+रावण B-PER
+के O
+राज्य O
+का O
+नाम O
+था। O
+
+अनुप्रेषित O
+डाक B-LOC
+सूचक I-LOC
+संख्या I-LOC
+
+पुनर्प्रेषित O
+यूजीन B-PER
+पेत्रोविच I-PER
+चेलिशेव I-PER
+
+रुस्तमजी B-PER
+होमसजी I-PER
+मोदी I-PER
+
+हरियाणा B-LOC
+( O
+240 O
+) O
+, O
+राजस्थान B-LOC
+( O
+450 O
+) O
+
+लिओनार्दो B-PER
+दा I-PER
+विंची I-PER
+
+इसका O
+उल्लेख O
+विद्यानिवास B-PER
+मिश्र I-PER
+द्वारा O
+रचित O
+''अनछुए O
+बिंदु O
+'' O
+( O
+ISBN-10 O
+8170165644 O
+और O
+ISBN-13 O
+9788170165644 O
+) O
+नामक O
+पुस्तक O
+में O
+भी O
+मिलते O
+हैं। O
+
+राजेन्द्र B-PER
+सिंह I-PER
+( I-PER
+रज्जू I-PER
+भैया I-PER
+) I-PER
+
+बिधान B-PER
+चंद्र I-PER
+राय I-PER
+
+बलूचिस्तान B-LOC
+( I-LOC
+पाकिस्तान I-LOC
+) I-LOC
+
+मैरी B-PER
+पियर्स I-PER
+ने O
+मोनिका B-PER
+सेलेस I-PER
+को O
+7–6 O
+( O
+2 O
+) O
+, O
+6–3 O
+से O
+हराया। O
+
+अनुप्रेषित O
+भारतीय B-ORG
+सांस्कृतिक I-ORG
+संबंध I-ORG
+परिषद I-ORG
+
+''निर्माता O
+'' O
+- O
+ख़्वाजा B-PER
+अहमद I-PER
+अब्बास I-PER
+
+' O
+'' O
+ग्रेसियो O
+'' O
+' O
+इटली B-LOC
+
+वेस्त्रा B-LOC
+योतालान्द I-LOC
+लैन I-LOC
+
+' O
+'' O
+ओमान B-LOC
+'' O
+' O
+
+रसायन B-LOC
+विज्ञान I-LOC
+का I-LOC
+इतिहास I-LOC
+
+) O
+जापान B-LOC
+का O
+रंगमंचीय O
+चित्रकार। O
+
+अनुप्रेषित O
+काकेशस B-LOC
+पर्वत I-LOC
+शृंखला I-LOC
+
+अनुप्रेषित O
+नालापत B-PER
+बालमणि I-PER
+अम्मा I-PER
+
+फणीश्वर B-PER
+नाथ I-PER
+' I-PER
+रेणु I-PER
+' I-PER
+
+जनगीता O
+हरिवंश B-PER
+राय I-PER
+बच्चन I-PER
+की O
+एक O
+कृति O
+है। O
+
+पूर्णिया B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+राष्ट्रीय B-ORG
+प्रौद्योगिकी I-ORG
+संस्थान I-ORG
+, I-ORG
+राउरकेला I-ORG
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+५५ I-ORG
+
+करमचंद B-ORG
+'' O
+( O
+1985-1988 O
+) O
+
+जमुई B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+प्रफुल्ल B-PER
+चन्द्र I-PER
+राय I-PER
+
+मैं O
+नारी O
+हूँ O
+विष्णु B-PER
+प्रभाकर I-PER
+द्वारा O
+रचित O
+कहानी O
+संग्रह O
+है। O
+
+पिंचू B-PER
+कपूर I-PER
+- O
+पुलिस O
+कमिश्नर O
+
+' O
+'' O
+कुरितिबा B-LOC
+'' O
+' O
+
+कांगड़ा B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+पुनर्प्रेषित O
+राष्ट्रीय B-ORG
+अन्वेषण I-ORG
+अभिकरण I-ORG
+
+पुनर्प्रेषित O
+१९९४ B-ORG
+अमरीकी I-ORG
+ओपन I-ORG
+टेनिस I-ORG
+प्रतियोगिता I-ORG
+
+डी B-PER
+डी B-PER
+कौशाम्बी I-PER
+
+ए B-PER
+के I-PER
+हंगल I-PER
+- O
+प्रोफ़ेसर O
+हरबंसलाल O
+
+जगदीश B-PER
+राज I-PER
+- O
+पुलिस O
+इंस्पेक्टर O
+
+दिव्या B-PER
+दत्ता I-PER
+( O
+शोबा O
+) O
+
+मलयालम B-PER
+साहित्य I-PER
+का I-PER
+इतिहास I-PER
+
+ब्रिटिश B-LOC
+भारत I-LOC
+में I-LOC
+रियासतें I-LOC
+
+निकरागुआ B-ORG
+समाजवादी I-ORG
+दल I-ORG
+
+रिचर्ड B-PER
+फिलिप्स I-PER
+फाइनमेन I-PER
+
+टाइम्स B-ORG
+नाऊ I-ORG
+इंडिया B-ORG
+टीवी I-ORG
+-सीवोटर O
+
+नालंदा B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+विद्युत B-ORG
+चाप I-ORG
+भट्ठी I-ORG
+
+ऑल B-ORG
+इंडिया I-ORG
+फार्वर्ड I-ORG
+ब्लाक I-ORG
+
+गीता B-PER
+सिद्धार्थ I-PER
+- O
+अपर््णा O
+
+अल्मोड़ा B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+जापान B-LOC
+- O
+बेंजाइतेन O
+Benzaiten O
+( O
+弁才天 O
+/ O
+弁財天 O
+) O
+
+88° O
+22 O
+' O
+E O
+कोलकाता B-LOC
+, O
+
+रामटेक B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+बिपाशा B-PER
+बसु I-PER
+- O
+वर््षा O
+
+राष्ट्रीय B-ORG
+मुक्त I-ORG
+विद्यालयी I-ORG
+शिक्षा I-ORG
+संस्थान I-ORG
+
+विंडोज़ B-ORG
+ऍक्सपी I-ORG
+SP2 O
+बिल्ड O
+2180 O
+
+मध्य B-ORG
+प्रदेश I-ORG
+के I-ORG
+मुख्यमन्त्रियों I-ORG
+की I-ORG
+सूची I-ORG
+
+ब्रिटेन B-PER
+के I-PER
+प्रधान I-PER
+मन्त्री I-PER
+
+आचार्य B-PER
+हजारी I-PER
+प्रसाद I-PER
+द्विवेदी I-PER
+
+हार्ड B-ORG
+डिस्क I-ORG
+ड्राइव I-ORG
+
+अनुप्रेषित O
+इंदिरा B-LOC
+गांधी I-LOC
+राष्ट्रीय I-LOC
+उद्यान I-LOC
+
+अनुप्रेषित O
+ऐन्डीज़ B-LOC
+पर्वत I-LOC
+शृंखला I-LOC
+
+अनुप्रेषित O
+लिओनार्दो B-PER
+दा I-PER
+विंची I-PER
+
+टाइम्स B-ORG
+नाऊ I-ORG
+इंडिया B-ORG
+टीवी I-ORG
+-सीवोटर O
+
+== O
+बाड़मेर B-LOC
+( O
+बाहड़मेर O
+) O
+नाम O
+की O
+व्युत्पत्ति O
+== O
+
+भारतीय B-ORG
+लघु I-ORG
+उद्योग I-ORG
+विकास I-ORG
+बैंक I-ORG
+
+अनुप्रेषित O
+गुरु B-ORG
+गोबिन्द I-ORG
+सिंह I-ORG
+इन्द्रप्रस्थ I-ORG
+विश्वविद्यालय I-ORG
+
+भारतीय B-ORG
+प्रौद्योगिकी I-ORG
+संस्थान I-ORG
+मद्रास I-ORG
+
+** O
+बर्न B-LOC
+( O
+दूतावास O
+) O
+
+महाराणा B-PER
+शम्भू I-PER
+( O
+1861-1874 O
+) O
+
+१३० O
+, O
+०५८ O
+कि.मी२ O
+-- O
+तमिल B-LOC
+नाडु I-LOC
+, O
+भारत B-LOC
+का O
+राज्य O
+
+मंडी B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+' O
+'' O
+वेरोना B-LOC
+'' O
+' O
+इटली B-LOC
+
+अनुप्रेषित O
+द B-ORG
+इम्पीरियल I-ORG
+, I-ORG
+नई I-ORG
+दिल्ली I-ORG
+
+इन्दिरा B-ORG
+गांधी I-ORG
+राष्ट्रीय I-ORG
+मुक्त I-ORG
+विश्‍वविद्यालय I-ORG
+
+अनुप्रेषित O
+हो॰ B-PER
+वे॰ I-PER
+शेषाद्री I-PER
+
+हालांकि O
+, O
+कुछ O
+प्रमोटर O
+वाटर्स O
+की O
+धमकी O
+से O
+आहत O
+थे O
+और O
+कई O
+महीने O
+बाद O
+टोरंटो B-LOC
+में O
+बिक्री O
+के O
+लिए O
+टिकट O
+गए O
+( O
+और O
+कुछ O
+घंटों O
+के O
+भीतर O
+बिक O
+गए O
+) O
+. O
+
+' O
+'' O
+स्टार B-ORG
+प्लस I-ORG
+'' O
+' O
+
+पश्चिम B-LOC
+बंगाल I-LOC
+( O
+77 O
+) O
+
+कलाहांडी B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+तुर्की B-LOC
+में O
+केटालहोयूक O
+, O
+7500 O
+ई.पू O
+. O
+
+मेम्फिस B-LOC
+, I-LOC
+टेनेसी I-LOC
+
+जम्मू B-LOC
+और I-LOC
+कश्मीर I-LOC
+( O
+274 O
+) O
+
+२००७ B-ORG
+विम्बलडन I-ORG
+टेनिस I-ORG
+प्रतियोगिता I-ORG
+
+जस्टिन B-PER
+मैकार्थी I-PER
+( I-PER
+अमेरिकी I-PER
+इतिहासकार I-PER
+) I-PER
+
+गुलज़ार B-PER
+( I-PER
+गीतकार I-PER
+) I-PER
+
+जोनाथन B-PER
+एलरिच I-PER
+/ O
+एंडी B-PER
+रैम I-PER
+ने O
+बॉब B-PER
+ब्रायन I-PER
+/ O
+माइक B-PER
+ब्रायन I-PER
+को O
+4-6 O
+, O
+6-3 O
+, O
+[13-11] O
+से O
+हराया। O
+
+अनुप्रेषित O
+जगद्गुरु B-ORG
+रामानन्दाचार्य I-ORG
+राजस्थान I-ORG
+संस्कृत I-ORG
+विश्वविद्यालय I-ORG
+
+' O
+'' O
+1954 O
+'' O
+' O
+इलाहाबाद B-LOC
+में O
+मनोविज्ञानशाला O
+की O
+स्थापना। O
+
+' O
+'' O
+दिल्ली B-LOC
+' O
+'' O
+से O
+
+जम्मू B-ORG
+कश्मीर I-ORG
+लाइट I-ORG
+इन्फेंट्री I-ORG
+
+योहानेस B-PER
+डिडरिक I-PER
+वान I-PER
+डर I-PER
+वाल्स I-PER
+
+आदित्य B-PER
+श्रीवास्तव I-PER
+- O
+इंस्पेक्टर O
+खांडिलकर O
+
+राजभवन B-ORG
+( I-ORG
+महाराष्ट्र I-ORG
+) I-ORG
+, I-ORG
+महाबलेश्वर I-ORG
+
+वैज्ञानिक B-ORG
+एवं I-ORG
+औद्योगिक I-ORG
+अनुसंधान I-ORG
+परिषद I-ORG
+
+विटास B-PER
+जेरुलाटिस I-PER
+ने O
+इवान B-PER
+लेंडल I-PER
+को O
+4-6 O
+, O
+6-1 O
+, O
+6-3 O
+से O
+हराया। O
+
+मैदान B-LOC
+वरदक I-LOC
+प्रान्त I-LOC
+
+मेलबोर्न B-ORG
+क्रिकेट I-ORG
+ग्रांउड I-ORG
+
+उधम B-LOC
+सिंह I-LOC
+नगर I-LOC
+जिला I-LOC
+
+टाटानगर B-ORG
+जंक्शन I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+राजेसुल्तानपुर B-LOC
+, O
+उत्तर B-LOC
+प्रदेश I-LOC
+भारत B-LOC
+
+विजमान B-ORG
+विज्ञान I-ORG
+संस्थान I-ORG
+
+अनुप्रेषित O
+हरिहर B-PER
+राय I-PER
+प्रथम I-PER
+
+ग्रैंड B-LOC
+कैन्यन I-LOC
+राष्ट्रीय I-LOC
+उद्यान I-LOC
+
+अनुप्रेषित O
+संयुक्त B-LOC
+राज्य I-LOC
+अमेरिका I-LOC
+
+बैटी B-PER
+स्टोव I-PER
+/ O
+वेंडी B-PER
+टर्नबल I-PER
+ने O
+बिली B-PER
+जीन I-PER
+किंग I-PER
+/ O
+मार्टिना B-PER
+नवरातिलोवा I-PER
+को O
+75 O
+63 O
+से O
+हराया। O
+
+बॉब B-PER
+ब्रायन I-PER
+/ O
+माइक B-PER
+ब्रायन I-PER
+ने O
+महेश B-PER
+भूपति I-PER
+/ O
+मार्क B-PER
+नोल्स I-PER
+को O
+2-6 O
+, O
+7-5 O
+, O
+6-0 O
+से O
+हराया। O
+
+' O
+'' O
+एलिज़ाबेथ B-PER
+प्रथम I-PER
+'' O
+'17 O
+नवम्बर1558–1603 O
+
+संयुक्त B-LOC
+राज्य I-LOC
+अमेरिका I-LOC
+
+रॉबर्ट B-ORG
+डॉनी I-ORG
+जुनियर I-ORG
+- O
+टोनी B-PER
+स्टार्क I-PER
+/ I-PER
+आयरन I-PER
+मैन I-PER
+
+' O
+'' O
+दिल्ली B-LOC
+'' O
+' O
+
+भारतीय B-ORG
+प्रौद्योगिकी I-ORG
+संस्थान I-ORG
+खड़गपुर I-ORG
+
+जब O
+से O
+वो O
+मेजर B-ORG
+लीग I-ORG
+सॉकर I-ORG
+में O
+शामिल O
+हुए O
+हैं O
+तब O
+से O
+वो O
+एम्.एल.एस O
+. O
+
+' O
+'' O
+पूर्ण O
+'' O
+' O
+' O
+'' O
+भारत B-LOC
+'' O
+' O
+
+सुश्रुत B-PER
+ने O
+स्वस्थ O
+व्यक्ति O
+का O
+लक्षण O
+विस्तार O
+से O
+दिया O
+है- O
+
+टोबा B-LOC
+टेक I-LOC
+सिंह I-LOC
+
+अनुप्रेषित O
+जॉर्ज B-PER
+अब्राहम I-PER
+ग्रियर्सन I-PER
+
+शुद्ध B-ORG
+और I-ORG
+अनुप्रयोगिक I-ORG
+रसायन I-ORG
+का I-ORG
+अंतरराष्ट्रीय I-ORG
+संघ I-ORG
+
+नूतन B-PER
+, O
+राजेश B-PER
+खन्ना I-PER
+, O
+विनोद B-PER
+मेहरा I-PER
+
+' O
+'' O
+' O
+'' O
+जर्मनी B-LOC
+
+अक्षय B-PER
+खन्ना I-PER
+, O
+बॉबी B-PER
+देओल I-PER
+, O
+अमीषा B-PER
+पटेल I-PER
+
+टाइम्स B-ORG
+नाऊ I-ORG
+इंडिया B-ORG
+टीवी I-ORG
+-सीवोटर O
+
+' O
+'' O
+अमीरात B-LOC
+'' O
+' O
+
+स्मिता B-PER
+पाटिल I-PER
+, O
+नसीरुद्दीन B-PER
+शाह I-PER
+, O
+अमरीश B-PER
+पुरी I-PER
+
+हमीरपुर B-LOC
+जिला I-LOC
+, I-LOC
+हिमाचल I-LOC
+प्रदेश I-LOC
+
+सेठ B-PER
+गोविंद I-PER
+दास I-PER
+
+५ O
+नवम्बर O
+– O
+बलदेव B-PER
+राज I-PER
+चोपड़ा I-PER
+
+राजभवन B-ORG
+( I-ORG
+जम्मू I-ORG
+और I-ORG
+कश्मीर I-ORG
+) I-ORG
+, I-ORG
+जम्मू I-ORG
+
+' O
+'' O
+गान O
+'' O
+' O
+काव्य B-ORG
+का O
+एक O
+प्रकार O
+हैं। O
+
+भारतीय B-LOC
+मानक I-LOC
+समय I-LOC
+
+यह O
+के O
+बीच O
+खेला O
+गया O
+था O
+स्पेन B-LOC
+के O
+रियल B-ORG
+मैड्रिड I-ORG
+और O
+इटली B-LOC
+के O
+फिओरेंटीना B-ORG
+. O
+
+भारतीय B-ORG
+क्रिकेट I-ORG
+टीम I-ORG
+
+भारत B-LOC
+में O
+लहुरादेवा O
+, O
+9000 O
+ई.पू O
+. O
+
+इंद्रावती B-LOC
+राष्ट्रीय I-LOC
+उद्यान I-LOC
+
+अनुप्रेषित O
+राष्‍ट्रीय B-ORG
+अपराध I-ORG
+रिकॉर्ड I-ORG
+ब्‍यूरो I-ORG
+
+' O
+'' O
+फेनूर्ड B-ORG
+'' O
+' O
+'' O
+'प्रथम O
+खिताब O
+'' O
+' O
+
+कुवैत B-LOC
+नगर I-LOC
+, O
+कुवैत B-LOC
+
+अनुप्रेषित O
+सी॰ B-PER
+डी॰ I-PER
+देशमुख I-PER
+
+जिन B-LOC
+राजवंश I-LOC
+( I-LOC
+१११५–१२३४ I-LOC
+) I-LOC
+
+छत्तीसगढ़ B-LOC
+में O
+कई O
+बड़ी O
+नदियाँहैं। O
+
+2010 B-PER
+एशियाई I-PER
+खेल I-PER
+
+दरगाह B-ORG
+हज़रत I-ORG
+निज़ामुद्दीन I-ORG
+
+यूनियन B-ORG
+बैंक I-ORG
+ऑफ I-ORG
+इंडिया I-ORG
+
+जॉर्ज B-PER
+वॉकर I-PER
+बुश I-PER
+
+दशरथ B-PER
+शर्मा I-PER
+( O
+1970 O
+) O
+. O
+
+गुजरात B-LOC
+( O
+26 O
+) O
+=== O
+
+संजय B-PER
+दत्त I-PER
+, O
+अजय B-PER
+देवगन I-PER
+, O
+फ़रदीन B-PER
+ख़ान I-PER
+, O
+बिपाशा B-PER
+बसु I-PER
+, O
+मुग्धा B-PER
+गोडसे I-PER
+
+श्री B-ORG
+मरिअम्मन I-ORG
+मंदिर I-ORG
+, I-ORG
+सिंगापुर I-ORG
+
+दोनो O
+ही O
+जिलों O
+का O
+मुख्यालय O
+गुवाहाटी B-LOC
+है। O
+
+घाना B-LOC
+- O
+6.8 O
+इंच O
+, O
+
+जबलपुर B-ORG
+जंक्शन I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+रायपुर B-LOC
+! O
+! O
+भोपाल B-LOC
+! O
+! O
+अहमदाबाद B-LOC
+! O
+! O
+नागपुर B-LOC
+! O
+! O
+
+फ्रैंकलिन B-PER
+डेलानो I-PER
+रूज़वेल्ट I-PER
+
+कमला B-LOC
+नगर I-LOC
+, I-LOC
+दिल्ली I-LOC
+
+इस O
+योजना O
+की O
+काफी O
+आलोचना O
+भी O
+हुई O
+है O
+और O
+तर्क O
+दिया O
+गया O
+कि O
+यह O
+योजना O
+भी O
+गरीबी O
+उन्मूलन O
+की O
+अन्य O
+योजनाओं O
+से O
+अधिक O
+प्रभावी O
+नहीं O
+है O
+, O
+जहां O
+प्रमुख O
+अपवाद O
+राजस्थान B-LOC
+है। O
+
+उपरी B-LOC
+दिबांग I-LOC
+घाटी I-LOC
+जिला I-LOC
+
+चौधरी B-ORG
+चरण I-ORG
+सिंह I-ORG
+हरियाणा I-ORG
+कृषि I-ORG
+विश्वविद्यालय I-ORG
+
+भक्तिवेदान्त B-PER
+स्वामी I-PER
+प्रभुपाद I-PER
+
+झेलम B-ORG
+एक्स्प्रेस I-ORG
+१०७७ I-ORG
+
+अनुप्रेषित O
+पोप B-PER
+बेनेडिक्ट I-PER
+XVI I-PER
+
+=== O
+संयुक्त B-LOC
+राज्य I-LOC
+अमेरिका I-LOC
+=== O
+
+सतीश B-PER
+शाह I-PER
+- O
+पुलिस O
+इंस्पेक्टर O
+
+अनुपम B-PER
+खेर I-PER
+- O
+सीमा O
+के O
+पिता O
+व O
+चाचा O
+( O
+दो O
+किरदार O
+) O
+
+टाइटन B-PER
+( I-PER
+यूनानी I-PER
+चरित्र I-PER
+) I-PER
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+१०८ I-ORG
+
+बेटा B-LOC
+सॅफ़ॅई I-LOC
+परिवर्ती I-LOC
+तारा I-LOC
+
+उत्तर B-ORG
+पूर्वी I-ORG
+दिल्ली I-ORG
+लोकसभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+कांगेर B-LOC
+घाटी I-LOC
+राष्ट्रीय I-LOC
+उद्यान I-LOC
+
+अण्डमान B-LOC
+और I-LOC
+निकोबार I-LOC
+द्वीपसमूह I-LOC
+
+रणथंबोर B-ORG
+राष्ट्रीय I-ORG
+उद्यान I-ORG
+
+टाइम्स B-ORG
+नाऊ I-ORG
+इंडिया B-ORG
+टीवी I-ORG
+-सीवोटर O
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+१०१ I-ORG
+
+५ O
+– O
+सत्यानन्द B-PER
+सरस्वती I-PER
+
+अनुप्रेषित O
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+५६बी I-ORG
+
+टॉड B-PER
+वुडब्रिज I-PER
+/ O
+मार्क B-PER
+वुडफोर्ड I-PER
+ने O
+ऐलिस B-PER
+फरेरा I-PER
+/ O
+पीटर B-PER
+गालब्रैथ I-PER
+को O
+6-1 O
+, O
+6-3 O
+से O
+हराया। O
+
+' O
+'' O
+बिहार B-LOC
+'' O
+' O
+
+एनडीए B-ORG
+( I-ORG
+राजग I-ORG
+) I-ORG
+
+क्रमानुसार O
+प्रयोग O
+में O
+लाना O
+चाहिए O
+जो O
+उनकी O
+फसलों O
+को O
+कीड़ो O
+तथा O
+बिमारियों O
+से O
+बचा O
+सकें O
+तथा O
+साथ O
+ही O
+साथ O
+पर्यावरण B-LOC
+
+सारन B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+ग्रेग B-PER
+रुसेदस्की I-PER
+ने O
+मार्टिन B-PER
+डैम I-PER
+को O
+7–6 O
+( O
+5 O
+) O
+, O
+6–4 O
+से O
+हराया। O
+
+' O
+'' O
+कन्दर्पवर्मन O
+'' O
+' O
+चम्पा B-ORG
+राज्य O
+के O
+राजा O
+थे। O
+
+अनुप्रेषित O
+पंजाब B-LOC
+प्रांत I-LOC
+( I-LOC
+ब्रिटिश I-LOC
+भारत I-LOC
+) I-LOC
+
+अध्ययन B-PER
+सुमन I-PER
+, O
+अंजना B-PER
+सुखानी I-PER
+, O
+शहाणा B-PER
+गोस्वामी I-PER
+, O
+हुमायूँ B-PER
+सईद I-PER
+
+रोहतास B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+मरीना B-LOC
+बीच I-LOC
+( I-LOC
+चेन्नई I-LOC
+) I-LOC
+
+' O
+'' O
+वर्ल्ड B-ORG
+चैम्पियनशिप I-ORG
+रेसलिंग I-ORG
+'' O
+' O
+
+जीवाजी B-ORG
+विश्वविद्यालय I-ORG
+, O
+ग्वालियर B-LOC
+
+''लोक O
+अदालत O
+'' O
+' O
+भारत B-LOC
+में O
+विवादों O
+के O
+निपटारे O
+की O
+एक O
+वैकल्पिक O
+व्यवस्था O
+है। O
+
+माधवन B-PER
+, O
+नीतू B-PER
+चन्द्रा I-PER
+, O
+सरण्य O
+, O
+पूनम B-PER
+ढिल्लों I-PER
+, O
+रविबाबू O
+, O
+सचिन B-PER
+खेडेकर I-PER
+, O
+दीपक B-PER
+डोबरियाल I-PER
+, O
+मुरली B-PER
+शर्मा I-PER
+
+' O
+'' O
+द B-LOC
+हेग I-LOC
+'' O
+' O
+नीदरलैंड B-LOC
+
+ब्रह्मगुप्त B-ORG
+का I-ORG
+सूत्र I-ORG
+
+''निर्माता O
+'' O
+- O
+राज B-PER
+कपूर I-PER
+
+पुनर्प्रेषित O
+नीदरलैण्ड B-ORG
+का I-ORG
+ध्वज I-ORG
+
+पुनर्प्रेषित O
+राष्ट्रीय B-ORG
+जनतांत्रिक I-ORG
+गठबंधन I-ORG
+
+आमिर B-PER
+ख़ान I-PER
+, O
+सोनाली B-PER
+बेंद्रे I-PER
+, O
+नसीरुद्दीन B-PER
+शाह I-PER
+, O
+मुकेश B-PER
+ऋषि I-PER
+
+द्वारका B-PER
+प्रसाद I-PER
+मिश्र I-PER
+
+=== O
+उधम B-LOC
+सिंह I-LOC
+नगर I-LOC
+जिला I-LOC
+=== O
+
+अतुल B-PER
+कुलकर्णी I-PER
+– O
+आश्वानी O
+
+भारतीय B-ORG
+दंतचिकित्सा I-ORG
+परिषद I-ORG
+( O
+DCI O
+) O
+
+नागार्जुन B-ORG
+( I-ORG
+रसायनशास्त्री I-ORG
+) I-ORG
+
+होमी B-ORG
+भाभा I-ORG
+राष्ट्रीय I-ORG
+संस्थान I-ORG
+, O
+मुम्बई B-LOC
+
+पुनर्प्रेषित O
+अंतरराष्ट्रीय B-ORG
+श्रम I-ORG
+संघ I-ORG
+
+२ O
+नवम्बर O
+– O
+श्रीराम B-PER
+शंकर I-PER
+अभयंकर I-PER
+
+सलमान B-PER
+ख़ान I-PER
+, O
+रानी B-PER
+मुखर्जी I-PER
+, O
+अरबाज़ B-PER
+ख़ान I-PER
+
+झारखंड B-ORG
+मुक्ति I-ORG
+मोर्चा I-ORG
+- O
+5 O
+
+जूही B-PER
+चावला I-PER
+और O
+महमूद B-PER
+के O
+साथ O
+अभिनीत O
+
+सीरध्वज O
+- O
+सीता B-LOC
+के O
+पिता O
+
+( O
+२ O
+) O
+क्षारीय B-ORG
+संचायक I-ORG
+बैटरी। I-ORG
+
+' O
+'' O
+साओ B-LOC
+पाउलो I-LOC
+'' O
+' O
+
+जवाहरलाल B-LOC
+नेहरू I-LOC
+स्टेडियम I-LOC
+, I-LOC
+दिल्ली I-LOC
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+१०७ I-ORG
+
+सिवाय O
+तुर्की B-LOC
+के O
+सभी O
+देशों O
+द्वारा O
+मान्य O
+
+बिली B-PER
+जीन I-PER
+किंग I-PER
+मार्टिना B-PER
+नवरातिलोवा I-PER
+
+भारतीय B-ORG
+चिकित्सा I-ORG
+परिषद I-ORG
+( O
+MCI O
+) O
+
+शम्मी B-PER
+कपूर I-PER
+- O
+विशेष O
+भूमिका O
+
+आदर्श B-ORG
+गैस I-ORG
+समीकरण I-ORG
+का O
+प्रयोग O
+करने O
+पर O
+, O
+
+मंसूर B-PER
+अली I-PER
+ख़ान I-PER
+पटौदी I-PER
+
+' O
+'' O
+लखनऊ B-LOC
+'' O
+' O
+
+आर्यभट B-PER
+ने O
+निम्नलिखित O
+श्लोक O
+में O
+पाई O
+का O
+मान O
+दिया O
+है- O
+
+लक्ष्मी B-ORG
+नारायण I-ORG
+मंदिर I-ORG
+, I-ORG
+दिल्ली I-ORG
+
+दयानन्द B-PER
+शेट्टी I-PER
+वरिष्ठ O
+निरीक्षक O
+दया O
+
+ऐमारैंथ B-ORG
+( I-ORG
+रंग I-ORG
+) I-ORG
+
+अमिताभ B-PER
+बच्चन I-PER
+, O
+सैफ़ B-PER
+अली I-PER
+ख़ान I-PER
+, O
+मनोज B-PER
+बाजपेयी I-PER
+, O
+दीपिका B-PER
+पादुकोण I-PER
+, O
+प्रतीक B-PER
+बब्बर I-PER
+
+मंडी B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+सान B-ORG
+मारिनो I-ORG
+की I-ORG
+कम्युनिस्ट I-ORG
+पार्टी I-ORG
+( I-ORG
+मार्क्सवादी-लेनीनवादी I-ORG
+) I-ORG
+
+' O
+'' O
+जापान B-LOC
+'' O
+' O
+
+विनोद B-PER
+मेहरा I-PER
+- O
+आकाश O
+
+72° O
+50 O
+' O
+E O
+सूरत B-LOC
+, O
+
+भारत B-ORG
+के I-ORG
+सर्वाधिक I-ORG
+जनसंख्या I-ORG
+वाले I-ORG
+शहरों I-ORG
+की I-ORG
+सूची I-ORG
+
+माधुरी B-PER
+दीक्षित I-PER
+- O
+पूजा O
+
+मिलोराड O
+मज़िक O
+( O
+सर्बिया B-LOC
+) O
+
+कलन B-ORG
+का I-ORG
+मूलभूत I-ORG
+प्रमेय I-ORG
+
+आनंद B-PER
+( I-PER
+स्थविर I-PER
+) I-PER
+
+हजारीबाग B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+उदयपुर B-LOC
+जिला I-LOC
+( I-LOC
+नेपाल I-LOC
+) I-LOC
+
+मैनचेस्टर B-ORG
+सिटी I-ORG
+एफ.सी I-ORG
+. I-ORG
+
+शिमला B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+बुसान B-LOC
+, O
+दक्षिण B-LOC
+कोरिया I-LOC
+
+हाई B-ORG
+फ़ाइव I-ORG
+इण्टरचेंज I-ORG
+
+' O
+'' O
+जिम B-PER
+मॉरिसन I-PER
+'' O
+' O
+- O
+लीड O
+वोकल्स O
+
+अनुप्रेषित O
+सारी B-LOC
+( I-LOC
+ईरान I-LOC
+) I-LOC
+
+' O
+'' O
+''1815 O
+'' O
+' O
+'' O
+- O
+वियना B-ORG
+कांग्रेस I-ORG
+
+' O
+'' O
+कोटद्वार B-LOC
+'' O
+' O
+
+पुनर्प्रेषित O
+सूडान B-ORG
+की I-ORG
+भाषायें I-ORG
+
+74° O
+20 O
+' O
+E O
+लाहौर B-LOC
+, O
+
+सर B-PER
+शान्ति I-PER
+स्वरूप I-PER
+भटनागर I-PER
+
+पुनर्प्रेषित O
+ओहायो B-ORG
+राज्य I-ORG
+विश्वविद्यालय I-ORG
+
+नेशनल B-ORG
+स्टॉक I-ORG
+एक्सचेंज I-ORG
+
+विश्व B-ORG
+पर्यटन I-ORG
+संगठन I-ORG
+
+को O
+मेरठ B-LOC
+में O
+सैनिकों O
+के O
+बीच O
+भड़का O
+विद्रोह O
+कुछ O
+ही O
+महीनों O
+में O
+25 O
+से O
+भी O
+अधिक O
+शहरों O
+में O
+फैल O
+गया। O
+1858 O
+ई O
+. O
+
+बलवंत B-PER
+पांडुरंग I-PER
+अण्णा I-PER
+साहब I-PER
+किर्लोस्कर I-PER
+
+बॉस्निया B-LOC
+और I-LOC
+हर्ज़ेगोविना I-LOC
+
+जगदीश B-PER
+राज I-PER
+- O
+पुलिस O
+इंस्पेक्टर O
+
+अनुप्रेषित O
+ऐन्डीज़ B-LOC
+पर्वत I-LOC
+शृंखला I-LOC
+
+इस O
+विषय O
+को O
+कार्ल B-PER
+मार्क्स I-PER
+ने O
+आगे O
+बढ़ाया O
+. O
+
+टिहरी B-ORG
+गढ़वाल I-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+अनुप्रेषित O
+भारतीय B-ORG
+नौवहन I-ORG
+निगम I-ORG
+
+आशीष B-PER
+विद्यार्थी I-PER
+- O
+भाई O
+
+' O
+'' O
+लियेटन B-PER
+हेविट I-PER
+'' O
+' O
+
+स्मारकीय B-ORG
+चौक I-ORG
+( I-ORG
+अलकाराज़ I-ORG
+) I-ORG
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+३८ I-ORG
+
+अण्डमान B-LOC
+और I-LOC
+निकोबार I-LOC
+द्वीपसमूह I-LOC
+
+जॉन B-ORG
+मैकिन्टौश I-ORG
+स्क्वयर I-ORG
+
+दिल्ली B-ORG
+नौयडा I-ORG
+टॉल I-ORG
+ब्रिज I-ORG
+
+फिरोज B-LOC
+शाह I-LOC
+कोटला I-LOC
+ग्राउंड I-LOC
+
+** O
+तब्बू B-PER
+– O
+दृश्यम B-ORG
+'' O
+
+** O
+अदीस B-LOC
+अबाबा I-LOC
+( O
+दूतावास O
+) O
+
+उदिता B-PER
+गोस्वामी I-PER
+( O
+अतिथि O
+भूमिका O
+) O
+
+अमिताभ B-PER
+बच्चन I-PER
+- O
+यशवर्धन O
+
+ब्रिटिश B-LOC
+साम्राज्य I-LOC
+में O
+उनके O
+उद्गम O
+से O
+प्रभावित O
+होकर O
+, O
+संपर्क O
+से O
+तथा O
+कई O
+बार O
+यू.एस O
+. O
+
+ब्रिटिश B-LOC
+विदेशी I-LOC
+प्रदेश I-LOC
+
+उत्कल B-ORG
+विश्वविद्यालय I-ORG
+, I-ORG
+भुवनेश्वर B-LOC
+
+राजेश B-PER
+खन्ना I-PER
+, O
+आशा B-PER
+पारेख I-PER
+
+इलाहाबाद B-LOC
+, O
+उत्तर B-LOC
+प्रदेश I-LOC
+; O
+फूलपूर O
+( O
+इलाहाबाद B-LOC
+) O
+, O
+उत्तर B-LOC
+प्रदेश I-LOC
+
+पारिस्थितिकी-सोच B-LOC
+पर O
+आधारित O
+कार्यसूची O
+के O
+तहत O
+एक O
+सामयिक O
+विषय O
+को O
+फिल्म O
+में O
+उठाया O
+गया O
+है O
+, O
+हालांकि O
+मैककैथी O
+ने O
+यह O
+भी O
+कहा O
+कि O
+इसे O
+बहुत O
+ही O
+हल्के O
+से O
+उठाया O
+गया O
+है O
+, O
+यह O
+दर्शक O
+की O
+क्षमता O
+पर O
+निर्भर O
+है O
+कि O
+वे O
+इस O
+संदेश O
+को O
+स्वीकार O
+कर O
+लें O
+या O
+इसकी O
+उपेक्षा O
+करें O
+. O
+
+पूर्व B-LOC
+अज़रबैजान I-LOC
+प्रांत I-LOC
+
+फिन B-PER
+केडलांड I-PER
+, O
+एडवर्ड B-PER
+सी I-PER
+प्रेस्कॉट I-PER
+
+मिस्र B-LOC
+में O
+शारोबिम O
+शाफ़िक O
+. O
+
+२००१ B-ORG
+विम्बलडन I-ORG
+टेनिस I-ORG
+प्रतियोगिता I-ORG
+
+मॉडर्ना O
+मुसीट O
+, O
+स्टॉकहोम B-LOC
+
+अनुप्रेषित O
+मुफ़्ती B-PER
+मोहम्मद I-PER
+सईद I-PER
+
+झगड़ते B-ORG
+राज्यों I-ORG
+का I-ORG
+काल I-ORG
+
+गोर्खालैंड B-LOC
+क्षेत्रीय I-LOC
+प्रशासन I-LOC
+
+गौतम B-LOC
+बुद्ध I-LOC
+नगर I-LOC
+जिला I-LOC
+
+अनुप्रेषित O
+उत्तर B-LOC
+पूर्व I-LOC
+दिल्ली I-LOC
+
+एरिक B-PER
+एमर्सन I-PER
+श्मिट I-PER
+
+मातो B-LOC
+ग्रोसो I-LOC
+दो I-LOC
+सुल I-LOC
+
+२३० O
+, O
+३४० O
+कि.मी२ O
+-- O
+रोमानिया B-LOC
+( O
+भूमि O
+) O
+
+अनुप्रेषित O
+बेरी B-LOC
+, I-LOC
+सीकर I-LOC
+
+जीत O
+( O
+जॉनी B-PER
+डेप I-PER
+) O
+
+' O
+'' O
+कारा B-PER
+ब्लैक I-PER
+'' O
+' O
+/ O
+' O
+'' O
+लीज़ेल B-PER
+ह्यूबर I-PER
+'' O
+' O
+ने O
+कैटरीना B-PER
+स्रेबोतनिक I-PER
+/ O
+अई B-PER
+सुगीयामा I-PER
+को O
+3-6 O
+, O
+6-3 O
+, O
+6-2 O
+से O
+हराया। O
+
+शहीद B-LOC
+भगत I-LOC
+सिंह I-LOC
+नगर I-LOC
+जिला I-LOC
+
+नैशनल B-ORG
+लाइब्रेरी I-ORG
+ऍट I-ORG
+कोलकाता I-ORG
+रोमनाइजेशन I-ORG
+
+अनुप्रेषित O
+दर्राह B-ORG
+राष्ट्रीय I-ORG
+उद्यान I-ORG
+
+भारत B-ORG
+इलैक्ट्रॉनिक्स I-ORG
+लिमिटेड I-ORG
+
+मलय B-LOC
+प्रायद्वीप I-LOC
+और O
+सिंगापुर B-LOC
+
+अनुप्रेषित O
+छोटी B-ORG
+रेल I-ORG
+लाइन I-ORG
+
+चहार्महाल B-LOC
+और I-LOC
+बाख़्तियारी I-LOC
+प्रांत I-LOC
+
+सेंटर B-ORG
+फॉर I-ORG
+डवलेपमेंट I-ORG
+ऑफ I-ORG
+टेलीमैटिक्स I-ORG
+
+) O
+से O
+, O
+बाद O
+में O
+आगरा B-LOC
+( O
+सं.-1867 O
+ई O
+. O
+
+तिएर्रा B-LOC
+देल I-LOC
+फ़ुएगो I-LOC
+
+( O
+१ O
+) O
+स्वप्न O
+में O
+हाथी B-LOC
+
+मैसाचुसेट्स B-ORG
+प्रौद्योगिकी I-ORG
+संस्थान I-ORG
+
+जम्मू B-ORG
+और I-ORG
+कश्मीर I-ORG
+उच्च I-ORG
+न्यायालय I-ORG
+
+संधि B-ORG
+( I-ORG
+शरीररचना I-ORG
+) I-ORG
+( O
+Joints O
+) O
+
+' O
+'' O
+वेलिनहोस O
+'' O
+' O
+ब्राजील B-LOC
+
+अनुप्रेषित O
+कलकत्ता B-ORG
+उच्च I-ORG
+न्यायालय I-ORG
+
+अनुप्रेषित O
+द्वारका B-PER
+प्रसाद I-PER
+मिश्र I-PER
+
+तिरुमला B-LOC
+में O
+भी O
+दोलोत्सव O
+या O
+'दोलसेवा O
+' O
+की O
+जाती O
+है। O
+
+बैंक B-ORG
+ऑफ़ I-ORG
+इंडिया I-ORG
+
+जमुई B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+लाल B-LOC
+गले I-LOC
+वाला I-LOC
+तीतर I-LOC
+
+' O
+'' O
+बीबीसी B-ORG
+वर्ल्ड I-ORG
+'' O
+' O
+
+बिली B-PER
+जीन I-PER
+किंग I-PER
+रोसमैरी B-PER
+कैसल्स I-PER
+
+लक्ष्मी B-ORG
+नारायण I-ORG
+मंदिर I-ORG
+, I-ORG
+दिल्ली I-ORG
+
+' O
+'' O
+अल्तामिरा O
+की O
+गुफा O
+'' O
+' O
+स्पेन B-LOC
+में O
+स्थित O
+है O
+. O
+
+रजत B-PER
+कपूर I-PER
+, O
+नेहा B-PER
+धूपिया I-PER
+
+हैरी B-LOC
+पॉटर I-LOC
+और I-LOC
+हाफ़-ब्लड I-LOC
+प्रिंस I-LOC
+
+घुन B-LOC
+( I-LOC
+गेहूँ I-LOC
+का I-LOC
+) I-LOC
+
+राजभवन B-ORG
+( I-ORG
+जम्मू I-ORG
+और I-ORG
+कश्मीर I-ORG
+) I-ORG
+, I-ORG
+जम्मू I-ORG
+
+इतना B-ORG
+करो I-ORG
+ना I-ORG
+मुझे I-ORG
+प्यार I-ORG
+
+चिन B-ORG
+राज्य I-ORG
+( I-ORG
+प्राचीन I-ORG
+चीन I-ORG
+) I-ORG
+
+अण्डमान B-LOC
+और I-LOC
+निकोबार I-LOC
+द्वीपसमूह I-LOC
+
+उज्जैन B-ORG
+का I-ORG
+महाकालेश्वर I-ORG
+मंदिर I-ORG
+
+गुलशन B-PER
+ग्रोवर I-PER
+- O
+गुलु O
+
+पुणे B-LOC
+, O
+( O
+महाराष्ट्र B-LOC
+) O
+
+=== O
+श्री B-ORG
+राधाकृष्ण I-ORG
+मंदिर I-ORG
+=== O
+
+हरि B-PER
+शंकर I-PER
+सिंघानिया I-PER
+
+अनुप्रेषित O
+सी॰ B-PER
+एन॰ I-PER
+आर॰ I-PER
+राव I-PER
+
+अनुप्रेषित O
+सांतो B-LOC
+दोमिंगो I-LOC
+दे I-LOC
+ला I-LOC
+कालसाज़ा I-LOC
+गिरजा I-LOC
+
+पुनर्प्रेषित O
+डेरा B-LOC
+ग़ाज़ी I-LOC
+ख़ान I-LOC
+
+अंतरिक्ष B-ORG
+अनुप्रयोग I-ORG
+केंद्र I-ORG
+
+' O
+'' O
+दिल्ली B-LOC
+का O
+लाल B-LOC
+किला I-LOC
+'' O
+' O
+
+गोलियों B-ORG
+की I-ORG
+रासलीला I-ORG
+रामलीला I-ORG
+'' O
+
+' O
+'' O
+' O
+'' O
+– O
+भूटान B-LOC
+राजत्व O
+
+पुनर्प्रेषित O
+भारत B-ORG
+का I-ORG
+योजना I-ORG
+आयोग I-ORG
+
+धरती B-ORG
+का I-ORG
+वीर I-ORG
+योद्धा I-ORG
+पृथ्वीराज I-ORG
+चौहान I-ORG
+
+ओम B-PER
+पुरी I-PER
+- O
+श्यामलाल O
+
+''निर्माता O
+'' O
+- O
+देवेन B-PER
+वर्मा I-PER
+
+यूरोपीय B-ORG
+अंतरिक्ष I-ORG
+अभिकरण I-ORG
+
+पुनर्प्रेषित O
+दि B-ORG
+न्यू I-ORG
+यॉर्क I-ORG
+टाइम्स I-ORG
+
+बाबा B-ORG
+राघवदास I-ORG
+मेडिकल I-ORG
+कॉलेज I-ORG
+, O
+गोरखपुर B-LOC
+
+अनुप्रेषित O
+सनीवेल B-LOC
+, I-LOC
+कैलिफ़ोर्निया I-LOC
+
+** O
++1-268 O
+अण्टीगुआ B-LOC
+और I-LOC
+बारबूडा I-LOC
+
+जीढ़ोग B-PER
+बागस I-PER
+ओका I-PER
+
+हाना B-PER
+मांडलिकोवा I-PER
+ने O
+मार्टिना B-PER
+नवरातिलोवा I-PER
+को O
+76 O
+16 O
+76 O
+से O
+हराया। O
+
+कांगड़ा B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+अरुणा B-PER
+ईरानी I-PER
+- O
+शैला O
+
+मारूनोउची O
+, O
+निहोनबाशी O
+, O
+नीशी-शिन्जूकू O
+( O
+टोक्यो B-LOC
+, O
+जापान B-LOC
+) O
+
+पुनर्प्रेषित O
+सूडान B-ORG
+की I-ORG
+भाषायें I-ORG
+
+शक्ति B-PER
+कपूर I-PER
+- O
+स्वयं O
+
+ग्लोरियोसो O
+द्वीपों O
+को O
+कोमोरोस B-LOC
+और O
+सेशेल्स B-LOC
+अपना O
+भाग O
+मानते O
+हैं। O
+
+ब्रिटिश B-ORG
+ओलम्पिक I-ORG
+संघ I-ORG
+
+सूचना B-ORG
+का I-ORG
+अधिकार I-ORG
+अधिनियम I-ORG
+, I-ORG
+२००५ I-ORG
+
+पुनर्प्रेषित O
+ऐन B-PER
+, I-PER
+ग्रेट I-PER
+ब्रिटेन I-PER
+की I-PER
+महारानी I-PER
+
+ग्रेट B-ORG
+मॅन्सन I-ORG
+फ़ार्म I-ORG
+
+महाराजा B-PER
+रतन I-PER
+सिंह I-PER
+, O
+1768 O
+- O
+1769 O
+
+संकटमोचन B-ORG
+महाबली I-ORG
+हनुमान I-ORG
+( O
+निर्माता O
+) O
+
+राजमहल B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+अबुल B-PER
+फ़ज़ल I-PER
+मोहम्मद I-PER
+अहसानुद्दीन I-PER
+चौधरी I-PER
+
+1967 O
+में O
+दिल्ली B-LOC
+में O
+इनका O
+देहावसान O
+हो O
+गया। O
+
+1,076,395 O
+km2 O
+-- O
+ओण्टारियो B-LOC
+
+कुलभूषण B-PER
+खरबंदा I-PER
+- O
+सरपंच O
+
+** O
+कांधार B-LOC
+( O
+जनरल-वाणिज्य O
+दूतावास O
+) O
+
+' O
+'' O
+जैकसनविल B-ORG
+जगुआर्स I-ORG
+'' O
+' O
+
+बड़नगर B-LOC
+( O
+उज्जैन B-LOC
+, O
+मध्य B-LOC
+प्रदेश I-LOC
+) O
+
+अण्डमान B-LOC
+और I-LOC
+निकोबार I-LOC
+द्वीपसमूह I-LOC
+
+अनुप्रेषित O
+सनीवेल B-LOC
+, I-LOC
+कैलिफ़ोर्निया I-LOC
+
+सिमोन B-PER
+वान I-PER
+डर I-PER
+मीर I-PER
+| O
+
+तमिल B-LOC
+नाडु I-LOC
+( O
+472 O
+) O
+
+सन्त B-LOC
+किट्स I-LOC
+और I-LOC
+नेविस I-LOC
+
+अंबेडकर B-LOC
+नगर I-LOC
+- O
+75 O
+किमी O
+
+परमाणु B-ORG
+ऊर्जा I-ORG
+विभाग I-ORG
+( I-ORG
+भारत I-ORG
+) I-ORG
+
+गजेन्द्र B-PER
+चौहान I-PER
+- O
+पुलिस O
+इंस्पेक्टर O
+
+अनुप्रेषित O
+गुरु B-PER
+ग्रन्थ I-PER
+साहिब I-PER
+
+दस O
+प्रतिनिधि O
+कहानियाँ O
+नरेन्द्र B-PER
+कोहली I-PER
+द्वारा O
+रचित O
+कहानी O
+संग्रह O
+है। O
+
+फणीश्वर B-PER
+नाथ I-PER
+' I-PER
+रेणु I-PER
+' I-PER
+
+हिंदी B-LOC
+की I-LOC
+विभिन्न I-LOC
+बोलियाँ I-LOC
+और I-LOC
+उनका I-LOC
+साहित्य I-LOC
+
+नॉरवॉक B-LOC
+, I-LOC
+कनेक्टिकट I-LOC
+
+बहादुर B-PER
+शाह I-PER
+ज़फ़र I-PER
+
+वॉशिंगटन B-LOC
+डी॰ I-LOC
+सी॰ I-LOC
+
+' O
+'' O
+न्यूयॉर्क B-ORG
+जेट्स I-ORG
+'' O
+' O
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+७३ I-ORG
+
+जना B-PER
+नोवोटना I-PER
+( O
+1989-90-94 O
+) O
+
+पुनर्प्रेषित O
+कैप्टन B-ORG
+अमेरिका I-ORG
+: I-ORG
+सिविल I-ORG
+वॉर I-ORG
+
+साहा B-ORG
+नाभिकीय I-ORG
+भौतिकी I-ORG
+संस्थान I-ORG
+
+पंजाब B-LOC
+( O
+13 O
+) O
+=== O
+
+' O
+'' O
+' O
+'' O
+पाकिस्तान B-LOC
+
+इस्माईल B-PER
+प्रथम I-PER
+( O
+1501-1524 O
+) O
+
+नाथूराम B-PER
+विनायक I-PER
+गोडसे I-PER
+
+मुग़ल B-ORG
+सराय I-ORG
+जंक्शन I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+बाबा B-ORG
+राघवदास I-ORG
+मेडिकल I-ORG
+कॉलेज I-ORG
+
+भारतीय B-LOC
+चित्तीदार I-LOC
+मूषक I-LOC
+मृग I-LOC
+
+अनुप्रेषित O
+स्पेन B-ORG
+का I-ORG
+राष्ट्रीय I-ORG
+पुरातत्व I-ORG
+अजायबघर I-ORG
+
+मनोज B-PER
+कुमार I-PER
+, O
+अमिताभ B-PER
+बच्चन I-PER
+, O
+ज़ीनत B-PER
+अमान I-PER
+
+सिमलिपाल B-ORG
+राष्ट्रीय I-ORG
+अभ्यारण्य I-ORG
+
+अनुप्रेषित O
+मैसूर B-PER
+नरसिंहाचार I-PER
+श्रीनिवास I-PER
+
+अनारकली O
+सूट O
+के O
+कपड़े O
+, O
+विशेष O
+रूप O
+से O
+भारत B-LOC
+कि O
+महिलाऍ O
+उपयोग O
+करती O
+है। O
+यह O
+एक O
+लंबी O
+बाजू O
+वालि O
+कालरलेस O
+शर्ट O
+है O
+जो O
+'कुर्ता O
+' O
+के O
+नाम O
+से O
+प्रसिद्द O
+है। O
+
+पुनर्प्रेषित O
+ए॰ B-PER
+जे॰ I-PER
+एयर I-PER
+
+' O
+'' O
+जिला- O
+'' O
+' O
+बक्सर B-LOC
+
+बलराम B-PER
+जाखड़ I-PER
+द्वारा O
+इसका O
+विधिवत् O
+शुभारंभ O
+किया O
+गया। O
+
+अब्बे B-LOC
+जल I-LOC
+प्रपात I-LOC
+
+इंदिरा B-ORG
+गांधी I-ORG
+राष्ट्रीय I-ORG
+कला I-ORG
+केन्द्र I-ORG
+
+प्रेसिडेंसी B-ORG
+कॉलेज I-ORG
+, I-ORG
+कोलकाता I-ORG
+
+हाजी B-LOC
+अली I-LOC
+की I-LOC
+दरगाह I-LOC
+
+उस्मानी B-LOC
+साम्राज्य I-LOC
+से O
+जुड़ी O
+चीज़ O
+
+वैज्ञानिक B-ORG
+एवं I-ORG
+औद्योगिक I-ORG
+अनुसंधान I-ORG
+परिषद I-ORG
+
+हाइके B-PER
+कामरलिंघ I-PER
+ऑन्स I-PER
+
+अल्ताई B-LOC
+पर्वत I-LOC
+शृंखला I-LOC
+
+** O
+वैंकूवर B-LOC
+( O
+जनरल-वाणिज्य O
+दूतावास O
+) O
+
+भारत B-ORG
+के I-ORG
+सार्वजनिक I-ORG
+क्षेत्र I-ORG
+के I-ORG
+उपक्रम I-ORG
+
+टोड B-PER
+वुडब्रिज I-PER
+( O
+1990-93-94-95 O
+) O
+
+अक्षय B-PER
+कुमार I-PER
+( O
+बहत्तर O
+) O
+
+शरत B-PER
+सक्सेना I-PER
+- O
+पुलिस O
+इंस्पेक्टर O
+
+अनुप्रेषित O
+2014 B-ORG
+हॉकी I-ORG
+विश्वकप I-ORG
+( I-ORG
+पुरुष I-ORG
+) I-ORG
+
+डार्विन B-LOC
+( I-LOC
+गैलापागोस I-LOC
+) I-LOC
+
+पुनर्प्रेषित O
+म्यान्मा B-ORG
+का I-ORG
+इतिहास I-ORG
+
+अजीब B-ORG
+दास्ताँ I-ORG
+है I-ORG
+ये I-ORG
+
+पुलकित B-PER
+सम्राट I-PER
+- O
+आकाश O
+
+हेमचन्द्राचार्य B-PER
+( O
+उपाख्य O
+कलिकालसर्वज्ञ O
+) O
+
+इससे O
+लगातार O
+अधिकाधिक O
+पर्यटक O
+लैंगकॉवी B-LOC
+और O
+पंगकोर O
+की O
+ओर O
+मुड़ते O
+जा O
+रहे O
+हैं। O
+
+कैल्कटा B-ORG
+इलेक्ट्रिक I-ORG
+सप्लाई I-ORG
+कार्पोरेशन I-ORG
+
+बुसान B-LOC
+, O
+दक्षिण B-LOC
+कोरिया I-LOC
+
+उत्तर B-LOC
+प्रदेश I-LOC
+( O
+17 O
+) O
+
+ज़रीना B-PER
+वहाब I-PER
+- O
+राजनर्तकी O
+
+अनुप्रेषित O
+गेटवे B-ORG
+ऑफ़ I-ORG
+इन्डिया I-ORG
+
+पुनर्प्रेषित O
+जनवादी B-ORG
+गणराज्य I-ORG
+चीन I-ORG
+के I-ORG
+राष्ट्रपति I-ORG
+
+अनुप्रेषित O
+विराटनगर B-LOC
+( I-LOC
+राजस्थान I-LOC
+) I-LOC
+
+निचली B-LOC
+दिबांग I-LOC
+घाटी I-LOC
+जिला I-LOC
+
+सिंहभूम B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+सैक्रामेण्टो B-LOC
+, I-LOC
+कैलिफ़ोर्निया I-LOC
+
+गणितीय B-ORG
+संकेतों I-ORG
+की I-ORG
+सूची I-ORG
+
+अनुप्रेषित O
+गूसबम्प्स B-PER
+( I-PER
+टीवी I-PER
+श्रृंखला I-PER
+) I-PER
+
+शोमा B-PER
+आनन्द I-PER
+- O
+सपना O
+
+यूसुफ B-PER
+रजा I-PER
+गिलानी I-PER
+
+अजय B-PER
+देवगन I-PER
+- O
+शिवाय O
+
+न्यूयॉर्क B-ORG
+शेयर I-ORG
+बाज़ार I-ORG
+
+अण्डमान B-LOC
+और I-LOC
+निकोबार I-LOC
+द्वीपसमूह I-LOC
+
+( O
+६ O
+) O
+विक्रमादित्य B-PER
+पंचम I-PER
+
+वर्जीनिया B-PER
+रुआनो I-PER
+पास्कुआल I-PER
+पाओला B-PER
+सुआरेज़ I-PER
+
+गुरु B-PER
+दत्त I-PER
+, O
+वहीदा B-PER
+रहमान I-PER
+
+अनुप्रेषित O
+सैयद B-PER
+अहमद I-PER
+खान I-PER
+
+पुनर्प्रेषित O
+जम्मू B-LOC
+और I-LOC
+कश्मीर I-LOC
+
+सोहो B-LOC
+( I-LOC
+लंदन I-LOC
+) I-LOC
+
+' O
+'' O
+श्वरीन O
+'' O
+' O
+, O
+जर्मनी B-LOC
+
+उत्तर B-LOC
+ख़ोरासान I-LOC
+प्रांत I-LOC
+
+उर्जा B-ORG
+रूपान्तरण I-ORG
+की I-ORG
+दक्षता I-ORG
+
+अनुप्रेषित O
+सर B-PER
+सोराबजी I-PER
+पोचखानवाला I-PER
+
+दीना B-PER
+पाठक I-PER
+, O
+अभिजीत B-PER
+भट्टाचार्य I-PER
+
+अनुप्रेषित O
+भारतीय B-LOC
+चित्तीदार I-LOC
+मूषक I-LOC
+मृग I-LOC
+
+जेम्स B-PER
+मिल I-PER
+( O
+1773-1836 O
+) O
+. O
+
+' O
+'' O
+मिलर्ड B-ORG
+फ़िलमोर I-ORG
+'' O
+' O
+( O
+1800–1874 O
+) O
+
+एनएसई B-ORG
+( I-ORG
+NSE I-ORG
+) I-ORG
+
+छत्रपति B-ORG
+शिवाजी I-ORG
+टर्मिनस I-ORG
+, O
+महाराष्ट्र B-LOC
+( O
+2004 O
+) O
+
+2006 O
+- O
+एड्रियेन B-PER
+रिच I-PER
+
+द B-PER
+अंडरटेकर I-PER
+( O
+44 O
+वर्ष O
+) O
+
+बन्दा B-PER
+सिंह I-PER
+बहादुर I-PER
+
+पूरा O
+किया O
+व O
+मद्रास B-ORG
+विश्वविद्यालय I-ORG
+की O
+कुलपति O
+टी.पी O
+. O
+
+पुनर्प्रेषित O
+ऑल B-ORG
+इंडिया I-ORG
+अन्ना I-ORG
+द्रविड़ I-ORG
+मुनेत्र I-ORG
+कड़गम I-ORG
+
+शिवालिक B-ORG
+जीवाश्म I-ORG
+उद्यान I-ORG
+
+कृष्णा B-LOC
+नगर I-LOC
+, I-LOC
+दिल्ली I-LOC
+
+असम B-LOC
+( O
+5 O
+) O
+, O
+मेघालय B-LOC
+( O
+190 O
+) O
+
+रक्षा B-ORG
+अनुसंधान I-ORG
+एवं I-ORG
+विकास I-ORG
+संगठन I-ORG
+
+चाँदनी B-ORG
+चौक I-ORG
+, I-ORG
+दिल्ली I-ORG
+
+सिंहाचलम B-LOC
+मंदिर I-LOC
+, I-LOC
+विशाखापट्टनम I-LOC
+
+अहमदाबाद B-LOC
+से O
+140 O
+किमी O
+. O
+
+' O
+'' O
+चीनी B-LOC
+जनवादी I-LOC
+गणराज्य I-LOC
+'' O
+' O
+
+गैस्टोन B-PER
+गॉडियो I-PER
+ने O
+गुलिर्मो B-PER
+कोरिया I-PER
+को O
+0-6 O
+, O
+3-6 O
+, O
+6-4 O
+, O
+6-1 O
+, O
+8-6 O
+से O
+हराया। O
+
+' O
+'' O
+मराट B-PER
+साफिन I-PER
+'' O
+' O
+
+सोनाली B-PER
+बेंद्रे I-PER
+- O
+पूजा O
+
+मजापहित B-ORG
+साम्राज्य I-ORG
+, O
+इंडोनेशिया B-LOC
+का O
+सम्राट। O
+
+सायरा B-PER
+बानो I-PER
+, O
+राजेंद्र B-PER
+कुमार I-PER
+, O
+प्रेम B-PER
+चोपड़ा I-PER
+, O
+दुर्गा B-PER
+खोटे I-PER
+
+भारतीय B-ORG
+राष्ट्रीय I-ORG
+कांग्रेस I-ORG
+
+जापान B-LOC
+( O
+1951 O
+) O
+
+पुनर्प्रेषित O
+मरुमलार्ची B-ORG
+द्रविड़ I-ORG
+मुनेत्र I-ORG
+कड़गम I-ORG
+
+' O
+'' O
+हैदराबाद B-LOC
+'' O
+' O
+
+साल B-LOC
+, I-LOC
+केप I-LOC
+वर्दे I-LOC
+
+वैशाली B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+अनुप्रेषित O
+लार्सन B-ORG
+एंड I-ORG
+टर्बो I-ORG
+
+अनुप्रेषित O
+केशव B-PER
+बलिराम I-PER
+हेडगेवार I-PER
+
+द्विजेन्द्रलाल B-PER
+राय I-PER
+( O
+1863-1913 O
+) O
+
+कार्ल B-PER
+फर्डिनाण्ड I-PER
+ब्रौन I-PER
+
+अमीर B-PER
+चंद I-PER
+( I-PER
+मेजर I-PER
+जनरल I-PER
+) I-PER
+
+सैंटियागो B-ORG
+बर्नबू I-ORG
+स्टेडियम I-ORG
+, O
+मद्रिद B-LOC
+
+' O
+'' O
+' O
+'' O
+दिल्ली B-LOC
+का O
+एक O
+मौहल्ला O
+है। O
+
+शाम B-LOC
+( I-LOC
+क्षेत्र I-LOC
+) I-LOC
+
+पुनर्प्रेषित O
+इंग्लैंड B-ORG
+का I-ORG
+गिरिजाघर I-ORG
+
+वाराणसी B-ORG
+जंक्शन I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+' O
+'' O
+तुर्की B-LOC
+'' O
+' O
+
+केयबुल B-ORG
+लामजाओ I-ORG
+राष्ट्रीय I-ORG
+उद्यान I-ORG
+
+स्वीडन B-LOC
+- O
+5.9 O
+इंच O
+, O
+
+अनुप्रेषित O
+केन्द्रीय B-ORG
+तिब्बती I-ORG
+अध्ययन I-ORG
+विश्वविद्यालय I-ORG
+
+पुनर्प्रेषित O
+आर्थर B-PER
+कॉनन I-PER
+डॉयल I-PER
+
+ब्रायन B-PER
+ब्लैक I-PER
+एलेक्स B-PER
+ओ I-PER
+ब्रायन I-PER
+
+नसीरुद्दीन B-PER
+शाह I-PER
+, O
+शबाना B-PER
+आज़मी I-PER
+
+रॉकी B-LOC
+पर्वत I-LOC
+शृंखला I-LOC
+
+अनुप्रेषित O
+नृसिंह B-PER
+राय I-PER
+द्वितीय I-PER
+
+अनुप्रेषित O
+फ़ीनिक्स B-LOC
+, I-LOC
+एरिजोना I-LOC
+
+विवेकानन्द B-ORG
+केन्द्र I-ORG
+, O
+कन्याकुमारी B-LOC
+
+महात्मा B-ORG
+गाँधी I-ORG
+काशी I-ORG
+विद्यापीठ I-ORG
+
+अनुप्रेषित O
+विद्याधर B-PER
+सूरजप्रसाद I-PER
+नैपाल I-PER
+
+ओस्ट्सीस्टेडियोन O
+, O
+रोस्टॉक O
+, O
+जर्मनी B-LOC
+
+वहीदा B-PER
+रहमान I-PER
+- O
+जबा O
+
+अण्डमान B-LOC
+और I-LOC
+निकोबार I-LOC
+द्वीपसमूह I-LOC
+
+केशव B-PER
+बलिराम I-PER
+हेडगेवार I-PER
+
+पुनर्प्रेषित O
+म्यान्मा B-ORG
+का I-ORG
+इतिहास I-ORG
+
+राजनारायण B-PER
+बसु I-PER
+( O
+1826-1892 O
+) O
+
+साबरमती B-ORG
+आश्रम I-ORG
+में O
+बाल्यकाल O
+बीता O
+और O
+आरंभिक O
+शिक्षा O
+के O
+बाद O
+उन्होंने O
+पढ़ाई O
+छोड़ O
+दी O
+तथा O
+अपने O
+पिता O
+के O
+निर्देशन O
+में O
+ही O
+बाद O
+की O
+शिक्षा O
+ग्रहण O
+की। O
+
+अशोक B-PER
+कुमार I-PER
+- O
+बूढा O
+अमल O
+का O
+स्वर O
+
+सन्त B-LOC
+विन्सेण्ट I-LOC
+और I-LOC
+ग्रेनाडाइन्स I-LOC
+
+कर्नाटक B-LOC
+( O
+28 O
+) O
+=== O
+
+अल्मोड़ा B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+ब्रिटेन B-PER
+के I-PER
+प्रधान I-PER
+मन्त्री I-PER
+
+पीट B-PER
+सेमप्रास I-PER
+ने O
+इवान B-PER
+लेंडल I-PER
+को O
+6-3 O
+, O
+3-6 O
+, O
+6-3 O
+से O
+हराया। O
+
+' O
+'' O
+सुरेश B-PER
+रैना I-PER
+'' O
+' O
+
+नन्दा B-LOC
+देवी I-LOC
+राष्ट्रीय I-LOC
+उद्यान I-LOC
+
+'' O
+राजस्थान B-LOC
+'' O
+' O
+
+जे B-PER
+हान्स I-PER
+डी I-PER
+जेन्सेन I-PER
+| O
+
+भारतीय B-ORG
+कम्युनिस्ट I-ORG
+पार्टी I-ORG
+( I-ORG
+मार्क्सवादी I-ORG
+) I-ORG
+
+अनुप्रेषित O
+सी B-PER
+वी I-PER
+रामन I-PER
+पिल्लै I-PER
+
+*2013 O
+-सदस्य O
+, O
+राजस्थान B-ORG
+विधान I-ORG
+सभा। I-ORG
+
+केरल B-LOC
+( O
+81 O
+) O
+, O
+तमिल B-LOC
+नाडु I-LOC
+( O
+125 O
+) O
+
+नैट B-ORG
+जियो I-ORG
+वाइल्ड I-ORG
+
+प्राचीन B-PER
+यूनानी I-PER
+चिकित्साविज्ञान I-PER
+
+** O
+मिन्‍स्‍क B-LOC
+( O
+दूतावास O
+) O
+
+बंगलोर B-LOC
+( I-LOC
+ग्रामीण I-LOC
+) I-LOC
+जिला I-LOC
+
+महात्मा B-ORG
+गाँधी I-ORG
+काशी I-ORG
+विद्यापीठ I-ORG
+
+नवादा B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+चेन्नई B-LOC
+, O
+भारत B-LOC
+'' O
+( O
+2005 O
+से O
+) O
+'' O
+
+सदाशिव B-PER
+अमरापुरकर I-PER
+- O
+सरदारी O
+
+रोहतास B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+अनुप्रेषित O
+ग्रैंड B-ORG
+ट्रंक I-ORG
+रोड I-ORG
+
+सियोल B-LOC
+, O
+दक्षिण B-LOC
+कोरिया I-LOC
+
+पुनर्प्रेषित O
+आर्यभट्ट B-ORG
+ज्ञान I-ORG
+विश्वविद्यालय I-ORG
+
+** O
+कोपनहेगन B-LOC
+( O
+दूतावास O
+) O
+
+भारतीय B-ORG
+प्रौद्योगिकी I-ORG
+संस्थान I-ORG
+कानपुर I-ORG
+
+एयरलाइन्स B-ORG
+( I-ORG
+टीवी I-ORG
+धारावाहिक I-ORG
+) I-ORG
+
+अलीपुर B-ORG
+द्वार I-ORG
+जंक्शन I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+परिषद B-ORG
+हिन्दू I-ORG
+धर्म I-ORG
+
+लक्ष्मीकांत-प्यारेलाल B-ORG
+-- O
+-- O
+-- O
+-- O
+-- O
+सचिन B-PER
+देव I-PER
+बर्मन I-PER
+-- O
+-- O
+-- O
+-- O
+-- O
+-- O
+राहुल B-PER
+देव I-PER
+बर्मन I-PER
+
+' O
+'' O
+पूर्ण O
+'' O
+' O
+' O
+'' O
+भारत B-LOC
+'' O
+' O
+
+राजभवन B-ORG
+( I-ORG
+पश्चिम I-ORG
+बंगाल I-ORG
+) I-ORG
+, I-ORG
+दार्जिलिंग I-ORG
+
+राणा B-PER
+अमर I-PER
+सिंह I-PER
+( O
+1596-1607 O
+) O
+
+सपने B-ORG
+सुहाने I-ORG
+लड़कपन I-ORG
+के I-ORG
+
+' O
+'' O
+खाण्डेपार O
+'' O
+' O
+भारत B-LOC
+के O
+गोवा B-LOC
+राज्य B-ORG
+के O
+उत्तर B-LOC
+गोवा I-LOC
+जिले I-LOC
+में O
+स्थित O
+एक O
+जनगणना B-LOC
+नगर I-LOC
+है। O
+
+जनता B-ORG
+दल I-ORG
+( I-ORG
+यूनाइटेड I-ORG
+) I-ORG
+
+सन B-ORG
+डायरेक्ट I-ORG
+डीटीएच I-ORG
+
+अररिया B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+अनुप्रेषित O
+बिड़ला B-ORG
+प्रौद्योगिकी I-ORG
+एवं I-ORG
+विज्ञान I-ORG
+संस्थान I-ORG
+, I-ORG
+पिलानी I-ORG
+
+विजय B-PER
+सेन I-PER
+( O
+1096-1159 O
+AD O
+) O
+
+डेविड B-PER
+अब्राहम I-PER
+- O
+जज O
+
+नन्दा B-LOC
+देवी I-LOC
+राष्ट्रीय I-LOC
+उद्यान I-LOC
+
+बंबई]] O
+( O
+सिंध B-LOC
+और O
+महाराष्ट्र B-LOC
+, O
+गुजरात B-LOC
+एवं O
+कर्नाटक B-LOC
+के O
+कुछ O
+हिस्से O
+) O
+
+ऐरो B-ORG
+( I-ORG
+टीवी I-ORG
+शृंखला I-ORG
+) I-ORG
+
+उदाहरण O
+के O
+लिए O
+, O
+1960 O
+तक O
+, O
+ऑस्ट्रेलिया B-LOC
+में O
+रंगीन O
+मार्जरीन O
+की O
+बिक्री O
+वैध O
+नहीं O
+थी। O
+
+** O
+बांग्लादेश B-LOC
+( O
+१ O
+% O
+जनसंख्या O
+द्बारा O
+) O
+
+पुनर्प्रेषित O
+गोविंद B-PER
+नारायण I-PER
+सिंह I-PER
+
+टाइम्स B-ORG
+नाऊ I-ORG
+इंडिया B-ORG
+टीवी I-ORG
+-सीवोटर O
+
+राष्ट्रीय B-ORG
+जनतांत्रिक I-ORG
+गठबंधन I-ORG
+
+अनुप्रेषित O
+राजामण्ड्रि B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+मिज़ोरम B-LOC
+( O
+165 O
+) O
+, O
+त्रिपुरा B-LOC
+( O
+65 O
+) O
+
+में O
+भारत B-LOC
+का I-LOC
+विभाजन I-LOC
+और O
+पाकिस्तान B-LOC
+की O
+स्थापना O
+हुई। O
+
+काजोल B-PER
+देवगन I-PER
+- O
+पिया O
+
+अरुणा B-PER
+ईरानी I-PER
+- O
+सीमा O
+
+तुषार B-PER
+कपूर I-PER
+, O
+अमृता B-PER
+राव I-PER
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+४६ I-ORG
+
+श्री B-ORG
+छत्रपति I-ORG
+शाहू I-ORG
+संग्रहालय I-ORG
+, I-ORG
+कोल्हापुर I-ORG
+
+=== O
+डेनमार्क B-LOC
+( O
+4 O
+) O
+=== O
+
+गुरु B-PER
+दत्त I-PER
+, O
+माला B-PER
+सिन्हा I-PER
+
+शिमला B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+' O
+'' O
+जसप्रीत B-PER
+बुमराह I-PER
+'' O
+' O
+
+अक्षम्य O
+का O
+अर्थ O
+होता O
+है O
+क्षमा B-LOC
+न O
+करने O
+योग्य। O
+
+| O
+align= O
+'' O
+left O
+'' O
+| O
+फ़्रान्स B-LOC
+
+इम्फाल B-LOC
+पश्चिम I-LOC
+जिला I-LOC
+
+कैलिफोर्निया B-ORG
+इंस्टीट्यूट I-ORG
+ऑफ I-ORG
+टेक्नोलॉजी I-ORG
+, O
+( O
+सं॰रा॰अमे॰ O
+) O
+
+पंजाब]] O
+( O
+108 O
+) O
+, O
+हिमाचल B-LOC
+प्रदेश I-LOC
+( O
+14 O
+) O
+, O
+जम्मू B-LOC
+और I-LOC
+कश्मीर I-LOC
+( O
+541 O
+) O
+
+1998 O
+में O
+रॉयल B-ORG
+सोसायटी I-ORG
+
+समरतुंग B-PER
+( O
+812-833 O
+) O
+
+अनुप्रेषित O
+खम्मम B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+' O
+'' O
+शिलांग B-LOC
+'' O
+' O
+
+सर्बिया B-ORG
+और I-ORG
+मोण्टेनेग्रो I-ORG
+
+' O
+'' O
+गोविंद B-PER
+पुरुषोत्तम I-PER
+देशपांडे I-PER
+'' O
+' O
+
+अंतर B-ORG
+अमेरिकी I-ORG
+विकास I-ORG
+बैंक I-ORG
+
+फ़ॉल्कटन B-LOC
+, I-LOC
+दक्षिण I-LOC
+डकोटा I-LOC
+
+अवाया B-ORG
+( O
+Avaya O
+) O
+
+10 O
+फ़रवरी O
+2010 O
+में O
+आरबीएस O
+ने O
+घोषणा O
+की O
+कि O
+व्यवसाय O
+की O
+जो O
+शाखाएं O
+भारत B-LOC
+और O
+संयुक्त B-LOC
+अरब I-LOC
+अमीरात I-LOC
+में O
+हैं O
+, O
+उनका O
+नामकरण O
+उसके O
+नाम O
+के O
+तहत O
+होना O
+है। O
+. O
+
+पुनर्प्रेषित O
+हाउस B-ORG
+ऑफ़ I-ORG
+कॉमन्स I-ORG
+, I-ORG
+कनाडा I-ORG
+
+मुकुल B-PER
+देव I-PER
+– O
+शोयब O
+
+भारतीय B-ORG
+सांख्यिकी I-ORG
+संस्थान I-ORG
+
+वर्जीनिया B-PER
+रुआनो I-PER
+पास्कुआल I-PER
+पाओला B-PER
+सुआरेज़ I-PER
+
+पुनर्प्रेषित O
+यूनाइटेड B-LOC
+किंगडम I-LOC
+के I-LOC
+देश I-LOC
+
+दिल्ली B-ORG
+नौयडा I-ORG
+टॉल I-ORG
+ब्रिज I-ORG
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+३४ I-ORG
+
+=== O
+बॉस्निया B-LOC
+और I-LOC
+हर्जेगोविना I-LOC
+=== O
+
+( O
+३ O
+) O
+मथुरा B-LOC
+के O
+क्षत्रप O
+, O
+और O
+
+अनुप्रेषित O
+हिन्दुस्तानी B-ORG
+शास्त्रीय I-ORG
+संगीत I-ORG
+
+आरोन B-PER
+चियानोवीर I-PER
+, O
+एवरम B-PER
+हेर्शको I-PER
+, O
+इरविन B-PER
+रोज I-PER
+
+ख़ोव्द B-LOC
+( I-LOC
+शहर I-LOC
+) I-LOC
+
+गढ़वाल B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+बंबई B-ORG
+स्टॉक I-ORG
+एक्सचेंज I-ORG
+
+भूपेंद्र B-PER
+नाथ I-PER
+कौशिक I-PER
+
+** O
+संजय B-PER
+लीला I-PER
+भंसाली I-PER
+– O
+बाजीराव B-ORG
+मस्तानी I-ORG
+'' O
+
+पोप B-PER
+ग्रीगरी I-PER
+प्रथम I-PER
+
+गाथा B-LOC
+जलप्रपात I-LOC
+300 O
+फुट O
+
+कांगड़ा B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+सजन B-ORG
+रे I-ORG
+झूठ I-ORG
+मत I-ORG
+बोलो I-ORG
+
+जैकोबस B-PER
+हेनरीकस I-PER
+वांट I-PER
+हॉफ I-PER
+
+दक्षिण B-LOC
+सिक्किम I-LOC
+जिला I-LOC
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+३५ I-ORG
+
+टॉड B-PER
+वुडब्रिज I-PER
+/ O
+मार्क B-PER
+वुडफोर्ड I-PER
+ने O
+ऐलिस B-PER
+फरेरा I-PER
+/ O
+रिक B-PER
+लीच I-PER
+को O
+7-6 O
+, O
+6-4 O
+से O
+हराया। O
+
+योगिता B-PER
+बाली I-PER
+- O
+रूपा O
+
+अण्डमान B-LOC
+और I-LOC
+निकोबार I-LOC
+द्वीपसमूह I-LOC
+
+जोधपुर B-LOC
+( O
+125 O
+किमी O
+) O
+
+' O
+'' O
+स्टार B-ORG
+प्रवाह I-ORG
+'' O
+' O
+
+** O
+शालिमार B-LOC
+बाग I-LOC
+( I-LOC
+श्रीनगर I-LOC
+) I-LOC
+
+रोजर B-PER
+फ़ेडरर I-PER
+ने O
+मराट B-PER
+साफिन I-PER
+को O
+6-1 O
+, O
+6-3 O
+, O
+6-4 O
+से O
+हराया। O
+
+मैकमोहन B-PER
+- O
+झूठा O
+गवाह O
+
+अमरीश B-PER
+पुरी I-PER
+- O
+चूनिया O
+
+' O
+'' O
+कस्बा B-LOC
+, I-LOC
+कोलकाता I-LOC
+'' O
+' O
+, O
+कोलकाता B-LOC
+का O
+एक O
+क्षेत्र। O
+
+भारतीय B-ORG
+रेल I-ORG
+द्विभुज O
+विद्युतग्राही O
+का O
+उपयोग O
+करती O
+है। O
+
+हेमंत B-PER
+बिर्जे I-PER
+- O
+पुलिस O
+इंस्पेक्टर O
+
+सूचना B-ORG
+और I-ORG
+प्रसारण I-ORG
+मंत्रालय I-ORG
+
+' O
+'' O
+देहरादून B-LOC
+'' O
+' O
+
+भारतीय B-ORG
+सर्वेक्षण I-ORG
+विभाग I-ORG
+
+अनुप्रेषित O
+मीर B-LOC
+पोर I-LOC
+, I-LOC
+कश्मीर I-LOC
+
+बड़ी B-ORG
+दूर I-ORG
+से I-ORG
+आये I-ORG
+हैं I-ORG
+
+' O
+'' O
+सऊदी B-LOC
+अरब I-LOC
+'' O
+' O
+
+डेट्राइट B-LOC
+, I-LOC
+मिशिगन I-LOC
+
+लक्की B-LOC
+मरवत I-LOC
+ज़िला I-LOC
+
+अंततः O
+यह O
+ग्रेगोरोविच O
+के O
+अधिकार O
+में O
+आ O
+गयी O
+, O
+जो O
+एक O
+बुल्गारियाई B-LOC
+वैंड O
+बनाने O
+वाला O
+था O
+. O
+
+' O
+'' O
+बायर B-ORG
+लेवरकुसेन I-ORG
+'' O
+' O
+'' O
+'प्रथम O
+खिताब O
+'' O
+' O
+
+विलियम B-PER
+हेनरी I-PER
+ब्रैग I-PER
+
+शेर B-PER
+शाह I-PER
+सूरी I-PER
+
+जनकपुरी B-ORG
+पूर्व I-ORG
+, I-ORG
+दिल्ली I-ORG
+
+डोमिनिकवासी O
+बचाटा O
+और O
+मेयरेंग O
+को O
+लेकर O
+आये O
+जबकि O
+कोलम्बियाई B-LOC
+वैलेंटो O
+और O
+कुम्बिया O
+को O
+यहाँ O
+लाये O
+. O
+
+अफ़ग़ानिस्तान B-ORG
+युद्ध I-ORG
+, O
+2001 O
+
+अनुप्रेषित O
+सी B-PER
+वी I-PER
+रामन I-PER
+पिल्लै I-PER
+
+स्वामी B-PER
+दयानन्द I-PER
+सरस्वती I-PER
+
+** O
+मलेशिया B-LOC
+( O
+२० O
+% O
+जनसंख्या O
+द्बारा O
+) O
+
+पुनर्प्रेषित O
+बी॰ B-PER
+टी॰ I-PER
+रणदिवे I-PER
+
+जनता B-ORG
+दल I-ORG
+( I-ORG
+यूनाइटेड I-ORG
+) I-ORG
+
+होमी B-PER
+जहांगीर I-PER
+भाभा I-PER
+
+शान्ति B-PER
+स्वरूप I-PER
+भटनागर I-PER
+
+गुरु B-ORG
+तेग I-ORG
+बहादुर I-ORG
+नगर I-ORG
+
+भारतीय B-ORG
+नाभिकीय I-ORG
+उर्जा I-ORG
+निगम I-ORG
+लिमिटेड I-ORG
+, O
+भारत B-LOC
+( O
+NPCIL O
+) O
+
+ईशा B-PER
+कोपिकर I-PER
+- O
+रज्जो O
+
+दिल्ली B-ORG
+प्रौद्योगिकी I-ORG
+विश्वविद्यालय I-ORG
+
+ताराचंद B-PER
+बड़जात्या I-PER
+( O
+राजश्री B-ORG
+प्रोडक्शन्स I-ORG
+) O
+
+मेरी B-ORG
+आशिकी I-ORG
+तुम I-ORG
+से I-ORG
+ही I-ORG
+
+आमिर B-PER
+ख़ान I-PER
+, O
+जूही B-PER
+चावला I-PER
+
+राजेश B-PER
+खन्ना I-PER
+, O
+राखी B-ORG
+गुलज़ार I-ORG
+
+वैज्ञानिक B-ORG
+एवं I-ORG
+औद्योगिक I-ORG
+अनुसंधान I-ORG
+परिषद I-ORG
+
+बिली B-PER
+जीन I-PER
+किंग I-PER
+रोसमैरी B-PER
+कैसल्स I-PER
+
+पुनर्विवाह B-ORG
+– I-ORG
+ज़िन्दगी I-ORG
+मिलेगी I-ORG
+दोबारा I-ORG
+
+थोमस B-ORG
+बैबिंगटन I-ORG
+मैकाले I-ORG
+
+सेठ B-ORG
+एम I-ORG
+आर I-ORG
+जयपुरिया I-ORG
+स्कूल I-ORG
+
+अमिताभ B-PER
+बच्चन I-PER
+- O
+युवक O
+अमल O
+का O
+स्वर O
+
+१२३२ B-PER
+ईसा I-PER
+पूर्व I-PER
+
+रिचर्ड B-PER
+क्राजिचेक I-PER
+ने O
+सेबेस्तियन B-PER
+ग्रौज़ाँ I-PER
+को O
+4-6 O
+, O
+6-1 O
+, O
+6-2 O
+, O
+7-5 O
+से O
+हराया। O
+
+गौतम B-LOC
+बुद्ध I-LOC
+नगर I-LOC
+जिला I-LOC
+
+अनुपम B-PER
+खेर I-PER
+- O
+उजवल O
+राजा O
+बुली O
+
+सेरेना B-PER
+विलियम्स I-PER
+/ O
+वीनस B-PER
+विलियम्स I-PER
+ने O
+वर्जीनिया B-PER
+रुआनो I-PER
+पास्कुआल I-PER
+/ O
+पाओला B-PER
+सुआरेज़ I-PER
+को O
+4-6 O
+, O
+6-4 O
+, O
+6-3 O
+से O
+हराया। O
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+४४ I-ORG
+
+शबाना B-PER
+आज़मी I-PER
+- O
+स्टैला O
+डिकोस्टा O
+
+दमन B-LOC
+और I-LOC
+दीव I-LOC
+
+पुनर्प्रेषित O
+राम B-PER
+चरण I-PER
+( I-PER
+गुरु I-PER
+) I-PER
+
+न्यायमूर्ति B-PER
+श्री I-PER
+के॰ I-PER
+जी॰ I-PER
+बालकृष्णन I-PER
+
+अनुप्रेषित O
+एम॰ B-PER
+टी॰ I-PER
+वासुदेव I-PER
+नायर I-PER
+
+इंदिरा B-ORG
+गांधी I-ORG
+कृषि I-ORG
+विश्वविद्यालय I-ORG
+, I-ORG
+रायपुर B-LOC
+
+पारम्परिक B-ORG
+ज्ञान I-ORG
+का I-ORG
+आंकिक I-ORG
+संग्रहालय I-ORG
+
+' O
+'' O
+सोनाली B-PER
+बेंद्रे I-PER
+'' O
+' O
+
+अनुप्रेषित O
+लाँग B-LOC
+बीच I-LOC
+, I-LOC
+केलिफ़ोर्निया I-LOC
+
+[[हिण्डौन O
+Subdistrict O
+in O
+राजस्थान B-LOC
+, O
+भारत B-LOC
+
+ई. B-PER
+एच. I-PER
+कार I-PER
+
+विक्रम B-PER
+अंबालाल I-PER
+साराभाई I-PER
+
+जॉर्जिया B-LOC
+( I-LOC
+अमरीकी I-LOC
+राज्य I-LOC
+) I-LOC
+
+जॉन B-PER
+मेकनरो I-PER
+ने O
+इवान B-PER
+लेंडल I-PER
+को O
+7-5 O
+, O
+6-3 O
+से O
+हराया। O
+
+बड़ा B-LOC
+सुन्दा I-LOC
+द्वीप I-LOC
+समूह I-LOC
+
+नवादा B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+कम्बोडिया B-LOC
+( O
+१२ O
+) O
+
+कल्याण B-PER
+मल I-PER
+लोढ़ा I-PER
+
+में O
+इसे O
+दार्जिलिंग B-LOC
+में O
+मिला O
+दिया O
+गया। O
+19 O
+वीं O
+शताब्‍दी O
+के O
+उत्तरार्द्ध O
+में O
+यहां O
+स्‍काटिश O
+मिशनरियों O
+का O
+आगमन O
+हुआ। O
+1950 O
+ई O
+. O
+
+बॉब B-PER
+ब्रायन I-PER
+/ O
+माइक B-PER
+ब्रायन I-PER
+ने O
+पॉल B-PER
+हैनली I-PER
+/ O
+केविन B-PER
+उलियेट I-PER
+को O
+6–3 O
+, O
+7–5 O
+से O
+हराया। O
+
+अमिताभ B-PER
+बच्चन I-PER
+, O
+फरहान B-PER
+अख्तर I-PER
+, O
+अदिति B-PER
+राव I-PER
+हैदरी I-PER
+, O
+जॉन B-PER
+अब्राहम I-PER
+
+जनता B-ORG
+दल I-ORG
+( I-ORG
+यूनाइटेड I-ORG
+) I-ORG
+
+राष्ट्रवादी B-ORG
+कांग्रेस I-ORG
+पार्टी I-ORG
+- O
+9 O
+
+भारत B-LOC
+में O
+खेती O
+की O
+इस O
+पद्धति O
+को O
+' O
+'' O
+'ऋषि O
+खेती O
+'' O
+'' O
+कहते O
+हैं। O
+
+`` B-ORG
+पंडित I-ORG
+रविशंकर I-ORG
+शुक्ल I-ORG
+विश्वविद्यालय I-ORG
+'' I-ORG
+, O
+रायपुर B-LOC
+
+ब्रायन B-PER
+कोबिका I-PER
+, O
+रॉबर्ट B-PER
+लेफ्कोविट्ज़ I-PER
+
+इगोर B-PER
+आन्द्रीव I-PER
+/ O
+निकोलय B-PER
+डेवीडेंको I-PER
+ने O
+महेश B-PER
+भूपति I-PER
+/ O
+योनास B-PER
+ब्योर्कमैन I-PER
+को O
+3–6 O
+, O
+6–3 O
+, O
+6–4 O
+से O
+हराया। O
+
+अनुप्रेषित O
+पंडित B-ORG
+दीनदयाल I-ORG
+उपाध्याय I-ORG
+शेखावाटी I-ORG
+विश्वविद्यालय I-ORG
+
+पुनर्प्रेषित O
+बलूचिस्तान B-LOC
+( I-LOC
+पाकिस्तान I-LOC
+) I-LOC
+
+रोजर B-PER
+फ़ेडरर I-PER
+ने O
+जेम्स B-PER
+ब्लेक I-PER
+को O
+6-1 O
+, O
+6-4 O
+से O
+हराया। O
+
+अभिषेक B-PER
+बच्चन I-PER
+- O
+विशेष O
+उपस्थिति O
+
+२०१४ B-ORG
+फीफा I-ORG
+विश्व I-ORG
+कप I-ORG
+
+जयन्त B-PER
+विष्णु I-PER
+नार्लीकर I-PER
+
+अमिताभ B-PER
+बच्चन I-PER
+- O
+छोटू O
+
+राणा B-PER
+करण I-PER
+( O
+1620-1628 O
+) O
+
+झुंझुनू B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+बिरला B-ORG
+प्रौद्योगिकी I-ORG
+संस्थान I-ORG
+
+रणबीर B-PER
+कपूर I-PER
+- O
+आकाश O
+
+उत्तर B-LOC
+प्रदेश I-LOC
+( O
+270 O
+) O
+, O
+मध्य B-LOC
+प्रदेश I-LOC
+( O
+82 O
+) O
+
+द्वारका B-ORG
+सैक्टर I-ORG
+१० I-ORG
+
+अनुप्रेषित O
+मोहम्मद B-PER
+रफीक I-PER
+तरार I-PER
+
+राजाराज B-PER
+चोल I-PER
+१ I-PER
+
+राष्ट्रीय B-ORG
+राजमार्ग I-ORG
+५७ I-ORG
+
+' O
+'' O
+( O
+ज O
+) O
+कांडर्षि O
+'' O
+' O
+, O
+जैसे O
+जैमिनि B-PER
+
+मुंबई B-LOC
+( I-LOC
+उपनगरीय I-LOC
+) I-LOC
+
+पंजाब B-LOC
+( I-LOC
+भारत I-LOC
+) I-LOC
+
+संयुक्त B-LOC
+राज्य I-LOC
+अमेरिका I-LOC
+
+इस्को B-ORG
+इस्पात I-ORG
+कारखाना I-ORG
+, O
+पश्चिम B-LOC
+बंगाल I-LOC
+
+भारतीय B-ORG
+राष्ट्रीय I-ORG
+कांग्रेस I-ORG
+
+1.विश्वविख्यात O
+भारतीय B-ORG
+खनि I-ORG
+विद्यापीठ I-ORG
+विश्वविद्यालय,1926 I-ORG
+
+भारतीय B-ORG
+खनि I-ORG
+विद्यापीठ I-ORG
+विश्वविद्यालय I-ORG
+
+ओम B-PER
+पुरी I-PER
+- O
+एसीपी O
+जो O
+डी'सुज़ा O
+
+अनुप्रेषित O
+हज़ारीबाग B-ORG
+राष्ट्रीय I-ORG
+उद्यान I-ORG
+
+LinkedIn B-ORG
+( I-ORG
+लिंक्डइन I-ORG
+) I-ORG
+
+ललिता B-PER
+पवार I-PER
+— O
+छात्रावास O
+संरक्षक O
+
+कुछ O
+शब्द O
+कुछ O
+रेखाएँ O
+विष्णु B-PER
+प्रभाकर I-PER
+द्वारा O
+रचित O
+संस्मरणों O
+का O
+संग्रह O
+है। O
+
+महिन्द्रा B-ORG
+एण्ड I-ORG
+महिन्द्रा B-ORG
+लिमिटेड I-ORG
+
+उधम B-LOC
+सिंह I-LOC
+नगर I-LOC
+जिला I-LOC
+
+माणि B-PER
+माधव I-PER
+चाक्यार I-PER
+
+श्रीराम B-PER
+लागू I-PER
+- O
+मि O
+. O
+
+ज्यूडी B-PER
+डेंच I-PER
+- O
+एम। O
+
+असम B-LOC
+( O
+गुवाहाटी B-LOC
+) O
+
+क्या B-ORG
+हुआ I-ORG
+तेरा I-ORG
+वादा I-ORG
+
+पुनर्प्रेषित O
+ज़ुल्फ़िक़ार B-PER
+अली I-PER
+भुट्टो I-PER
+
+अनुप्रेषित O
+सांवर B-PER
+लाल I-PER
+जाट I-PER
+
+मुग़ल B-PER
+बादशाहों I-PER
+की I-PER
+सूची I-PER
+
+पुनर्प्रेषित O
+हाउस B-ORG
+ऑफ़ I-ORG
+कॉमन्स I-ORG
+, I-ORG
+कनाडा I-ORG
+
+जापान B-LOC
+के O
+कुछ O
+कार्यालयों O
+में O
+कुछ O
+खास O
+कमरे O
+होते O
+हैं O
+, O
+जिन्हें O
+झपकी O
+के O
+कमरे O
+कहा O
+जाता O
+है O
+, O
+जिसमें O
+दोपहर O
+के O
+भोजन O
+के O
+अवकाश O
+या O
+अतिरिक्त O
+समय O
+काम O
+करने O
+के O
+बाद O
+श्रमिक O
+झपकी O
+लेते O
+हैं। O
+
+३०० O
+, O
+०७६ O
+कि.मी२ O
+-- O
+फ़िलीपीन्स B-LOC
+
+' O
+'' O
+' O
+'' O
+पाकिस्तान B-LOC
+
+अनुप्रेषित O
+उडुपी B-PER
+राजगोपालाचार्य I-PER
+अनंतमूर्ति I-PER
+
+पिंचू B-PER
+कपूर I-PER
+- O
+माथाधर O
+
+व्याकरण B-PER
+( I-PER
+वेदांग I-PER
+) I-PER
+
+1991 O
+- O
+यूडोरा B-PER
+वेल्टी I-PER
+
+हाउ B-ORG
+आई I-ORG
+मेट I-ORG
+योर I-ORG
+मदर I-ORG
+'' O
+
+ताजमहल B-ORG
+, O
+उत्तर B-LOC
+प्रदेश I-LOC
+( O
+1983 O
+) O
+
+लोकमान्य B-ORG
+तिलक I-ORG
+टर्मिनस I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+हमीरपुर B-LOC
+, I-LOC
+उत्तर I-LOC
+प्रदेश I-LOC
+
+भाभा B-ORG
+परमाणु I-ORG
+अनुसंधान I-ORG
+केन्द्र I-ORG
+( O
+BARC O
+) O
+, O
+मुम्बई B-LOC
+
+' O
+'' O
+बंगाल B-LOC
+' O
+'' O
+से O
+
+इथाका B-LOC
+घाटी I-LOC
+( I-LOC
+टॅथिस I-LOC
+) I-LOC
+
+ब्रिटेन B-PER
+के I-PER
+प्रधान I-PER
+मन्त्री I-PER
+
+** O
+बोगोटा B-LOC
+( O
+दूतावास O
+) O
+
+१४३ O
+, O
+१०० O
+कि.मी२ O
+-- O
+ताजिकिस्तान B-LOC
+
+' O
+'' O
+बेड़िया O
+'' O
+' O
+जाति O
+बिहार B-LOC
+, O
+मध्य B-LOC
+प्रदेश I-LOC
+और O
+झारखण्ड B-LOC
+में O
+पायी O
+जाती O
+है। O
+
+अनुप्रेषित O
+बीएमएस B-ORG
+इंजीनियरिंग I-ORG
+कॉलेज I-ORG
+
+पिरैमिड B-ORG
+( I-ORG
+ज्यामिति I-ORG
+) I-ORG
+
+अनुप्रेषित O
+ऐन्डीज़ B-LOC
+पर्वत I-LOC
+शृंखला I-LOC
+
+नीना B-PER
+गुप्ता I-PER
+- O
+बिल्लो O
+
+आदि O
+और O
+अंत O
+विष्णु B-PER
+प्रभाकर I-PER
+द्वारा O
+रचित O
+कहानी O
+संग्रह O
+है। O
+
+संजय B-ORG
+गांधी I-ORG
+स्नातकोत्तर I-ORG
+आयुर्विज्ञान I-ORG
+संस्थान I-ORG
+( O
+एसजीपीजीआई O
+) O
+, O
+
+पुनर्प्रेषित O
+ऑल B-ORG
+झारखण्ड I-ORG
+स्टूडेंट्स I-ORG
+यूनियन I-ORG
+
+सीकर B-ORG
+लोक I-ORG
+सभा I-ORG
+निर्वाचन I-ORG
+क्षेत्र I-ORG
+
+मापन B-ORG
+के I-ORG
+मात्रक I-ORG
+
+आम B-ORG
+बजट I-ORG
+( I-ORG
+2013-14 I-ORG
+) I-ORG
+
+( O
+३ O
+) O
+' O
+'' O
+लक्षणावली O
+'' O
+' O
+- O
+जिसमें O
+वैशेषिक B-ORG
+दर्शन I-ORG
+का O
+सार O
+संकलित O
+है O
+; O
+
+** O
+सानतिआगो B-LOC
+( O
+दूतावास O
+) O
+
+भारत B-ORG
+का I-ORG
+वीर I-ORG
+पुत्र I-ORG
+– I-ORG
+महाराणा I-ORG
+प्रताप I-ORG
+
+ड्रेकुला B-ORG
+( I-ORG
+१९९२ I-ORG
+फ़िल्म I-ORG
+) I-ORG
+
+' O
+'' O
+बाल्टीमोर B-ORG
+रेवन्स I-ORG
+'' O
+' O
+
+दिल्ली B-ORG
+सराय I-ORG
+रोहिल्ला I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+' O
+'' O
+थीसियस B-ORG
+का I-ORG
+जहाज I-ORG
+'' O
+' O
+
+गोपाल B-PER
+२ I-PER
+( O
+९४०-९६० O
+) O
+
+पुनर्प्रेषित O
+ग़ुलाम B-PER
+मुस्तफ़ा I-PER
+दुर्रानी I-PER
+
+** O
+मिलानो B-LOC
+( O
+जनरल-वाणिज्य O
+दूतावास O
+) O
+
+विल्लुपुरम B-PER
+चिन्नैया I-PER
+गणेशन I-PER
+
+अजीत B-PER
+वाच्छानी I-PER
+- O
+मामाजी O
+
+राष्ट्रीय B-ORG
+पुरातात्विक I-ORG
+संग्रहालय I-ORG
+, I-ORG
+नई I-ORG
+दिल्ली I-ORG
+
+उत्तर B-LOC
+प्रदेश I-LOC
+( O
+43 O
+) O
+, O
+मध्य B-LOC
+प्रदेश I-LOC
+( O
+50 O
+) O
+
+भारतीय B-ORG
+जीवन I-ORG
+बीमा I-ORG
+निगम I-ORG
+
+सिलिकॉन B-ORG
+कन्ट्रोल्ड I-ORG
+रेक्टिफायर I-ORG
+( O
+SCR O
+) O
+
+भक्तिवेदान्त B-PER
+स्वामी I-PER
+प्रभुपाद I-PER
+
+गोरखचिंच B-LOC
+- O
+जिसे O
+'पारिजात O
+' O
+भी O
+कहते O
+हैं। O
+
+' O
+'' O
+आन्द्रे B-PER
+अगासी I-PER
+'' O
+' O
+
+' O
+'' O
+पुणे B-LOC
+'' O
+' O
+
+अनुप्रेषित O
+सआदत B-PER
+हसन I-PER
+मंटो I-PER
+
+पुरे O
+भारत B-LOC
+में O
+मात्र O
+दो O
+जगह O
+ही O
+ऐसा O
+देखने O
+को O
+मिलता O
+है O
+, O
+एक O
+धनबाद B-LOC
+और O
+दुसरा O
+नागपुर B-LOC
+के O
+समीप। O
+
+अनुप्रेषित O
+अटल B-PER
+बिहारी I-PER
+वाजपेयी I-PER
+
+उज्जैन B-ORG
+का I-ORG
+महाकालेश्वर I-ORG
+मंदिर I-ORG
+
+पूर्वी B-LOC
+प्रान्त I-LOC
+, I-LOC
+सउदी I-LOC
+अरब I-LOC
+
+पुनर्प्रेषित O
+ज़ू B-PER
+चेंग I-PER
+( I-PER
+भिक्षु I-PER
+) I-PER
+
+जिन B-ORG
+माओ I-ORG
+टावर I-ORG
+
+ज़रीना B-PER
+वहाब I-PER
+- O
+अतिथि O
+भूमिका O
+
+बाबर B-PER
+'' O
+( O
+2009 O
+) O
+
+''गीतकार O
+'' O
+— O
+आनंद B-PER
+बख्शी I-PER
+
+भगवान B-PER
+दादा I-PER
+( I-PER
+हास्य I-PER
+अभिनेता I-PER
+) I-PER
+
+दीपा B-PER
+साही I-PER
+, O
+शाहरुख़ B-PER
+ख़ान I-PER
+, O
+फ़ारुख़ B-PER
+शेख़ I-PER
+
+' O
+'' O
+रॉबिन B-PER
+उथप्पा I-PER
+'' O
+' O
+
+अच्युत B-PER
+देव I-PER
+राय I-PER
+1529-1542 O
+
+न्यूयॉर्क B-LOC
+नगर I-LOC
+, O
+संयुक्त B-LOC
+राज्य I-LOC
+अमेरिका I-LOC
+
+बैथनी B-PER
+मैटेक I-PER
+/ O
+सानिया B-PER
+मिर्ज़ा I-PER
+
+सेंट B-LOC
+पीटर्सबर्ग I-LOC
+, O
+रूस B-LOC
+
+संघ-शासित B-LOC
+जनजातीय I-LOC
+क्षेत्र I-LOC
+
+आधुनिक O
+काल O
+में O
+अमेरिकी B-LOC
+पाठ्यक्रमों I-LOC
+में O
+सभी O
+जीवों O
+को O
+छह O
+जगतों O
+में O
+विभाजित O
+किया O
+गया O
+है O
+- O
+
+' O
+'' O
+पटना B-LOC
+'' O
+' O
+
+पुनर्प्रेषित O
+राम B-PER
+नाथ I-PER
+कोविन्द I-PER
+
+' O
+'' O
+मनीसा O
+, O
+' O
+'' O
+तुर्की B-LOC
+
+' O
+'' O
+पीएसवी B-ORG
+आइंटहॉवन I-ORG
+'' O
+' O
+'' O
+'प्रथम O
+खिताब O
+'' O
+' O
+
+** O
+मास्को B-LOC
+( O
+दूतावास B-ORG
+) O
+
+अनुप्रेषित O
+सैन B-LOC
+होज़े I-LOC
+, I-LOC
+कैलिफोर्निया I-LOC
+
+मानीया B-LOC
+नदी I-LOC
+- O
+मेडागास्कर B-LOC
+
+युनुस B-PER
+परवेज़ I-PER
+- O
+पानवाला O
+
+बस्ती B-LOC
+, I-LOC
+उत्तर I-LOC
+प्रदेश I-LOC
+
+स्टार B-LOC
+टीवी I-LOC
+( I-LOC
+एशिया I-LOC
+) I-LOC
+
+अनुप्रेषित O
+राणा B-PER
+उदय I-PER
+सिंह I-PER
+द्वितीय I-PER
+
+पुनर्प्रेषित O
+मनोज B-PER
+कुमार I-PER
+पांडेय I-PER
+
+पंजाब]] O
+( O
+10 O
+) O
+, O
+हिमाचल B-LOC
+प्रदेश I-LOC
+( O
+210 O
+) O
+
+विल B-PER
+स्मिथ I-PER
+- O
+एजंट O
+जे। O
+
+' O
+'' O
+सोनपुर B-LOC
+'' O
+' O
+नाम O
+ये O
+सबके O
+लिए O
+भी O
+जाना O
+जाता O
+है। O
+
+मधु B-PER
+कोड़ा I-PER
+
+लाहौल B-LOC
+और I-LOC
+स्पीति I-LOC
+जिला I-LOC
+
+वैशाली B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+पुनर्प्रेषित O
+सेण्टर B-ORG
+फ़ॉर I-ORG
+इंटरनेट I-ORG
+एण्ड I-ORG
+सोसाइटी I-ORG
+( I-ORG
+इण्डिया I-ORG
+) I-ORG
+
+अनुप्रेषित O
+सी॰ B-PER
+डी॰ I-PER
+देशमुख I-PER
+
+मोतीलाल B-ORG
+नेहरू I-ORG
+राष्ट्रीय I-ORG
+प्रौद्योगिकी I-ORG
+संस्थान I-ORG
+इलाहाबाद I-ORG
+
+डेविड B-PER
+धवन I-PER
+और O
+वरुण B-PER
+धवन I-PER
+
+कासलरे B-PER
+( O
+इंग्लैण्ड B-LOC
+) O
+
+' O
+'' O
+बार्सिलोना B-LOC
+'' O
+' O
+
+डिम्पल B-PER
+कपाड़िया I-PER
+- O
+वैश्या O
+
+नील B-PER
+फ्रेजर I-PER
+( O
+1957-58-59 O
+) O
+
+** O
+ताशकन्द B-LOC
+( O
+दूतावास O
+) O
+
+लाहौल B-LOC
+और I-LOC
+स्पीति I-LOC
+जिला I-LOC
+
+कनाडा B-LOC
+के O
+ओ.आई.एस.ई O
+. O
+
+अनुप्रेषित O
+2010 B-ORG
+राष्ट्रमण्डल I-ORG
+खेल I-ORG
+
+मुलायम B-PER
+सिंह I-PER
+यादव I-PER
+, O
+समाजवादी B-ORG
+पार्टी I-ORG
+के O
+संस्थापक O
+अध्यक्ष O
+, O
+निवर्तमान O
+रक्षा B-ORG
+मंत्री I-ORG
+और O
+निवर्तमान O
+मुख्यमंत्री B-ORG
+, I-ORG
+उत्तर I-ORG
+प्रदेश I-ORG
+
+पुनर्प्रेषित O
+1 B-ORG
+गोरखा I-ORG
+राइफल्स I-ORG
+
+' O
+'' O
+लिस्बन B-LOC
+'' O
+' O
+पुर्तगल B-LOC
+
+यह O
+शिवलिंग O
+गुजरात B-LOC
+के O
+काठियावाड़ B-LOC
+में O
+स्थापित O
+है। O
+
+रज़ा B-PER
+मुराद I-PER
+- O
+सुपरिटेन्डेन्ट O
+पुलिस O
+
+पंजाब]] O
+( O
+130 O
+) O
+, O
+हरियाणा B-LOC
+( O
+177 O
+) O
+
+चिकित्सा B-ORG
+विज्ञान I-ORG
+संस्थान I-ORG
+, I-ORG
+काशी I-ORG
+हिन्दू I-ORG
+विश्‍वविद्यालय I-ORG
+
+माहिम B-LOC
+की I-LOC
+खाड़ी I-LOC
+
+कुछ O
+पड़ोसी O
+राज्यों O
+, O
+खासकर O
+मणिपुर B-LOC
+ने O
+संघर्ष O
+विराम O
+पर O
+गंभीर O
+चिंता O
+जतायी O
+. O
+
+चीनी B-ORG
+राष्ट्रीय I-ORG
+अंतरिक्ष I-ORG
+प्रशासन I-ORG
+
+संयुक्त B-LOC
+राज्य I-LOC
+अमेरिका I-LOC
+में O
+
+विशिष्ट B-ORG
+आर्थिक I-ORG
+क्षेत्र I-ORG
+
+लोकमान्य B-ORG
+तिलक I-ORG
+टर्मिनस I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+''निर्देशक O
+'' O
+- O
+अनिल B-PER
+गाँगुली I-PER
+
+देशः O
+संयुक्त B-LOC
+राज्य I-LOC
+अमेरिका I-LOC
+
+केंद्रीय B-ORG
+औद्योगिक I-ORG
+सुरक्षा I-ORG
+बल I-ORG
+
+असित B-PER
+सेन I-PER
+- O
+उदासु O
+
+भारतीय B-ORG
+प्रौद्योगिकी I-ORG
+संस्थान I-ORG
+, I-ORG
+भुवनेश्वर B-LOC
+
+अभिषेक B-PER
+बच्चन I-PER
+- O
+ब्रजभूशण O
+
+विदर्भ B-LOC
+क्रिकेट I-LOC
+एसोसिएशन I-LOC
+ग्राउंड I-LOC
+, O
+नागपुर B-LOC
+
+ताशक़ुरग़ान​ B-LOC
+ताजिक I-LOC
+स्वशासित I-LOC
+ज़िला I-LOC
+
+सुनील B-ORG
+शेट्टी I-ORG
+, O
+अक्षय B-PER
+कुमार I-PER
+, O
+परेश B-PER
+रावल I-PER
+, O
+रवीना B-PER
+टंडन I-PER
+, O
+नसीरुद्दीन B-PER
+शाह I-PER
+
+चम्पा B-ORG
+राज्य O
+का O
+राजा O
+था। O
+
+अवतार B-PER
+गिल I-PER
+- O
+थौमसन O
+
+राष्ट्रीय B-ORG
+शिक्षक I-ORG
+शिक्षा I-ORG
+परिषद I-ORG
+( O
+NCTE O
+) O
+
+लॉर्ड्स B-ORG
+क्रिकेट I-ORG
+ग्राउंड I-ORG
+, O
+लंदन B-LOC
+
+बैंक B-ORG
+ऑफ़ I-ORG
+बड़ौदा I-ORG
+
+सुरेश B-PER
+ओबेरॉय I-PER
+- O
+कालीचरण O
+
+लिओनार्दो B-PER
+दा I-PER
+विंची I-PER
+
+' O
+'' O
+दमन B-LOC
+'' O
+' O
+
+के॰ B-PER
+जे॰ I-PER
+येशुदास I-PER
+
+पुणे B-LOC
+, O
+भारत B-LOC
+( O
+1992 O
+) O
+
+कुलभूषण B-PER
+खरबंदा I-PER
+- O
+शकाल O
+
+पुनर्प्रेषित O
+लिबरल B-ORG
+पार्टी I-ORG
+ऑफ I-ORG
+कनाडा I-ORG
+
+' O
+'' O
+FX B-ORG
+'' O
+' O
+
+टाइम्स B-ORG
+नाऊ I-ORG
+इंडिया B-ORG
+टीवी I-ORG
+-सीवोटर O
+
+पंजाब B-LOC
+( I-LOC
+पाकिस्तान I-LOC
+) I-LOC
+
+पुनर्प्रेषित O
+असम B-ORG
+के I-ORG
+मुख्यमंत्रियों I-ORG
+की I-ORG
+सूची I-ORG
+
+यह O
+दिल्ली B-ORG
+विकास I-ORG
+प्राधिकरण I-ORG
+का O
+मुख्य O
+कार्यालय O
+है। O
+जैसा O
+नाम O
+से O
+दिखता O
+है O
+, O
+यह O
+दिल्ली B-LOC
+में O
+ही O
+स्थित O
+है। O
+
+ख़ान B-ORG
+( I-ORG
+उपाधि I-ORG
+) I-ORG
+
+' O
+'' O
+आन्द्रे B-PER
+अगासी I-PER
+'' O
+' O
+
+कैंडिस B-PER
+बाउशर I-PER
+- O
+आफरिन O
+
+सुनील B-ORG
+शेट्टी I-ORG
+, O
+जॉन B-PER
+अब्राहम I-PER
+, O
+नेहा B-PER
+शर्मा I-PER
+, O
+अभिषेक B-PER
+बच्चन I-PER
+, O
+ईशा B-PER
+गुप्ता I-PER
+, O
+नर्गिस B-PER
+फ़ख़री I-PER
+, O
+परेश B-PER
+रावल I-PER
+, O
+जया B-PER
+बच्चन I-PER
+
+असित B-PER
+सेन I-PER
+- O
+थानेदार O
+
+में O
+होमर B-PER
+के O
+महाकाव्यों O
+एवं O
+776 O
+ई O
+. O
+
+संजय B-PER
+दत्त I-PER
+- O
+आदर्श O
+
+भारत B-ORG
+का I-ORG
+उच्चतम I-ORG
+न्यायालय I-ORG
+
+'' O
+गुजरात B-LOC
+'' O
+' O
+
+रफ्तार O
+इंग्लैण्ड B-LOC
+के O
+मुकाबले O
+न O
+केवल O
+
+पश्चिम B-ORG
+बंगाल I-ORG
+के I-ORG
+मुख्यमन्त्रियों I-ORG
+की I-ORG
+सूची I-ORG
+
+चम्पा B-ORG
+राज्य O
+का O
+एक O
+क्षेत्र। O
+
+डबिंग]] O
+( O
+श्रेय O
+दिया O
+डीवीडी B-ORG
+रिलीज O
+पर O
+) O
+
+२००३ B-ORG
+अमरीकी I-ORG
+ओपन I-ORG
+टेनिस I-ORG
+प्रतियोगिता I-ORG
+
+पुनर्प्रेषित O
+इंडियाज B-ORG
+गॉट I-ORG
+टैलेंट I-ORG
+
+अनुप्रेषित O
+बलबीर B-PER
+सिंह I-PER
+सीचेवाल I-PER
+
+पुनर्प्रेषित O
+9 B-ORG
+गोरखा I-ORG
+राइफल्स I-ORG
+
+पुनर्प्रेषित O
+न्यूटन B-ORG
+( I-ORG
+इकाई I-ORG
+) I-ORG
+
+महाराजा B-PER
+बलवन्त I-PER
+सिंह I-PER
+, O
+1825 O
+- O
+1853 O
+
+लोकमान्य B-ORG
+तिलक I-ORG
+टर्मिनस I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+परावर्तन B-LOC
+( O
+reflection O
+) O
+
+पुनर्प्रेषित O
+फ़िरोज़ B-PER
+शाह I-PER
+तुग़लक़ I-PER
+
+जम्मू B-LOC
+और I-LOC
+कश्मीर I-LOC
+( O
+१२ O
+) O
+
+पी॰ B-PER
+टी॰ I-PER
+उषा I-PER
+
+सुप्रिया B-PER
+पाठक I-PER
+- O
+निशा O
+
+इतना O
+सुनते O
+ही O
+ब्रह्मा B-PER
+जी O
+बोले O
+- O
+“नादान O
+! O
+
+' O
+'' O
+मसूरी B-LOC
+'' O
+' O
+
+उन्नाव B-LOC
+स्वर्ण I-LOC
+खजाने I-LOC
+की I-LOC
+घटना I-LOC
+
+अनिल B-PER
+कपूर I-PER
+- O
+राजा O
+
+मानसून B-ORG
+भवन I-ORG
+, I-ORG
+उदयपुर I-ORG
+
+उत्तराखण्ड B-LOC
+- O
+नित्यानन्द B-PER
+स्वामी I-PER
+
+आचार्य B-PER
+बलदेव I-PER
+उपाध्याय I-PER
+
+' O
+'' O
+बायर B-ORG
+लेवरकुसेन I-ORG
+'' O
+' O
+
+अनुप्रेषित O
+सिंधु B-ORG
+घाटी I-ORG
+सभ्यता I-ORG
+
+दिल्ली B-ORG
+सराय I-ORG
+रोहिल्ला I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+अनुप्रेषित O
+भारतीय B-ORG
+विशिष्ट I-ORG
+पहचान I-ORG
+प्राधिकरण I-ORG
+
+इनका O
+जन्म O
+हिमाचल B-LOC
+प्रदेश I-LOC
+में O
+हुआ। O
+
+राम B-PER
+प्रसाद I-PER
+'बिस्मिल I-PER
+' I-PER
+
+( O
+1 O
+) O
+हृदय B-ORG
+300 O
+ग्राम O
+, O
+
+भारतीय B-ORG
+राष्ट्रीय I-ORG
+कांग्रेस I-ORG
+
+दुधवा B-ORG
+राष्ट्रीय I-ORG
+उद्यान I-ORG
+
+राम B-PER
+प्रसाद I-PER
+'बिस्मिल I-PER
+' I-PER
+
+अनुप्रेषित O
+चटगाँव B-LOC
+( I-LOC
+शहर I-LOC
+) I-LOC
+
+बेटा B-LOC
+सॅफ़ॅई I-LOC
+परिवर्ती I-LOC
+तारा I-LOC
+
+बंगलौर B-ORG
+सिटी I-ORG
+जंक्शन I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+मार्टिना B-PER
+नवरातीलोवा I-PER
+( O
+1974-85-2003 O
+) O
+
+''निर्माण O
+'' O
+– O
+यश B-PER
+चोपड़ा I-PER
+
+पुनर्प्रेषित O
+बम्बलेश्वरी B-LOC
+देवी I-LOC
+मंदिर I-LOC
+
+' O
+'' O
+' O
+'' O
+ऑस्ट्रेलिया B-LOC
+
+' O
+'' O
+रोजर B-PER
+फ़ेडरर I-PER
+'' O
+' O
+
+परवीन B-PER
+बॉबी I-PER
+- O
+सपना O
+
+बिशान O
+सिंगापुर B-LOC
+के O
+उतत्र O
+में O
+स्थित O
+एक O
+स्थान O
+है O
+। O
+
+बाग B-LOC
+की I-LOC
+गुफाएँ I-LOC
+
+अरुणाचल B-LOC
+प्रदेश I-LOC
+( O
+2 O
+) O
+=== O
+
+पार्श्वनाथ B-ORG
+अभियांत्रिकी I-ORG
+कौलेज I-ORG
+
+हावड़ा B-ORG
+जंक्शन I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+द्वारका B-ORG
+सैक्टर I-ORG
+११ I-ORG
+
+बंगलौर B-ORG
+सिटी I-ORG
+जंक्शन I-ORG
+रेलवे I-ORG
+स्टेशन I-ORG
+
+अमिताभ B-PER
+बच्चन I-PER
+, O
+जितेन्द्र B-PER
+, O
+हेमा B-PER
+मालिनी I-PER
+
+भारतीय B-ORG
+धातुकर्म I-ORG
+का I-ORG
+इतिहास I-ORG
+
+उन्नत B-ORG
+विज्ञान I-ORG
+के I-ORG
+पालीटेक्निक I-ORG
+संस्थान I-ORG
+
+उत्तर B-LOC
+कन्नड़ I-LOC
+ज़िला I-LOC
+
+वाल्मीकि B-LOC
+राष्ट्रीय I-LOC
+उद्यान I-LOC
+
+तुषार B-PER
+कपूर I-PER
+- O
+रमाकांत। O
+
+रोहतास B-LOC
+, O
+बिहार B-LOC
+का O
+एक O
+प्रखण्ड। O
+
+' O
+'' O
+हिमाचल B-LOC
+प्रदेश I-LOC
+'' O
+' O
+
+सजन B-ORG
+घर I-ORG
+जाना I-ORG
+है I-ORG
+
+अनुप्रेषित O
+टाइम B-ORG
+( I-ORG
+अंग्रेज़ी I-ORG
+पत्रिका I-ORG
+) I-ORG
+
+आई B-ORG
+एन I-ORG
+ए I-ORG
+कालोनी I-ORG
+
+अनुप्रेषित O
+ऐन्डीज़ B-LOC
+पर्वत I-LOC
+शृंखला I-LOC
+
+पुनर्प्रेषित O
+जानकारी B-ORG
+की I-ORG
+इकाई I-ORG
+
+अनुप्रेषित O
+सी B-PER
+वी I-PER
+रामन I-PER
+पिल्लै I-PER
+
+=== O
+सूरत B-LOC
+में O
+लूट O
+=== O
+
+वैद्यनाथ B-ORG
+मन्दिर I-ORG
+, I-ORG
+देवघर I-ORG
+
+अनुप्रेषित O
+पी॰ B-PER
+वी॰ I-PER
+रंगा I-PER
+राव I-PER
+
+चम्पा B-ORG
+राज्य O
+का O
+एक O
+क्षेत्र। O
+
+पल O
+प्रतिपल O
+, O
+( O
+पंचकुला B-LOC
+, O
+हरियाणा B-LOC
+) O
+, O
+संपादक O
+- O
+देश O
+निर्मोही O
+
+भारतीय B-ORG
+प्रौद्योगिकी I-ORG
+संस्थान I-ORG
+
+केन्द्रीय B-ORG
+तिब्बती I-ORG
+अध्ययन I-ORG
+विश्वविद्यालय I-ORG
+
+कादर B-PER
+ख़ान I-PER
+- O
+डॉक्टर O
+
+इतना B-ORG
+करो I-ORG
+ना I-ORG
+मुझे I-ORG
+प्यार I-ORG
+
+कनाडा B-LOC
+- O
+5.5 O
+इंच O
+, O
+
+माखनलाल B-ORG
+चतुर्वेदी I-ORG
+राष्ट्रीय I-ORG
+पत्रकारिता I-ORG
+एवं I-ORG
+संचार I-ORG
+विश्वविद्यालय I-ORG
+, O
+भोपाल B-LOC
+
+महेश B-PER
+भूपति I-PER
+/ O
+लिएंडर B-PER
+पेस I-PER
+
+कुर्अतुल B-PER
+ऐन I-PER
+हैदर I-PER
+
+एनस्टेसिया B-PER
+मिस्कीना I-PER
+ने O
+एलीना B-PER
+देमेनतीवा I-PER
+को O
+7–5 O
+, O
+6–0 O
+से O
+हराया। O
+
+** O
+जकार्ता B-LOC
+( O
+दूतावास O
+) O
+
+हम्पी B-LOC
+( O
+किष्किन्धा B-ORG
+) O
+==== O
+
