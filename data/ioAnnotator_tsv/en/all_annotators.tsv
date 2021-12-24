@@ -1,0 +1,663 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Temperatures	O	O	O
+in	O	O	O
+Lytton	LOC	LOC	LOC
+,	O	O	O
+British	LOC	LOC	LOC
+Columbia	LOC	LOC	LOC
+soared	O	O	O
+to	O	O	O
+47.9C	O	O	O
+(	O	O	O
+118.2F	O	O	O
+)	O	O	O
+on	O	O	O
+Monday	O	O	O
+up	O	O	O
+from	O	O	O
+46.6C	O	O	O
+116F	O	O	O
+Sunday	O	O	O
+.	O	O	O
+
+
+
+
+
+
+
+
+
+Gareth	PER	PER	PER
+Southgate	PER	PER	PER
+'s	O	O	O
+side	O	O	O
+battled	O	O	O
+hard	O	O	O
+to	O	O	O
+earn	O	O	O
+the	O	O	O
+statement	O	O	O
+victory	O	O	O
+that	O	O	O
+has	O	O	O
+so	O	O	O
+often	O	O	O
+eluded	O	O	O
+England	LOC	LOC	LOC
+,	O	O	O
+and	O	O	O
+it	O	O	O
+was	O	O	O
+their	O	O	O
+talisman	O	O	O
+of	O	O	O
+this	O	O	O
+tournament	O	O	O
+Raheem	PER	PER	PER
+Sterling	PER	PER	PER
+who	O	O	O
+made	O	O	O
+decisive	O	O	O
+breakthrough	O	O	O
+.	O	O	O
+
+
+
+
+
+
+
+
+Human	O	O	O
+Rights	O	O	O
+Watch	O	O	O
+found	O	O	O
+such	O	O	O
+students	O	O	O
+feel	O	O	O
+surveilled	O	O	O
+in	O	O	O
+Australia	LOC	LOC	LOC
+,	O	O	O
+leading	O	O	O
+many	O	O	O
+to	O	O	O
+self-censor	O	O	O
+classrooms	O	O	O
+.	O	O	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Police	O	O	O
+are	O	O	O
+now	O	O	O
+monitoring	O	O	O
+the	O	O	O
+four-star	O	O	O
+Palma	ORG	ORG	ORG
+Bellver	ORG	ORG	ORG
+hotel	ORG	ORG	ORG
+with	O	O	O
+24-hour	O	O	O
+surveillance	O	O	O
+.	O	O	O
+
+
+Infections	O	O	O
+linked	O	O	O
+to	O	O	O
+the	O	O	O
+Majorca	LOC	LOC	LOC
+outbreak	O	O	O
+account	O	O	O
+for	O	O	O
+about	O	O	O
+5	O	O	O
+%	O	O	O
+of	O	O	O
+new	O	O	O
+cases	O	O	O
+recorded	O	O	O
+in	O	O	O
+past	O	O	O
+week	O	O	O
+,	O	O	O
+head	O	O	O
+Spain	LOC	LOC	LOC
+'s	O	O	O
+public	O	O	O
+health	O	O	O
+body	O	O	O
+said	O	O	O
+on	O	O	O
+Tuesday	O	O	O
+.	O	O	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tears	O	O	O
+filled	O	O	O
+her	O	O	O
+eyes	O	O	O
+as	O	O	O
+Williams	PER	PER	PER
+thanked	O	O	O
+the	O	O	O
+crowd	O	O	O
+,	O	O	O
+who	O	O	O
+had	O	O	O
+been	O	O	O
+trying	O	O	O
+to	O	O	O
+encourage	O	O	O
+for	O	O	O
+their	O	O	O
+support	O	O	O
+.	O	O	O
+
+
+
+
+
+South	LOC	LOC	LOC
+Africa	LOC	LOC	LOC
+'s	O	O	O
+former	O	O	O
+President	O	O	O
+Jacob	PER	PER	PER
+Zuma	PER	PER	PER
+has	O	O	O
+been	O	O	O
+sentenced	O	O	O
+to	O	O	O
+15	O	O	O
+months	O	O	O
+in	O	O	O
+jail	O	O	O
+by	O	O	O
+the	O	O	O
+country	O	O	O
+highest	O	O	O
+court	O	O	O
+.	O	O	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

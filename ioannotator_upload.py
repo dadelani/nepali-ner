@@ -4,6 +4,7 @@ import requests
 import csv
 import xmltodict
 import pandas as pd
+from nltk.tokenize import word_tokenize
 
 # get your API key https://app.ioannotator.com/api
 params = {'apikey': ''}
@@ -39,6 +40,8 @@ def upload_language_document(dir_name, lang, dataset_ids, tokenized=False):
 
     for d_id in dataset_ids:
         for s, row in enumerate(sentences):
+            words = word_tokenize(row)
+            row = ' '.join(words)
             print(row)
             data = {
                 'dataset': d_id,
@@ -68,19 +71,19 @@ def add_labels(labels_dict, lang, dataset_ids):
                 "key": shortcut
             }
 
-            r = requests.post("https://api.ioannotator.com/label?apikey="+params['api_key'], json=payload)
+            r = requests.post("https://api.ioannotator.com/label?apikey="+params['apikey'], json=payload)
             print(d_id, r)
 
 
 
 
 if __name__ == '__main__':
-    dir_name = 'data/unlabeled/nepali_ner_stemmed_corpus_final.txt'
+    dir_name = 'data/unlabeled/eng.txt'
     label_dict = get_label_dict()
-    # 1. yor
-    #upload_language_document(dir_name, 'eng', ['5745796318232576'])
-    #add_labels(label_dict, 'eng', ['5736615892746240'])
-    #upload_language_document(dir_name, 'nep', ['5736615892746240'], tokenized=True)
+    upload_language_document(dir_name, 'eng', ['5703869787013120'])
+    add_labels(label_dict, 'eng', ['5703869787013120'])
 
+    dir_name = 'data/unlabeled/nepali_ner_stemmed_corpus_final.txt'
+    #upload_language_document(dir_name, 'nep', ['5736615892746240'], tokenized=True)
     #add_labels(label_dict, 'eng', ['5718945860419584', '5151827171475456', '5734642221056000'])
     #upload_language_document(dir_name, 'nep', ['5718945860419584', '5151827171475456', '5734642221056000'], tokenized=True)
