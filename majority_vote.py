@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 from collections import defaultdict, Counter
+from seqeval.metrics import f1_score
 
 import re
 #method to normalize character level missmatch such as ጸሀይ and ፀሐይ
@@ -150,10 +151,33 @@ def extract_sentences_quality(filename, sep='\t', num_annotators=3):
 
     return sentences
 
+def compute_inter_agreement(dir_name, lang):
+    sentences = extract_sentences_quality(dir_name+lang+'.tsv', sep='\t', num_annotators=3)
+
+    Label1, Label2, Label3 = [], [], []
+    for sent in sentences:
+        labels1 = list(zip(*sent))[1]
+        labels1 = take_to_bio_format(labels1)
+        Label1.append(labels1)
+
+        labels2 = list(zip(*sent))[2]
+        labels2 = take_to_bio_format(labels2)
+        Label2.append(labels2)
+
+        labels3 = list(zip(*sent))[3]
+        labels3 = take_to_bio_format(labels3)
+        Label3.append(labels3)
+
+    print('Inter-agreement (G1, G2): ', f1_score(Label1, Label2))
+    print('Inter-agreement (G1, G3): ', f1_score(Label1, Label3))
+    print('Inter-agreement (G2, G3): ', f1_score(Label2, Label3))
+
+
 
 
 
 if __name__ == '__main__':
     majority_vote('data/ioAnnotator_tsv/ne/ne.tsv', 'ne')
+    compute_inter_agreement('data/ioAnnotator_tsv/ne/', 'ne')
 
 
