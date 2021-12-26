@@ -21,11 +21,11 @@ def find_tag(specific_token, dict_tags):
             return dict_tags[str_of_chars]
     return 'O'
 
-def export_all_annotators(output_path, all_annotators, reference_range=(1,101)):
+def export_all_annotators(output_path, all_annotators, lang, reference_range=(1,101)):
 
     annotator_names = all_annotators.keys()
 
-    output_file = output_path + 'all_annotators.tsv'
+    output_file = output_path +lang+ '.tsv'
     with open(output_file, 'w') as f:
         for i in range(reference_range[0], reference_range[1]):
             words_ann_tags = defaultdict(lambda: defaultdict(str))
@@ -34,13 +34,20 @@ def export_all_annotators(output_path, all_annotators, reference_range=(1,101)):
                     for word, tag in all_annotators[ann_name][i]:
                         words_ann_tags[word][ann_idx] = tag
 
+
             for word in words_ann_tags:
-                f.write(word + '\t' + words_ann_tags[word][0] + '\t' + words_ann_tags[word][1] + '\t' + words_ann_tags[word][2] + '\n')
+                ne1 = words_ann_tags[word][0]
+                ne2 = words_ann_tags[word][1]
+                ne3 = words_ann_tags[word][2]
+                if len(ne1.strip()) < 1: ne1 = 'O'
+                if len(ne2.strip()) < 1: ne2 = 'O'
+                if len(ne3.strip()) < 1: ne3 = 'O'
+                f.write(word + '\t' +  ne1+ '\t' + ne2 + '\t' + ne3 + '\n')
             f.write('\n')
 
 
 
-def extract_from_json_(dict_lang, data_path, lang):
+def extract_from_json_(dict_lang, data_path, lang, no_examp=510):
 
     list_data_ids = os.listdir(data_path)
     all_annotators = {}
@@ -71,8 +78,8 @@ def extract_from_json_(dict_lang, data_path, lang):
             start_offsets = sorted(start_end_offset.keys())
 
             tokens = content.split()
-            print(start_end_offset)
-            print(tokens)
+            #print(start_end_offset)
+            #print(tokens)
             beg_idx = 0
             annotated_words = []
             for tok in tokens:
@@ -81,7 +88,7 @@ def extract_from_json_(dict_lang, data_path, lang):
                 annotated_words.append((tok, tag))
                 beg_idx += len(tok)+1
 
-            print(content)
+            #print(content)
             per_ann_sentences[reference] = annotated_words
             '''
             beg_content_indexes = sorted(dict_token_len.keys())
@@ -98,27 +105,21 @@ def extract_from_json_(dict_lang, data_path, lang):
         all_annotators[dict_lang[lang][d_id]] = per_ann_sentences
         output_path = 'data/ioAnnotator_tsv/' + lang + '/'
         create_dir(output_path)
-        print(all_annotators)
-        export_all_annotators(output_path, all_annotators, reference_range=(1,511))
+        #print(all_annotators)
+        export_all_annotators(output_path, all_annotators, lang, reference_range=(1,no_examp+1))
     #print(all_annotators)
 
     return all_annotators
 
 
-def extract_sentences(dict_lang):
-    # twi, wol, tsn
-    for lang in ['en']:
-
-        all_annotators = extract_from_json_(dict_lang, 'data/annotation_export/'+lang+'/', lang)
-        #output_path = 'data/toVerify_100/' + lang + '/'
-        #create_dir(output_path)
-        #export_annotator_document(output_path, all_annotators)
+def extract_sentences(dict_lang, lang='ne'):
+    all_annotators = extract_from_json_(dict_lang, 'data/annotation_export/'+lang+'/', lang)
 
 
 
 
 if __name__ == "__main__":
-
+    '''
     dataset_id = '5703869787013120'
 
     dict_lang = defaultdict(lambda: defaultdict(str))
@@ -127,5 +128,12 @@ if __name__ == "__main__":
     dict_lang['en'][dataset_id]='David'
     dict_lang['en']['5703869787013121'] = 'Emma'
     dict_lang['en']['5703869787013122'] = 'Noah'
+    '''
+    dict_lang = defaultdict(lambda: defaultdict(str))
+    # for sent in pos_lines[1:]:
+    # d_id, lang, ann_name = sent.split('\t')
+    dict_lang['ne']['5718945860419584'] = 'Group1'
+    dict_lang['ne']['5151827171475456'] = 'Group2'
+    dict_lang['ne']['5734642221056000'] = 'Group3'
 
     extract_sentences(dict_lang)
